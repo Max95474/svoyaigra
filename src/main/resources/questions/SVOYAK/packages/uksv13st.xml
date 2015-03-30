@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>29562</Id>
+<ParentId>2988</ParentId>
+<Title>Молодежный чемпионат Украины по своей игре - 2013</Title>
+<Number/>
+<TextId>uksv13st</TextId>
+<QuestionsNum>140</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.txt</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-09-09</CreatedAt>
+<tour>
+<Id>34383</Id>
+<ParentId>29562</ParentId>
+<Title>Первый круг</Title>
+<Number>1</Number>
+<TextId>uksv13st.1</TextId>
+<QuestionsNum>28</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.1</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34384</Id>
+<ParentId>29562</ParentId>
+<Title>Второй круг</Title>
+<Number>2</Number>
+<TextId>uksv13st.2</TextId>
+<QuestionsNum>28</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.2</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34385</Id>
+<ParentId>29562</ParentId>
+<Title>Третий круг</Title>
+<Number>3</Number>
+<TextId>uksv13st.3</TextId>
+<QuestionsNum>16</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.3</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34386</Id>
+<ParentId>29562</ParentId>
+<Title>Четвертый круг</Title>
+<Number>4</Number>
+<TextId>uksv13st.4</TextId>
+<QuestionsNum>18</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.4</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34387</Id>
+<ParentId>29562</ParentId>
+<Title>Первый третьфинал</Title>
+<Number>5</Number>
+<TextId>uksv13st.5</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.5</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34388</Id>
+<ParentId>29562</ParentId>
+<Title>Второй третьфинал</Title>
+<Number>6</Number>
+<TextId>uksv13st.6</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.6</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34389</Id>
+<ParentId>29562</ParentId>
+<Title>Третий третьфинал</Title>
+<Number>7</Number>
+<TextId>uksv13st.7</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.7</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34390</Id>
+<ParentId>29562</ParentId>
+<Title>Бой за 7-9 места</Title>
+<Number>8</Number>
+<TextId>uksv13st.8</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.8</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34391</Id>
+<ParentId>29562</ParentId>
+<Title>Бой за 4-6 места</Title>
+<Number>9</Number>
+<TextId>uksv13st.9</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.9</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+<tour>
+<Id>34392</Id>
+<ParentId>29562</ParentId>
+<Title>Финал</Title>
+<Number>10</Number>
+<TextId>uksv13st.10</TextId>
+<QuestionsNum>10</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.10</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:39</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-03</CreatedAt>
+</tour>
+</tournament>

@@ -1,0 +1,4218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>2997</Id>
+<ParentId>2988</ParentId>
+<Title>Большой Турнир по Своей Игре (Одесса, 29.04-01.05.2001)</Title>
+<Number/>
+<TextId>odessv01</TextId>
+<QuestionsNum>127</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>odessv01.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-11-12 03:01:32</LastUpdated>
+<PlayedAt>2001-04-29</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-01-12</CreatedAt>
+<question>
+<QuestionId>548159</QuestionId>
+<ParentId>31897</ParentId>
+<Number>1</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-1</TextId>
+<Question>ТЕМА ВУЛКАНЫ
+   1. Именно этому греческому богу соответствовал римский Вулкан
+   2. ЭТОТ самый большой африканский вулканический массив представляет
+собой слившиеся вулканы Мавензи, Шира и Кибо
+   3. На ЭТОМ острове находится вулкан Хваннадальсхнукюр
+   4. ЕГО извержение привело к упадку крито-микенской культуры
+   5. Кратерный вал вулкана в заливе Наталии имеет 3 скалы-зубца и
+называется именно ТАК</Question>
+<Answer>   1. Гефест
+   2. Килиманджаро
+   3. Исландия
+   4. Санторина
+   5. Трезубец</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548160</QuestionId>
+<ParentId>31897</ParentId>
+<Number>2</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-2</TextId>
+<Question>ТЕМА Шерше ля фам
+   1. ОНА была нобелевской лауреаткой и основательницей Ордена
+Милосердия
+   2. ОНА живет в доме N46 по улице Далагатан в Стокгольме
+   3. Название темы стало популярным благодаря ЕГО &quot;Могиканам Парижа&quot;
+   4. Свое первое имя королева Виктория получила в честь ЭТОГО монарха
+   5. Еще Гаршин говорил, что потомки будут не в состоянии &quot;представить
+себе Феодосию Прокопьевну иначе, как изображена на ЕГО картине&quot;</Question>
+<Answer>   1. Мать Тереза
+   2. Астрид Линдгрен
+   3. Дюма-отец
+   4. Александра Первого
+   5. Сурикова (Морозова)</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548161</QuestionId>
+<ParentId>31897</ParentId>
+<Number>3</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-3</TextId>
+<Question>ТЕМА ПСЕВДОНИМЫ
+   1. Благодаря ЭТОМУ роману Диккенса появился псевдоним у Коткина
+   2. Именно под этим псевдонимом известен нам Фредерик Аустерлиц
+   3. ТАКОВЫ настоящие имена Марлен Дитрих
+   4. В миру ОН был Михаилом Триволисом
+   5. ОН написал автобиографию &quot;Жизнь и похождения российского Картуша&quot;
+в 1777 году</Question>
+<Answer>   1. Дэвид Копперфильд
+   2. Фред Астер
+   3. Мария и Магдалена
+   4. Максим Грек
+   5. Ванька Каин</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548162</QuestionId>
+<ParentId>31897</ParentId>
+<Number>4</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-4</TextId>
+<Question>ТЕМА ЛИНГВИСТИКА
+   1. Для записей на этом языке используется хирагана
+   2. ЭТОТ язык представляет собой совокупность приемов иносказания
+   3. Эти два слова являются общепринятыми синонимами слова
+&quot;лингвистика&quot;
+   4. В лингвистике ИМ противопоставляются дисфемизмы
+   5. ЭТО общество стало основой организации русского формализма и было
+основано в 1916 году</Question>
+<Answer>   1. Японском
+   2. Эзопов язык
+   3. Языкознание и языковедение
+   4. Эвфемизмы
+   5. ОПОЯЗ</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548163</QuestionId>
+<ParentId>31897</ParentId>
+<Number>5</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-5</TextId>
+<Question>ТЕМА Алла
+   1. Передача, придуманная ею выходит каждый год в один и тот же день,
+а именно.
+   2. Огромную роль в ее жизни сыграл министр культуры одной из стран
+дальнего зарубежья
+   3. Этот период в жизни певицы в шутку называли так же, как и один из
+периодов в творчестве великого поэта
+   4. Первый фильм, в котором снялась дочь певицы, называется &quot;Чучело&quot;,
+а снял его.
+   5. В фильме &quot;Ирония судьбы или С легким паром&quot; Алла Пугачева, если не
+считать песни &quot;Вагончик&quot;, поет песни на стихи этих двух русских поэтесс</Question>
+<Answer>   1. 7 января. Рождественские встречи
+   2. Раймонд Паулс
+   3. Болдинская осень
+   4. Ролан Быков
+   5. Ахмадулина и Цветаева</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548164</QuestionId>
+<ParentId>31897</ParentId>
+<Number>6</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-6</TextId>
+<Question>ТЕМА ВОЛНОВАЯ
+   1. Именно она не по своей воле отправилась &quot;в набежавшую волну&quot;
+   2. Появление именно этих &quot;домашних животных&quot; говорит о том, на море
+происходит процесс, в теории волн именуемый &quot;опрокидыванием нелинейных
+волн&quot;
+   3. Так называют волну или пакет волн, порожденных подвижками земной
+коры.
+   4. Этот ученый разработал волновую механику, а основное ее уравнение
+носит его имя
+   5. Несмотря на все старания, все попытки обнаружить эту разновидность
+волн, групповая скорость которых, согласно некоторым оценкам, может
+превышать скорость света в вакууме, и несмотря на огромные затраты на их
+поиски, пока остаются неудачными.</Question>
+<Answer>   1. персидская княжна
+   2. Барашки
+   3. Цунами
+   4. Эрвин Шредингер
+   5. Гравитационные волны</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548165</QuestionId>
+<ParentId>31897</ParentId>
+<Number>7</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-7</TextId>
+<Question>ТЕМА ВАННЫ
+   1. Свое наиболее известное открытие этот ученый сделал, садясь в
+ванну.
+   2. Этот революционер страдал кожной болезнью, поэтому он ежедневно
+проводил несколько часов в ванне из травяного отвара. В ванне же он был
+и убит.
+   3. Такие ванны частенько принимают слоны, чтобы избавиться от
+паразитов.
+   4. Этот герой троянской эпопеи был убит в ванне после возвращения с
+войны.
+   5. Этот знаменитый интриган и бретер был епископом в Ванне.</Question>
+<Answer>   1. Архимед
+   2. Марат
+   3. Пылевые ванны
+   4. Агамемнон
+   5. Шевалье д'Эрбле, попросту - Арамис</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548166</QuestionId>
+<ParentId>31897</ParentId>
+<Number>8</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-8</TextId>
+<Question>ТЕМА ЛИТЕРАТУРНЫЕ ОСТРОВА
+   1. Рядом с ней лежит остров Блефуску.
+   2. Научная станция по изучению морских млекопитающих описана именно в
+этой повести А. Кларка.
+   3. Ни один другой остров ни дал миру столько великих писателей,
+сколько дал этот.
+   4. Сейчас этот остров в Вест-Индии известен только благодаря морским
+романам.
+   5. Свой остров Робинзон Крузо назвал...</Question>
+<Answer>   1. Рядом с Лилипутией
+   2. &quot;Остров дельфинов&quot;
+   3. Британия
+   4. Тортуга
+   5. Островом Отчаяния</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548167</QuestionId>
+<ParentId>31897</ParentId>
+<Number>9</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-9</TextId>
+<Question>ТЕМА ЗВЕЗДЫ
+   1. Этот цветок -- &quot;звездный&quot; уже по своему названию
+   2. Одна из гипотез объясняет это явление тем, что Венера и Юпитер
+сблизились на неразличимое невооруженным глазом расстояние.
+   3. Рассказ &quot;Звездная сыпь&quot; М. Булгаков включил именно в этот цикл
+   4. Они - самые близкие родственники морских звезд
+   5. Главным конструктором мощных советских авиадвигателей воздушного
+охлаждения, за расположение цилиндров названных звездой, был именно он.</Question>
+<Answer>   1. Астра
+   2. Вифлеемская звезда
+   3. Записки юного врача
+   4. Офиуры
+   5. Швецов</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548168</QuestionId>
+<ParentId>31897</ParentId>
+<Number>10</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-10</TextId>
+<Question>ТЕМА ОГОНЬ И ВОДА
+   1. Третьими в этой известной тройке являются именно они.
+   2. 25-я глава 1-й части романа &quot;Дета капитана Гранта&quot; называется
+&quot;Между огнем и водой&quot;. Дерево, на котором герои спаслись от наводнения,
+загорелось, но спрыгнуть в воду они не могли именно по этой причине.
+   3. Старинный зажигательный снаряд, который невозможно загасить водой
+называется...
+   4. Зажгли воду лисицы. А кто ее потушил?
+   5. Жюль Верн говорил, что эта новая стихия - объединение 2 древних
+стихий: огня и воды.</Question>
+<Answer>   1. Медные трубы
+   2. Там их ждали кайманы
+   3. Греческий огонь
+   4. &quot;А бабочка прилетела, крылышками помахала, стало море потухать - и
+потухло&quot;
+   5. Пар (имелся в виду пар в котлах паровых машин)</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548169</QuestionId>
+<ParentId>31897</ParentId>
+<Number>11</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-11</TextId>
+<Question>ТЕМА СКАЗОЧНЫЙ ТРАНСПОРТ
+   1. С его помощью советская школьница за несколько минут совершила
+путешествие на Северный полюс и обратно.
+   2. С ее помощью Мюнхгаузен попал из Индийского океана в Каспийское
+море.
+   3. На этом летательном средстве один из русских витязей совершил
+3-суточный полет по разным ландшафтам, в итоге вернувшись в исходную
+точку.
+   4. Это средство передвижения задолго до описываемых событий перестало
+двигаться и по земле, но это не помешало ему совершить воздушное
+путешествие на сотни миль, хотя и против воли владельцев.
+   5. Этот летательный аппарат управлялся огромным магнитом в форме
+ткацкого челнока</Question>
+<Answer>   1. Цветик-семицветик
+   2. В брюхе огромной рыбы
+   3. Руслан летал, уцепившись за бороду волшебника Черномора
+   4. Фургон без колес, в котором жила семья Элли Смит
+   5. Лапута</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548170</QuestionId>
+<ParentId>31897</ParentId>
+<Number>12</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-12</TextId>
+<Question>ТЕМА Красное
+   1. Указ об учреждении Рабоче-крестьянской красной армии был подписан
+именно в этот день этого года
+   2. Это пиво рекламировали при помощи образа поручика Ржевского.
+   3. Детектив &quot;Allered&quot; - &quot;Все красное&quot; написала именно она?
+   4. Именно так в градостроительстве называется условная линия,
+отделяющая проезжую часть от застройки
+   5. Именно так назывался журнал архивных органов РСФСР и СССР в период
+с 1922 по 1941 гг.</Question>
+<Answer>   1. 23 февраля 1918 года
+   2. Red Bull's
+   3. И. Хмелевская
+   4. Красная линия
+   5. Красный архив</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548171</QuestionId>
+<ParentId>31897</ParentId>
+<Number>13</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-13</TextId>
+<Question>ТЕМА ЖЕЛЕЗНЫЕ
+   1. Он наступил после эпохи бронзы.
+   2. Они бывают железные, каменные и железно-каменные.
+   3. Его перу принадлежит &quot;Роза для Экклезиаста&quot;
+   4. Он, наряду с Мэрион Джонс был признан спортсменом года
+   5. Лорд Гринфилд, лорд Веллингтон, а также несколько английских
+броненосцев и линкоров носили это имя.</Question>
+<Answer>   1. Железный век
+   2. Метеориты
+   3. Роджер Желязны
+   4. Ян Железный
+   5. Железный герцог (Iron Duke)</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548172</QuestionId>
+<ParentId>31897</ParentId>
+<Number>14</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-14</TextId>
+<Question>ТЕМА ГОРЫ
+   1. Его высота составляет 29.029 футов
+   2. Эмблемой горнострелковых войск вермахта был именно он
+   3. Эта территория - равнина, тем не менее на географической карте она
+показывается темно-коричневым цветом, что не удивительно - она лежит на
+высоте около 5000 метров.
+   4. По этим горным хребтам проходит граница Европы и Азии.
+   5. Этот вулкан является самой высокой горой солнечной системы(24 км).</Question>
+<Answer>   1. Эверест
+   2. Эдельвейс
+   3. Тибет
+   4. Урал и Кавказ
+   5. Олимп</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548173</QuestionId>
+<ParentId>31897</ParentId>
+<Number>15</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-15</TextId>
+<Question>ТЕМА АЛЕКСАНДРЫ
+   1. Несколько городов - как основанных, так и завоеванных - он назвал
+своим именем.
+   2. Он стал князем италийским в 1799 году.
+   3. В 1249 году он совершил путешествие в Каракорум и Сарай
+   4. Ее неоднократно обвиняли в связях с Германией, что в некоторой
+степени обусловило трагедию ее семьи.
+   5. Александр Михайлович на протяжении 34 месяцев был начальником
+Генерального Штаба, из них 22 он провел на фронтах в качестве
+представителя Ставки Верховного Главнокомандования.</Question>
+<Answer>   1. Александр Македонский
+   2. Суворов
+   3. Александр Невский
+   4. Императрица Александра Федоровна, жена Николая II
+   5. А.М. Василевский</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548174</QuestionId>
+<ParentId>31897</ParentId>
+<Number>16</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-16</TextId>
+<Question>ТЕМА ПЛАВАЛИ, ЗНАЕМ
+   1. На картах маршруты кораблей и самолетов являются не прямыми
+линиями, а ими
+   2. Этим словом, сейчас больше ассоциирующимся с политикой, нежели с
+морем, называют на морском жаргоне громкоговорящую связь на судне.
+   3. Советская пропаганда кричала, что Суэцкий канал бездействует из-за
+&quot;израильских агрессоров&quot;. На самом же деле он сейчас почти не
+используется именно по этой причине.
+   4. Именно в этом цикле действовал капитан по фамилии Плавали-Знаем
+   5. Около острова Лабрадор встречаются теплое течение Гольфстрим и
+холодное Лабрадорское течение. Моряки это место очень не любят - как раз
+из-за встречи этих течений, но, естественно, не из-за температуры воды,
+а по этой причине.</Question>
+<Answer>   1. Дугами
+   2. Спикер
+   3. Мелок и тесен он для современных-то судов
+   4. Мореплавания Солнышкина
+   5. Встреча теплого и холодного течений приводит к образованию густых
+туманов</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548175</QuestionId>
+<ParentId>31897</ParentId>
+<Number>17</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-17</TextId>
+<Question>ТЕМА РАТНОЕ ДЕЛО I
+   1. Гражданский человек скажет &quot;холм&quot; или &quot;горка&quot;. А что скажет
+военный?
+   2. Его не могла собрать вся королевская конница и вся королевская
+рать
+   3. Именно это отличало финикийский боевой корабль от торгового судна
+   4. Преследование противника после этого сражения продолжалось до реки
+Красная Меча.
+   5. Действия конницы на военных картах обозначается именно такой
+стрелкой.</Question>
+<Answer>   1. Высота
+   2. Шалтая-Болтая
+   3. Таран
+   4. После Куликовской битвы
+   5. С одним рогом</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548176</QuestionId>
+<ParentId>31897</ParentId>
+<Number>18</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-18</TextId>
+<Question>ТЕМА РЕКИ
+   1. Этот континент полностью лишен рек. Сейчас.
+   2. Эта великая река протекает во Пскове
+   3. Эту крохотную, нередко пересыхающую в сухой сезон речку знают
+только потому, что в Палестине она - чуть ли не единственная.
+   4. Желтая река по-китайски Хуанхэ, а Хуанхай означает именно это.
+   5. В XX веке эта река получила мрачное прозвище &quot;сточная канава
+Европы&quot;.</Question>
+<Answer>   1. Антарктида
+   2. Великая
+   3. Иордан
+   4. желтое море)
+   5. Рейн</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548177</QuestionId>
+<ParentId>31897</ParentId>
+<Number>19</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-19</TextId>
+<Question>ТЕМА Медицина
+   1. Всемирный день борьбы с этой болезнью. 2 декабря
+   2. Название этой болезни переводится как &quot;Петушиный крик&quot;
+   3. Именно это означает медицинский эвфемизм &quot;новообразование&quot;
+   4. Фильм о борьбе с лихорадкой &quot;Эбола&quot; называется &quot;Эпидемия&quot;, а
+главную роль в нем сыграл именно он
+   5. Последняя Нобелевская премия в области медицины присвоена за
+успешную борьбу с этими двумя болезнями</Question>
+<Answer>   1. СПИД
+   2. коклюш
+   3. Опухоль
+   4. Дастин Хоффман
+   5. шизофрения и болезнь Паркинсона</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548178</QuestionId>
+<ParentId>31897</ParentId>
+<Number>20</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-20</TextId>
+<Question>ТЕМА &quot;АИ&quot;
+   1. Эта птица часто сопровождает вывеску &quot;Товары для новорожденных&quot;
+   2. Так звали героинь братьев Стругацких и Пушкина и даже жену
+президента
+   3. Именно это принес людям, согласно мифологии индейцев майя
+Кетцалькоатль
+   4. &quot;Я послал тебе черную розу в бокале, золотого, как небо, аи...&quot;
+Эти строки принадлежат перу...
+   5. Настойка из корней этого растения помогает от облысения</Question>
+<Answer>   1. Аист.
+   2. НАИна
+   3. Маис
+   4. А. Блока
+   5. АИр</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548179</QuestionId>
+<ParentId>31897</ParentId>
+<Number>21</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-21</TextId>
+<Question>ТЕМА ДО Средних веков
+   1. Именно ЕМУ была посвящена драма Руссо, опера Керубини,
+стихотворение Шлегеля и комедия Шоу
+   2. К началу 2-й Пунической войны легион состоял из 30 ИХ, сведенных в
+10 когорт
+   3. В рамках ЭТОГО направления евдонизма веселье становилось мотивом и
+целью поступков
+   4. ЭТИМ термином в древнеримском законодательстве называли раба,
+получившего свободу
+   5. ЭТО техническое изобретение в виде перепускного сифона впервые
+использовал Платон в изобретенном им будильнике</Question>
+<Answer>   1. Пигмалиону
+   2. Манипул
+   3. Гедонизм
+   4. Либертин
+   5. Реле</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548180</QuestionId>
+<ParentId>31897</ParentId>
+<Number>22</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-22</TextId>
+<Question>ТЕМА Античность -1
+   1. О ней тогда говорили: &quot;десятая муза&quot;, а жила она на ЭТОМ острове
+   2. В верхнем течении ОН назывался Данувий
+   3. ЭТО был &quot;общий язык&quot; всех греков, сформировавшийся в период
+эллинизма
+   4. Эта бактрийская царевна в 327 г. до н. э. стала женой Александра
+Македонского
+   5. Если Меотида - Азовское море, то Пропонтида -?</Question>
+<Answer>   1. Лесбос
+   2. Дунай
+   3. Койне
+   4. Роксана
+   5. Мраморное</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548181</QuestionId>
+<ParentId>31897</ParentId>
+<Number>23</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-23</TextId>
+<Question>ТЕМА Наука о жизни
+   1. В названии рыбы, по бокам хвоста которой расположены острые шипы
+упоминается ЭТА медицинская профессия
+   2. У ЭТОГО веслоного рачка 1 науплиальный глазок, и если вы любите
+мифы, то знаете, что он называется...
+   3. Эти организмы, образованные симбиозом изучает лихенология
+   4. ЭТО - самая крупная птица отряда воробьинообразных
+   5. Среди кошачьих только у НЕГО невтяжные когти</Question>
+<Answer>   1. Хирург
+   2. Циклоп
+   3. Лишайники
+   4. Ворон
+   5. Гепард</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548182</QuestionId>
+<ParentId>31897</ParentId>
+<Number>24</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-24</TextId>
+<Question>ТЕМА ЯДЫ
+   1. Антидот - это то же, что и...
+   2. Производные ЭТОГО яда называются миорелаксантами
+   3. Разбавленный в 20000 раз вазелином, ЭтОТ яд военной химии лечит
+чешуйчатый лишай
+   4. Утверждают, что химик Шееле пал ЕЕ жертвой
+   5. Для нахождения следов ЭТОГО используют пробу Марша</Question>
+<Answer>   1. Противоядие
+   2. Кураре
+   3. Иприт
+   4. Синильной кислоты
+   5. Мышьяка</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548183</QuestionId>
+<ParentId>31897</ParentId>
+<Number>25</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-25</TextId>
+<Question>ТЕМА Мифология-1
+   1. ЭТО - главный персонаж праздника летнего солнцестояния у восточных
+славян
+   2. Благодаря ЭТОЙ богине получила свое название столица Бенгалии
+   3. В царском списке Третьей династии Ура продолжительность ЕГО
+правления 126 лет
+   4. В древнем Египте бог плодородия почитался в образе ЭТОГО животного
+   5. В ИХ мифологии было божество Аплу, соответствующее Аполлону</Question>
+<Answer>   1. Купала
+   2. Кали
+   3. Гильгамеш
+   4. Быка
+   5. Этрусков</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548184</QuestionId>
+<ParentId>31897</ParentId>
+<Number>26</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-26</TextId>
+<Question>ТЕМА Философия
+   1. ЕГО последователи называли себя картезианцами
+   2. Лейбниц называл ИХ: &quot;Истинными атомами природы&quot; и &quot;элементами
+вещей&quot;
+   3. Основатель ЭТОГО религиозно-философского учения, будучи родом из
+Вавилонии, считал своими предтечами Зороастра, Будду и Христа
+   4. С 1759 года ОН преподавал около 10 лет гуманитарные дисциплины в
+Харьковском УНИВЕРСИТЕТЕ
+   5. Знаете ли вы французские замки: Скажите как называется тот из них,
+в котором родился и умер Мишель Монтень?</Question>
+<Answer>   1. Декарта
+   2. Монады
+   3. Манихейство
+   4. Григорий Сковорода
+   5. Монтень</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548185</QuestionId>
+<ParentId>31897</ParentId>
+<Number>27</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-27</TextId>
+<Question>ТЕМА ХОККЕЙ
+   1. ЕГО первоначальная стоимость - 48,67 доллара
+   2. В Канаде ЭТОТ тренер при жизни получил прозвище &quot;Мистер Хоккей&quot;
+   3. ОН был капитаном сборной СССР по футболу и хоккею
+   4. ТАМ находится зал хоккейной славы
+   5. В 1921 году в течение чемпионата Европы было проведено СТОЛЬКО
+матчей</Question>
+<Answer>   1. Кубок Стэнли
+   2. Тарасов
+   3. Бобров
+   4. В Торонто
+   5. 10</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548186</QuestionId>
+<ParentId>31897</ParentId>
+<Number>28</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-28</TextId>
+<Question>ТЕМА АНГЕЛ
+   1. ТАК называется самый высокий водопад
+   2. ЭТИХ людей в Франции в шутку называют ангелы-хранители
+   3. В ЭТОЙ империи правили Ангелы
+   4. ЭТО был любимый фильм Гитлера
+   5. Всемирную славу ЕМУ принес роман &quot;Оглянись на дом свой, ангел&quot;</Question>
+<Answer>   1. Анхель
+   2. Полицейских
+   3. Византийской
+   4. Голубой ангел
+   5. Томасу Вулфу</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548187</QuestionId>
+<ParentId>31897</ParentId>
+<Number>29</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-29</TextId>
+<Question>ТЕМА ПОБЕДА
+   1. В каждом ордене &quot;Победа&quot; ИХ было по 170
+   2. У древних греков победу символизировала именно ОНА
+   3. Именно так называется сейчас город, в котором выпускался
+автомобиль &quot;Победа&quot;
+   4. ОН стал самым старым победителем в истории профессионального бокса
+в 1994 году
+   5. По преданию ОН был обезглавлен римлянами в 303 году н. э после
+пыток</Question>
+<Answer>   1. Бриллиантов
+   2. Ника
+   3. Нижний Новгород (Горький)
+   4. Формен
+   5. Георгий Победоносец</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548188</QuestionId>
+<ParentId>31897</ParentId>
+<Number>30</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-30</TextId>
+<Question>ТЕМА НОБЕЛЕВСКАЯ ПРЕМИЯ
+   1. ИМЕННО СТОЛЬКО Нобелевских комитетов насчитывается сейчас
+   2. ЕЕ учредил в 1968 году Госбанк Швеции
+   3. В 1937 году ОН запретил своим гражданам впредь получать
+Нобелевскую премию
+   4. Кроме чека лауреату вручают золотую медаль с изображением Нобеля и
+ЭТО
+   5. Высщая комиссия ООН для НИХ получала премию дважды</Question>
+<Answer>   1. 6
+   2. Нобелевскую премию по экономике
+   3. Гитлер
+   4. Почетный диплом
+   5. Для беженцев</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548189</QuestionId>
+<ParentId>31897</ParentId>
+<Number>31</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-31</TextId>
+<Question>ТЕМА БАБОЧКИ
+   1. ЭТА знаменитая опера была создана в 1903 году
+   2. О НЕМ часто говорили: &quot;порхает как бабочка, жалит как оса&quot;
+   3. ЭТИ стили международная федерация разделила лишь в 1952 году
+   4. Достопримечательностью ЭТОГО греческого острова является долина
+бабочек
+   5. Композиция бас-гитариста ЭТОЙ группы &quot;Бал бабочек и праздник
+кузнечик&quot; лег в основу фильма, книги и мюзикла</Question>
+<Answer>   1. Чио-Чио-Сан
+   2. Мохаммед Али
+   3. Брасс и баттерфляй
+   4. Родос
+   5. Дип Перпл (Роджер Гловер)</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548190</QuestionId>
+<ParentId>31897</ParentId>
+<Number>32</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-32</TextId>
+<Question>ТЕМА АРХЕОЛОГИЯ
+   1. ЭТОТ легендарный город нашли под холмом Гиссырлык
+   2. ТАКИМ людям дал название скальный навес в Дордони
+   3. Этот новый вид письменных источников был открыт археологической
+экспедицией Арциховского в 1951 году
+   4. ТАК называется большое галечное орудие, рабочий край которого
+оббит только с одной стороны
+   5. Стратифицированные отложения по краям ЭТОГО ущелья в Северной
+Танзании охватывают весь период нижнего палеолита</Question>
+<Answer>   1. Трою
+   2. Кроманьонцам
+   3. Берестяные грамоты
+   4. Чоппер
+   5. Олдувай</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548191</QuestionId>
+<ParentId>31897</ParentId>
+<Number>33</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-33</TextId>
+<Question>ТЕМА БОЛЬ
+   1. ЭТОТ герой Булгакова страдал гемикранией
+   2. ТАК назывался печатный орган ЦК ВКП(б) до 1952 года
+   3. ЭТО явление у человека называется аналгезией
+   4. ОНА получила свое название от греческого&quot;кишечная&quot;
+   5. S=RlnW.Это соотношение выгравировано на ЕГО памятнике в Вене</Question>
+<Answer>   1. Понтий Пилат
+   2. Большевик
+   3. Отсутствие болевой чувствительности
+   4. Колика
+   5. Больцман</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548192</QuestionId>
+<ParentId>31897</ParentId>
+<Number>34</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-34</TextId>
+<Question>ТЕМА ГОРОДА
+   1. На Руси Новгород, а в Италии
+   2. На олимпийских играх проходивших ТАМ, впервые в программу включили
+дзюдо
+   3. ТАК теперь называется бывшая римская колония Кордуба
+   4. У Марселя есть побратим и в Украине. А речь идет о...
+   5. ВСЕ ЕГО жители &quot;Красные богатыри&quot;</Question>
+<Answer>   1. Неаполь
+   2. Токио
+   3. Кордова
+   4. Одесса
+   5. Улан-Батор</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548193</QuestionId>
+<ParentId>31897</ParentId>
+<Number>35</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-35</TextId>
+<Question>ТЕМА КРА
+   1. ЭТА наука изучает черепа
+   2. В 1963 году вышел ЕГО русский перевод, сделанный академиком
+арабистом Крачковским
+   3. ОН состоит из амилозы и амилопектина, образованных остатками
+глюкозы
+   4. В 1972 году ОНА была крупнейшей ГЭС в мире
+   5. ЭТОТ линейный ледокол до 1927 года назывался &quot;Святогор&quot;</Question>
+<Answer>   1. Краниология
+   2. Корана
+   3. Крахмал
+   4. Красноярская
+   5. Красин</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548194</QuestionId>
+<ParentId>31897</ParentId>
+<Number>36</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-36</TextId>
+<Question>ТЕМА КА
+   1. По рисунку ОНИ делятся на елочные и лапки
+   2. На ЭТОЙ реке расположен вьетнамский город Винь
+   3. ПОД руководством ЭТОГО архитектора был построен Казанский собор в
+Питере
+   4. ТАК называется и растение из рода теобромин и продукт из него
+   5. ЕМУ посвятил свою книгу &quot;Последний летописец&quot; Эйдельман</Question>
+<Answer>   1. Кавычки
+   2. Ка
+   3. Воронихина
+   4. Какао
+   5. Карамзин</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548195</QuestionId>
+<ParentId>31897</ParentId>
+<Number>37</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-37</TextId>
+<Question>ТЕМА СКАЗКИ САЛТЫКОВА - ЩЕДРИНА
+   1. ЭТА повесть заканчивается словами: &quot;Веселись, мужичина&quot;
+   2. Газетчик был обманщик, а читатель именно ТАКИМ
+   3. Луначарский отмечал, что в ЭТОЙ сказке содержится критика
+нравственно-этического учения Толстого
+   4. В сказке &quot;Орел-меценат&quot; старого скворца определили в стихотворцы
+под именем современника Ломоносова, сбывшего тогда символом бездарного
+поэта
+   5. ЭТА сказка в России впервые была издана под заглавием &quot;Мала рыбка,
+а лучше большого таракана&quot;</Question>
+<Answer>   1. &quot;Повесть о том, как мужик двух генералов прокормил&quot;
+   2. Легковерным
+   3. Карась-идеалист
+   4. Тредиаковский
+   5. Вяленая вобла</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548196</QuestionId>
+<ParentId>31897</ParentId>
+<Number>38</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-38</TextId>
+<Question>ТЕМА НАГРАДЫ
+   1. Медаль в память 1500-летия ЭТОЙ столицы была учреждена 10 мая 1982
+года
+   2. ЭТА вспомогательная историческая дисциплина изучает знаки отличия
+   3. ЕГО наградили Орденом Красного Знамени N1
+   4. Вторым кавалером ЭТОГО ордена стал гетман Мазепа
+   5. Обычно в России к награде орденов представляли только начальство,
+но для НЕГО - героя 1812 года было сделано исключение</Question>
+<Answer>   1. Киева
+   2. Фалеристика
+   3. Блюхера
+   4. Андрея Первозванного
+   5. Дениса Давыдова</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548197</QuestionId>
+<ParentId>31897</ParentId>
+<Number>39</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-39</TextId>
+<Question>ТЕМА Зимние праздники
+   1. В Англии - кэролы, в Белоруссии - коляды, а в России...
+   2. В Монголии считают, что чем больше Их будет у тебя за столом в
+новогоднюю ночь, тем лучше
+   3. ТАКОЕ имя носила мать Ивана Ивановича Шувалова
+   4. За СТОЛЬКО недель до Пасхи справляется масленица
+   5. &quot;Будущего недостаточно
+   Старого, нового мало.
+   Надо, чтоб елкою святочной
+   Вечность средь комнаты стала&quot;
+   Так начинается ЕГО стихотворение &quot;Зимние праздники&quot;</Question>
+<Answer>   1. святки
+   2. гостей
+   3. Татьяна
+   4. за 7
+   5. Пастернака</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548198</QuestionId>
+<ParentId>31897</ParentId>
+<Number>40</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-40</TextId>
+<Question>ТЕМА БУДДИЗМ
+   1. &quot;Малая колесница&quot;-хинаяна, а большая...
+   2. В переводе с санскрита ЭТО &quot;заклинание&quot;
+   3. В городе Шанди построен специальный храм ЭТОЙ части тела Будды
+   4. ОН является главным монахом буддийского храма
+   5. ТАК называются два канона - полных свода священных текстов
+буддизма, отличающихся языком написания</Question>
+<Answer>   1. махаяна
+   2. мантра
+   3. Зуба
+   4. Бонза
+   5. Типитака и Трипитака</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548199</QuestionId>
+<ParentId>31897</ParentId>
+<Number>41</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-41</TextId>
+<Question>ТЕМА АДАМ
+   1. Такое имя носила любимая машина Адама Казимировича
+   2. Эти отец и сын были вторым и шестым президентами США
+   3. Цвета этого английского клуба защищает защитник сборной Англии
+Тони Адамс
+   4. Углеродный скелет углеводорода адамантана представляет собой
+элементарную ячейку ЭТОГО вещества
+   5. Его настоящее имя и фамилия - Григорий Гибс</Question>
+<Answer>   1. Антилопа Гну
+   2. Джон и Джон Куинси Адамсы
+   3. Арсенал
+   4. Алмаз
+   5. Г. Адамов</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548200</QuestionId>
+<ParentId>31897</ParentId>
+<Number>42</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-42</TextId>
+<Question>ТЕМА И
+   1. Именно так в кириллице называлась буква, ставшая нашей буквой И
+   2. Он вступил на престол двухлетним в 1908 году, и лишился его в 1924
+году
+   3. Серия ноутбуков этой фирмы носит наименование iBook
+   4. Этот знаменитый истребитель в войсках попросту называли &quot;ишачком&quot;
+   5. Именно это числовое значение в кириллице имеет ижица</Question>
+<Answer>   1. Иже
+   2. Пу И
+   3. Apple Computers
+   4. И-16
+   5. 40</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548201</QuestionId>
+<ParentId>31897</ParentId>
+<Number>43</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-43</TextId>
+<Question>ТЕМА АНТИЧНОСТЬ-2
+   1. ЭТОМУ месяцу дал название римский бог дверей и ворот
+   2. Именно ОН основал столицу Птолемеевской династии
+   3. ТАК по-гречески будет &quot;искусство полководца&quot;
+   4. К ЭТОЙ династии принадлежали Адриан, Марк Аврелий и Коммод
+   5. ЕГО сыновьями были Дор, Эол и Ксуф, а среди внуков - Ион и Ахей</Question>
+<Answer>   1. Январю
+   2. Александр Македонский
+   3. Стратегия
+   4. Антонинов
+   5. Эллин</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548202</QuestionId>
+<ParentId>31897</ParentId>
+<Number>44</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-44</TextId>
+<Question>ТЕМА ИСТОРИЯ КИНО
+   1. Идея поместить ИХ на купюрах нового образца была отклонена
+французским казначейством
+   2. В середине 20-х годов в ленинградском кинотеатре &quot;Паризиана&quot;
+тапером был ЭТОТ знаменитый композитор
+   3. ОН видел в киноаппарате конкурента своему кинетоскопу
+   4. Этих трех актрис часто называли только по инициалам из двух
+одинаковых букв
+   5. ТАК точнее звучит перевод названия знаменитого французского
+бульвара</Question>
+<Answer>   1. Братьев Люмьер
+   2. Шостакович
+   3. Эдисон
+   4. Клаудиа Кардинале, Мерилин Монро и Бриджит Бардо
+   5. Бульвар Капуцинок</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548203</QuestionId>
+<ParentId>31897</ParentId>
+<Number>45</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-45</TextId>
+<Question>ТЕМА ШЛЯПЫ И ШАПКИ
+   1. Чтобы доставить ее хозяину, потребовалась упряжка из 5 лошадей.
+   2. По одной из версий, этот головной убор получили, завернув у шляпы
+поля.
+   3. Одну из разновидностей этого головного убора называли &quot;шапка
+ерихонская&quot;.
+   4. Увидев, что пуля, пробившая его шляпу, была выпущена не из
+обычного мушкета, он справедливо заключил, что на него охотятся.
+   5. Покидая свой остров, Робинзон Крузо взял попугая и эти 2 вещи.</Question>
+<Answer>   1. Шляпа Гулливера
+   2. Треуголка
+   3. Шлем
+   4. д'Артаньян
+   5. Шляпу и зонтик из козьего меха</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548204</QuestionId>
+<ParentId>31897</ParentId>
+<Number>46</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-46</TextId>
+<Question>ТЕМА ВАЗЫ
+   1. На это Женей был потрачен 2-й лепесток цветика-семицветика.
+   2. Автомобили марки ВАЗ собирают в этом городе.
+   3. Именно этот великий мастер, по словам графа Монте-Кристо,
+замуровал в огромные китайские вазы, принадлежавшие графу раковины и
+кораллы.
+   4. Такую необычную плату послал в Китай саксонский курфюрст Август в
+уплату за несколько больших фарфоровых ваз.
+   5. В честь этого греческого царственного грешника названа вазой
+автоколебательная система, состоящая из резервуара, в который с
+постоянной скоростью течет вода, и сифона.</Question>
+<Answer>   1. На восстановление &quot;маминой любимой вазочки&quot;
+   2. Тольятти
+   3. Море
+   4. Роту солдат
+   5. Ваза Тантала</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548205</QuestionId>
+<ParentId>31897</ParentId>
+<Number>47</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-47</TextId>
+<Question>ТЕМА ПРОЛИВЫ
+   1. Жители одного из его побережий фамильярно именуют этот пролив
+&quot;канавой&quot;.
+   2. За овладение ими Россия несколько веков воевала с Турцией.
+   3. Пролив к северу от Огненной Земли назван в честь португальца, к
+югу - в честь повторившего его подвиг англичанина. Назовите обоих.
+   4. Эти ворота отделяют Новую Землю от острова Вайгач и служат
+проходом в Карское море.
+   5. Не столько из-за навигационных сложностей, сколько по этой
+причине, у моряков дурной славой пользуется Малаккский пролив,
+отделяющий остров Суматра от полуострова Малакка.</Question>
+<Answer>   1. Пролив Ла-Манш
+   2. Проливы Босфор и Дарданеллы
+   3. Магеллан и Дрейк соответственно
+   4. Пролив Карские Ворота
+   5. Там очень много пиратов</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548206</QuestionId>
+<ParentId>31897</ParentId>
+<Number>48</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-48</TextId>
+<Question>ТЕМА ГЕОГРАФИЯ ОТ А ДО Я
+   1. Благодаря своей относительной дешевизне, это турецкое побережье
+пользуется успехом у россиян.
+   2. Она протянулась от 25о восточной долготы до 169о западной долготы
+и от 1о до 78о северной широты.
+   3. Открыл ее голландец, первым решил использовать француз, а овладели
+ею англичане. Сейчас она, правда, уже практически независима.
+   4. На территории этого современного государства расположено святилище
+Каабы
+   5. На границе Таджикистана и Афганистана она называется Пяндж</Question>
+<Answer>   1. Анталия
+   2. Азия
+   3. Австралия
+   4. Саудовская Аравия
+   5. Амударья</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548207</QuestionId>
+<ParentId>31897</ParentId>
+<Number>49</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-49</TextId>
+<Question>ТЕМА АНГЛИЙСКИЕ КОЛОНИИ
+   1. Эта английская колония - одна из самых маленьких, и единственная в
+Европе. Но ее стратегическую важность трудно переоценить.
+   2. Эта колония, отобранная в жестоких боях у французов, была главным
+приобретением англичан в итоге Семилетней войны.
+   3. По наводке Наполеона Павел I собирался отнять у Англии эту
+важнейшую колония. К счастью для англичан, этого он сделать не успел.
+   4. В этом американском городе в сентябре 1774 года прошел 1-й
+Континентальный конгресс, на котором Джордж Вашингтон высказался за
+вооруженную борьбу 13 колоний против Англии
+   5. Главной английской колонией на Больших Антильских островах,
+создававшей постоянную угрозу испанским &quot;золотым&quot; галеонам, была эта
+колония.</Question>
+<Answer>   1. Гибралтар
+   2. Канада
+   3. Индия
+   4. Филадельфия
+   5. Ямайка</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548208</QuestionId>
+<ParentId>31897</ParentId>
+<Number>50</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-50</TextId>
+<Question>ТЕМА ГОСУДАРИ РОССИЙСКИЕ
+   1. Сталин, понятное дело, царей не любил - по политическим
+соображениям. Для одного, однако, он сделал исключение.
+   2. Он был единственным в России, кто стал императором не после отца,
+а после брата-императора.
+   3. Он был самым молодым российским императором
+   4. Императрица Анна Иоановна была родственницей Петра I, и
+приходилась она ему...
+   5. Самой дорогой русской монетой считается рубль с портретом этого
+императора</Question>
+<Answer>   1. Уважал Иосиф Виссарионович Ивана Грозного - видимо, за сходство в
+методах внутренней политики
+   2. Николай I
+   3. Иван Антонович
+   4. Племянницей
+   5. Константина Павловича</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548209</QuestionId>
+<ParentId>31897</ParentId>
+<Number>51</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-51</TextId>
+<Question>ТЕМА ГОРЫ
+   1. В этой игре чем выше гора, тем хуже
+   2. Вторая по высоте гора Греции - это...
+   3. Эти горы король Людовик XIV объявил несуществующими только потому,
+что они мешали его политике.
+   4. Свой остров герои Жюля Верна назвали в честь президента Линкольна,
+озеро - в честь генерала Гранта. А гору?
+   5. Эти горы едва не стали для союзников местом страшной катастрофы.
+Спасло их преждевременное начало Красной армией Висло-Одерской операции.</Question>
+<Answer>   1. Преферанс
+   2. Парнас
+   3. &quot;Пиренеев больше нет!&quot; - заявил он, сажая своего племянника
+Филиппа на испанский трон
+   4. В честь Франклина
+   5. Арденны</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548210</QuestionId>
+<ParentId>31897</ParentId>
+<Number>52</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-52</TextId>
+<Question>ТЕМА РАТНОЕ ДЕЛО II
+   1. Он обещал Карлу XII подкрепление в 50 тысяч человек, привел - и то
+обманом - только полторы, да и те скоро разбежались.
+   2. В войнах с восточными, в первую очередь турецкими армиями, в
+которых преобладала конница, европейская пехота - в основном русская -
+использовала именно это построение.
+   3. Когда англичанам надоело в своих красных мундирах становиться
+мишенями для стрелков буров, они первыми ввели такую форму.
+   4. Основу средневековой армии этой страны составляли лучники, а не
+рыцари.
+   5. Первой крепостью, которую он взял, была земляная крепостца под
+Кожевниковым. Потом их было немало. Но только эти 2 крепости он осаждал
+дважды.</Question>
+<Answer>   1. Мазепа
+   2. Каре
+   3. Форму цвета хаки
+   4. Англия
+   5. Азов и Нарва</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548211</QuestionId>
+<ParentId>31897</ParentId>
+<Number>53</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-53</TextId>
+<Question>ТЕМА Желтый
+   1. Это является единственным источником питательных веществ для
+зародышей некоторых позвоночных?
+   2. Поезд в одноименной повести В. Пелевина называется именно так?
+   3. Это краска у художников бывает не только желтой, но и коричневой?
+   4. Его масса равна 35,5, а название его означает &quot;желто-зеленый&quot;
+   5. Окраска этих водорослей обусловлена каротиноидами и хлорофиллом</Question>
+<Answer>   1. Желток
+   2. Желтая стрела
+   3. Охра
+   4. Хлор
+   5. Желто-зеленые</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548212</QuestionId>
+<ParentId>31897</ParentId>
+<Number>54</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-54</TextId>
+<Question>ТЕМА ПУШКИН. 1837-й год.
+   1. Именно в таких родственных отношениях были Пушкин и Дантес
+   2. Над выпуском этого журнала Пушкин работал и в последние дни перед
+дуэлью
+   3. Именно этот чин носил в конце жизни Пушкин
+   4. В этом монастыре покоится прах Пушкина
+   5. Секундантом Дантеса на дуэли был д'Аршиак, а Пушкина...</Question>
+<Answer>   1. Свояки
+   2. &quot;Современник&quot;
+   3. Камергер
+   4. Святогорский монастырь
+   5. Данзас</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548213</QuestionId>
+<ParentId>31897</ParentId>
+<Number>55</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-55</TextId>
+<Question>ТЕМА ДИСК
+   1. Именно этот вид мероприятий в СССР впервые появился в Прибалтике.
+   2. Именно такого размера была дискета, именуемая &quot;пятидюймовкой&quot;.
+   3. Диск для метания в соревнованиях мужчин весит 2 кг, а в
+соревнованиях женщин - столько.
+   4. Таково другое название банковского учета векселей.
+   5. Это и корабль английского моряка, и спутниковый канал, и просто
+изобретение.</Question>
+<Answer>   1. дискотека
+   2. 5,25 дюйма
+   3. 1 кг
+   4. дисконт
+   5. дискавери</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548214</QuestionId>
+<ParentId>31897</ParentId>
+<Number>56</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-56</TextId>
+<Question>ТЕМА В МОСКВУ, В МОСКВУ, В МОСКВУ
+   1. Именно его героини беспрестанно хотели в Москву
+   2. Он был первым мэром Москвы.
+   3. Именно он является автором памятника Минину и Пожарскому
+   4. Этот роман Глеба Алексеева рассказывает о поисках библиотеки Ивана
+Грозного
+   5. Московский Успенский собор создан Аристотелем Фиораванти на основе
+именно этого сооружения</Question>
+<Answer>   1. Чехов
+   2. Гавриил Попов
+   3. Мартос
+   4. Подземная Москва
+   5. Успенский собор во Владимире</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548215</QuestionId>
+<ParentId>31897</ParentId>
+<Number>57</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-57</TextId>
+<Question>ТЕМА БГ
+   1. Ученый-булгаковед под аббревиатурой &quot;БГ&quot; поймет именно это.
+   2. Если глаголь в цифири - 3, то буки...
+   3. Именно этот знак использовали писцы Древней Руси, когда вместо
+слова Бог писали просто Б-г
+   4. Исполнению произведений каждого из этих авторов Борис Гребенщиков
+посвятил по альбому.
+   5. Начинается с б - и она строительная деталь, начинается с г - и она
+птица.</Question>
+<Answer>   1. роман &quot;Белая гвардия&quot;
+   2. ничего
+   3. Титло
+   4. Вертинский и Окуджава
+   5. балка-галка</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548216</QuestionId>
+<ParentId>31897</ParentId>
+<Number>58</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-58</TextId>
+<Question>ТЕМА ДЖИНСЫ
+   1. Слово &quot;джинсы&quot; происходит от названия города, расположенного в
+этой стране.
+   2. Именно этим занимался на самом деле мальчик в сюжете &quot;Ералаша&quot;,
+когда родители рассчитывали получить от него вкусный ужин.
+   3. Именно столько пуговиц должно быть на классических джинсах.
+   4. Именно он в элегантной атмосфере интеллектуального казино
+появлялся в обычных черных джинсах.
+   5. Такое название носит стихотворная пьеса Б. Гребенщикова о
+влюбленной парочке хиппи.</Question>
+<Answer>   1. Италия
+   2. Варил джинсы
+   3. 5
+   4. Александр Фукс
+   5. &quot;В объятиях джинсни&quot;</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548217</QuestionId>
+<ParentId>31897</ParentId>
+<Number>59</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-59</TextId>
+<Question>ТЕМА НА СОН ГРЯДУЩИЙ
+   1. Так называется похожее на сон состояние, называемое иначе мнимой
+смертью.
+   2. Именно этот не хотела делать одна упрямая овца в воображении
+Карлсона, когда он пытался заснуть.
+   3. В 1888 году, согласно книге рекордов Гиннесса, некий доктор Ли
+сообщил, что 15-летняя девушка делала это непрерывно в течение пяти
+недель.
+   4. В этой арабской сказке могущественные волшебники по очереди
+переносили друг к другу спящих в разных странах царевича и царевну.
+   5. Один из притоков этой реки называется Сон.</Question>
+<Answer>   1. летаргический сон
+   2. перепрыгнуть через барьерчик
+   3. зевала
+   4. царевич Камат-аз-Заман и царевна Будур (?)
+   5. Ганг</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548218</QuestionId>
+<ParentId>31897</ParentId>
+<Number>60</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-60</TextId>
+<Question>ТЕМА ИЛИ-ИЛИ
+   1. Именно он из двух первым успел к Южному полюсу.
+   2. У Кэролла его звали Tweedledum
+   3. Именно такую фамилию носила шекспировская Джульетта
+   4. Именно этот из братьев де Буров играет сейчас в &quot;Барселоне&quot;
+   5. Именно таково прозвище английской консервативной партии.</Question>
+<Answer>   1. Амундсен
+   2. Труляля
+   3. Капулетти
+   4. Франк де Бур
+   5. Тори</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548219</QuestionId>
+<ParentId>31897</ParentId>
+<Number>61</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-61</TextId>
+<Question>ТЕМА ТРАЛИ-ВАЛИ
+   1. В этом советском фильме часть названия темы присутствует дважды
+   2. Она не так известна, как ее тезка, но тоже знаменитая летчица
+   3. Именно так звали героя Валентина Гафта в фильме &quot;Чародеи&quot;
+   4. Именно она на новогоднем вечере вместо басни прочла стихотворение
+Багрицкого о пионерке Вале
+   5. В IV в. Римской империей управляли эти два брата - один восточной
+частью, другой западной.</Question>
+<Answer>   1. Валентин и Валентина
+   2. Гризодубова
+   3. Аполлон Митрофанович Сатанеев
+   4. Таня Сабанеева
+   5. Валентиниан и Валент</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548220</QuestionId>
+<ParentId>31897</ParentId>
+<Number>62</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-62</TextId>
+<Question>ТЕМА УШИ
+   1. Именно так называются ушные затычки
+   2. Именно это ежевечерне просят сделать Степан, Хрюн и Лев Новоженов
+   3. У этих насекомых и ушей-то, таких, как у млекопитающих, нет, а
+называют их все равно именно так.
+   4. Ухо человека и животных - орган не только слуха, но и этого
+   5. К этой ветви афразийских языков относится и язык сомали</Question>
+<Answer>   1. бируши
+   2. тушить свет
+   3. уховертки
+   4. равновесия
+   5. кушитские</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548221</QuestionId>
+<ParentId>31897</ParentId>
+<Number>63</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-63</TextId>
+<Question>ТЕМА ВЫДУМАННЫЕ СТРАНЫ
+   1. Именно в этой, отнюдь не выдуманной стране, по словам Вольки
+Костылькова, жили муравьи величиной почти с собаку
+   2. На этом материка находилась Швамбрания
+   3. Так называлась страна, созданная для себя принцем Корвином, сыном
+Оберона
+   4. Эта прощальная страна упомянута последней в песне Дольского.
+   5. Про эту страну любила рассказывать ворона Каркуша на заре своего
+появления в передаче &quot;Спокойной ночи, малыши!&quot;</Question>
+<Answer>   1. Индия
+   2. Большого Зуба
+   3. Авалон
+   4. Досвидания
+   5. Выдумляндия</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548222</QuestionId>
+<ParentId>31897</ParentId>
+<Number>64</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-64</TextId>
+<Question>ТЕМА ВОКРУГ СВЕТА
+   1. Именно они, если понимать буквально, являются любителями света.
+   2. Эти осветительные приборы не работают на улицах, где работают
+менты.
+   3. Его именем называют первый химический источник тока
+   4. В этой сказке Андерсена фигурировали три собаки с огромными
+глазами
+   5. Именно так называется отношение освещенности изображения,
+создаваемого оптической системой, к яркости изображаемого предмета.</Question>
+<Answer>   1. фотолюбители
+   2. фонари
+   3. Вольта (Вольтов столб)
+   4. Огниво
+   5. светосила</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548223</QuestionId>
+<ParentId>31897</ParentId>
+<Number>65</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-65</TextId>
+<Question>ТЕМА ВОРОБЬИ
+   1. Где обедал, воробей?
+   В зоопарке у зверей.
+   Это стихотворение принадлежит перу...
+   2. Воробей уже несколько лет помогает этому футбольному клубу
+   3. Именно к этому семейство принадлежат воробьи
+   4. Изучение именно таких слов часто начиналось для первоклассников со
+слова &quot;воробей&quot;
+   5. В этом виде спорта прославился Аркадий Воробьев</Question>
+<Answer>   1. С.Я. Маршака
+   2. Шахтер
+   3. Ткачиковые
+   4. Словарных
+   5. Тяжелая атлетика</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548224</QuestionId>
+<ParentId>31897</ParentId>
+<Number>66</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-66</TextId>
+<Question>ТЕМА АМЕРИКА, АМЕРИКА
+   1. Именно он находится в &quot;Книге рекордов Гиннесса&quot; под номинацией
+&quot;Актер, ставший самым удачливым политиком&quot;.
+   2. Именно в этом городе США разрешено играть в азартные игры 24 часа
+в сутки.
+   3. Этим псевдонимом, объединяющим двух русских классиков,
+подписывались иногда авторы &quot;Одноэтажной Америки&quot;
+   4. Эта американская парочка - единственные брат и сестра, кто
+независимо друг от друга занимал вершины хит-парадов.
+   5. В Британии - &quot;Британника&quot;, во Франции - &quot;Ларусс&quot;, а в США...</Question>
+<Answer>   1. Рональд Рейган
+   2. Лас-Вегас
+   3. Толстоевский
+   4. Майкл и Джанет Джексон
+   5. Американа (крупнейшая энциклопедия)</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548225</QuestionId>
+<ParentId>31897</ParentId>
+<Number>67</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-67</TextId>
+<Question>ТЕМА ЭЛЕКТРИЧКА
+   1. Он пел: &quot;Электричка везет меня туда, куда я не хочу&quot;
+   2. Ее музыканты называют &quot;Электричка&quot;
+   3. Именно с этого московского вокзала началось знаменитое путешествие
+Москва-Петушки
+   4. &quot;Наш поезд 9.37, второй вагон с конца&quot; - поют Иваси. А едут они
+именно туда
+   5. Именно он в 1869 году изобрел пневматический железнодорожный
+тормоз.</Question>
+<Answer>   1. В. Цой
+   2. электрогитара
+   3. Курский
+   4. в &quot;Заветы Ильича&quot;
+   5. Джордж Вестингауз</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548226</QuestionId>
+<ParentId>31897</ParentId>
+<Number>68</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-68</TextId>
+<Question>ТЕМА Я СПРОСИЛ У ЯСЕНЯ (ДЕРЕВЬЯ В МУЗЫКЕ)
+   1. &quot;Ты дерево, твое место в саду&quot; - пел именно он.
+   2. Это дерево росло под скалой в Брич-Мулле
+   3. Именно он в свое время написал песню о деревянных городах.
+   4. В этом советском фильме прозвучала песня &quot;Старый клен стучит в
+окно&quot;
+   5. Эту имеющую отношение к деревьям фамилию из трех букв носит
+советский композитор, автор оперы &quot;Лесной царь&quot;</Question>
+<Answer>   1. БГ
+   2. чинара
+   3. Городницкий
+   4. &quot;Девчата&quot;
+   5. Сук</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548227</QuestionId>
+<ParentId>31897</ParentId>
+<Number>69</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-69</TextId>
+<Question>ТЕМА СТИХИ И НЕ ТОЛЬКО
+   1. Именно из этого. по мнению Ахматовой, растут стихи, не ведая
+стыда.
+   2. Эту поэму редко проходят в украинских школах и проходят в
+российских, хотя автор ее родом с Украины.
+   3. В лесу, где жили друзья Кристофера Робина, только эти двое
+занимались стихосложением.
+   4. Этот поэт создал и малое, и &quot;Большое завещание&quot;, но нам он
+известен в первую очередь благодаря молитве, написанной не им.
+   5. Рифма, неотъемлемая часть большинства стихотворений, является
+частным случаем это стилистической фигуры.</Question>
+<Answer>   1. из сора
+   2. &quot;Мертвые души&quot;
+   3. Винни-Пух и Иа-Иа
+   4. Франсуа Вийон
+   5. эпифоры</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548228</QuestionId>
+<ParentId>31897</ParentId>
+<Number>70</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-70</TextId>
+<Question>ТЕМА МЕТРО
+   1. ТАК переводится с греческого слово &quot;metropolis&quot;
+   2. В России ширина железнодорожной колеи равна 1520 мм, а у
+метрополитена...
+   3. К ЕЕ открытию в 1900 году приурочили пуск первой линии парижского
+метро
+   4. Он написал рассказ о людях, постоянно живущих в метро
+   5. В этом российском городе нет метро, но есть скоростной трамвай</Question>
+<Answer>   1. столица
+   2. столько же
+   3. Первой Всемирной Выставки
+   4. Хулио Кортасар
+   5. Волгоград</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548229</QuestionId>
+<ParentId>31897</ParentId>
+<Number>71</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-71</TextId>
+<Question>ТЕМА ПЯТНИЦА 13
+   1. Термин &quot;трискаидекафобия&quot; означает именно ЭТО
+   2. Сборы от первой части ЭТОГО фильма составили 17 млн долларов
+   3. Визит папы римского Евгения Второго в Париж в 1147 году пришелся
+на пятницу 13, но пятница была объявлена...
+   4. СТОЛЬКО пятниц 13-го было в 1992 и 1995 гг
+   5. В ЭТОМ американском городе существует клуб &quot;Пятница 13&quot;</Question>
+<Answer>   1. боязнь 13
+   2. Пятница 13
+   3. Четвергом
+   4. 2
+   5. Филадельфия</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548230</QuestionId>
+<ParentId>31897</ParentId>
+<Number>72</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-72</TextId>
+<Question>ТЕМА КУКЛЫ
+   1. ТАК в средневековье назывались фигурки изображавшие в кукольных
+представлениях Деву Марию
+   2. Полностью ЕГО звали Петр Иванович Уксусов
+   3. ЭТА группа выпустила в 1986 году альбом, название которого
+переводится как &quot;Кукловод&quot;
+   4. ЕЕ прародителем был старичок Даруму
+   5. Ежегодно в ЭТОЙ азиатской стране 3 марта проводится &quot;Фестиваль
+кукол&quot;</Question>
+<Answer>   1. Марионетка
+   2. Петрушка
+   3. Металлика
+   4. Матрешка
+   5. Япония</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548231</QuestionId>
+<ParentId>31897</ParentId>
+<Number>73</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-73</TextId>
+<Question>ТЕМА ЖЕНЩИНЫ-ИЗОБРЕТАТЕЛИ
+   1. ОНА вместе с мужем открыла полоний
+   2. Благодаря Джанет Райдаут появилась формула АЦТ, продлевающего
+жизнь, страдающим ОТ НЕГО
+   3. Астрид Кирхер придумала ИМ знаменитую прическу с зачесом на лоб и
+уши
+   4. В 1917 году Эль Джонс сделала изобретение, после чего мир стал
+чуточку тише
+   5. Доктор Кволек изобрела в 1965 году ЭТОТ сверхпрочный материал</Question>
+<Answer>   1. Мария Кюри
+   2. СПИДА
+   3. Битлз
+   4. автомобильный глушитель
+   5. кевлар</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548232</QuestionId>
+<ParentId>31897</ParentId>
+<Number>74</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-74</TextId>
+<Question>ТЕМА Яблоки
+   1. ЭТО было написано на яблоке раздора
+   2. ЕГО родина - северные районы Франции, где ТАК называют любой
+алкогольный напиток из яблок
+   3. ЕЕ отцами-основателями являются Стив Джобс и Возняк
+   4. Богиня Идунн в скандинавских сагах охраняла священную яблоню,
+плоды которой даровали богам ЭТО
+   5. Натюрморт ЭТОГО француза &quot;Крупные яблоки&quot; был продан в 1993 году
+за 26 млн долларов</Question>
+<Answer>   1. Прекраснейшей
+   2. Сидр
+   3. Эппл Макинтош
+   4. Вечную юность
+   5. Сезанна</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548233</QuestionId>
+<ParentId>31897</ParentId>
+<Number>75</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-75</TextId>
+<Question>ТЕМА НИЖНЕЕ БЕЛЬЕ
+   1. По одной из версий ЭТО дело рук американки Джэкоб
+   2. Говорят, что француженки на Новый Год стараются одеть белье ЭТОГО
+цвета, дабы отпугнуть злых мужчин
+   3. ЭТОТ знаменитый французский актер устроил в Париже начала 60-х,
+выставку советского женского белья
+   4. Сначала ТАК называли одну из нижних юбок, а с 1777 года ЭТО
+название закрепилось за танцем
+   5. ЭТОТ римский император, погибший в 217 году, получил прозвище по
+особому виду туники</Question>
+<Answer>   1. Бюстгалтер
+   2. Красного
+   3. Ив Монтан
+   4. Котильон
+   5. Каракалла</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548234</QuestionId>
+<ParentId>31897</ParentId>
+<Number>76</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-76</TextId>
+<Question>ТЕМА ПИВО
+   1. В разливном пиве &quot;Роджер энд Аут&quot; ЭТОГО содержится 16,9 %
+   2. Собирание ЭТИХ пивных аксессуаров называется тегестология
+   3. В конце прошлого века в Англии было популярно пиво, изготовленное
+по древнегреческому рецепту, а называлось оно именно ТАК
+   4. Из-за ЭТОГО теряют ежегодно 230 млн фунтов стерлингов тамошне
+любители пива в пабах
+   5. ЭТОТ народ потребляет по 153 литра пива в год на душу населения</Question>
+<Answer>   1. алкоголя
+   2. подставок для пива
+   3. Тутанхамон
+   4. недолива
+   5. Чехи</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548235</QuestionId>
+<ParentId>31897</ParentId>
+<Number>77</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-77</TextId>
+<Question>ТЕМА БЕЗУМИЕ
+   1. ЭТО многолетнее травянистое растение семейства тыквенных,
+названием обязано своим плодам
+   2. В трилогии &quot;Безумный Макс&quot; ОН сыграл главную роль
+   3. В 15-м веке ЭТА лондонская больница стала приютом для умалишенных
+   4. В США ЭТИМ психическим заболеванием страдает более 2 миллионов
+человек
+   5. ТАК звали индейца, отличившегося во время войны сиу 1875-1876
+годов</Question>
+<Answer>   1. Бешеный огурец
+   2. Мел Гибсон
+   3. Марии Вифлиемской
+   4. Шизофренией
+   5. Безумная Лошадь</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548236</QuestionId>
+<ParentId>31897</ParentId>
+<Number>78</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-78</TextId>
+<Question>ТЕМА МОСТЫ
+   1. ЕГО титул в буквальном переводе означает &quot;строитель мостов&quot;
+   2. В ЭТОМ итальянском городе есть &quot;Мост вздохов&quot;
+   3. Гастрольный тур &quot;Мосты в Вавилон&quot; 1998 года ЭТОЙ группы начинались
+без моста-декорации
+   4. Писатель Пьер Буль получил &quot;Оскар&quot; за сценарий к ЭТОМУ фильму
+   5. Авторство названия ЭТОЙ игры приписывают игрокам знаменитого
+Портлэнд-клуба</Question>
+<Answer>   1. Папы римского
+   2. Венеция
+   3. Ролинг Стоунз
+   4. Мост через реку Квай
+   5. Бридж</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548237</QuestionId>
+<ParentId>31897</ParentId>
+<Number>79</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-79</TextId>
+<Question>ТЕМА ДЖОН
+   1. ЭТО имя носила и чайка и великий сатирик
+   2. Под ЭТИМ псевдонимом скрывается крестный отец Шона Леннона
+   3. Директором ЭТОЙ обсерватории был с 1933 года Харольд Джонс
+   4. Вспомните скандальную фразу, и скажите, как звали кота Джона
+Леннона, очень популярного в месте ЕГО проживания
+   5. Именно ТАКИЕ имена носили Джонсоны - 17-й и 35-й президенты</Question>
+<Answer>   1. Джонатан
+   2. Элтон Джон
+   3. Гринвичской
+   4. Иисус
+   5. Эндрю и Линдон</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548238</QuestionId>
+<ParentId>31897</ParentId>
+<Number>80</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-80</TextId>
+<Question>ТЕМА СЕЛЬСКОЕ ХОЗЯЙСТВО
+   1. Роды у коров-отел, а у буйволиц...
+   2. Шкурки ягнят смушковой породы делятся на каракульские и...
+   3. ЭТА система мероприятий получила свое название от латинского
+&quot;улучшение &quot;
+   4. ЭТИ химические препараты из группы пестицидов, включают в себя
+арборициды и альгициды
+   5. ЭТИХ вредительниц сельскохозяйственных культур еще называют
+ночницами</Question>
+<Answer>   1. отел
+   2. некаракульские
+   3. мелиорация
+   4. гербициды
+   5. Совки</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548239</QuestionId>
+<ParentId>31897</ParentId>
+<Number>81</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-81</TextId>
+<Question>ТЕМА ГОРНОЕ ДЕЛО
+   1. Десятибалльную шкалу относительной твердости минералов предложил в
+1811 именно ОН
+   2. ЭТО и горная выработка, проведенная вкрест простирания залежи и
+российский телеканал
+   3. Зоны ЕЕ переносимости: безопасная, полной и неполной компенсации,
+критическая и смертельная. А речь идет о...
+   4. Шахта &quot;Иббенбрюген&quot; недалеко от Рурского бассейна достигает
+глубины в 1446 метров, а добывают ЭТОТ сорт полезного ископаемого
+   5. СВОЙ псевдоним автор труда &quot;О горном деле и металлургии&quot; получил
+переводом своей фамилии Бауэр на латынь</Question>
+<Answer>   1. Моос
+   2. ОРТ
+   3. Горная болезнь
+   4. Антрацит
+   5. Агрикола</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548240</QuestionId>
+<ParentId>31897</ParentId>
+<Number>82</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-82</TextId>
+<Question>ТЕМА ИНДУИЗМ
+   1. Считается, что Брахма создал ЭТО животное в один день с брахманом
+   2. ЭТОТ ритуальный напиток готовили в эпоху Вед из сока одноименного
+растения
+   3. Среди ЕГО эпитетов, отражающих ЕГО могучую творческую энергию,
+есть и &quot;царь лингама&quot;
+   4. ТАК называется самая древняя и авторитетная из самхит
+   5. ЭТО сотворили из расчлененного тела первозданного человека Пуруша
+боги</Question>
+<Answer>   1. Корову
+   2. Сома
+   3. Шива
+   4. Ригведа
+   5. Вселенную</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548241</QuestionId>
+<ParentId>31897</ParentId>
+<Number>83</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-83</TextId>
+<Question>ТЕМА БУКВЫ
+   1. До появления Жука, он был самым массовым автомобилем в мире
+   2. У Валерия Ободзинского было в каждой строчке по три точки после
+ЭТОЙ буквы
+   3. Как показали специальные исследования в США все буквы английского
+алфавита кроме Q, используются в ЭТОМ качестве
+   4. В одной из последних экранизаций ЭТОГО американского романа
+снялись Гэри Олдмен и Деми Мур
+   5. ТАК называется неразборчивое написание букв</Question>
+<Answer>   1. Форд-Т
+   2. Л
+   3. Фамилии
+   4. Алая буква
+   5. Какография</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548242</QuestionId>
+<ParentId>31897</ParentId>
+<Number>84</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-84</TextId>
+<Question>ТЕМА ЧИСЛА
+   1. При разговоре на ЭТОМ любимом Александром Друзем языке в минуту
+произносят по 10-12 слов
+   2. Именно столько раз сборная Франции по футболу становилась
+чемпионом Европы
+   3. В 1928 началось юбилейное издание ЕГО произведений, к концу
+достигшее 90 томов
+   4. В 1929 году В Турции вышел сборник стихотворений &quot;835 строк&quot;, а
+автором был ОН
+   5. Именно ТАК назывался роман-утопия Одоевского</Question>
+<Answer>   1. На финском
+   2. 2
+   3. Л.Н.Толстой
+   4. Хикмет
+   5. 4338</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548243</QuestionId>
+<ParentId>31897</ParentId>
+<Number>85</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-85</TextId>
+<Question>ТЕМА РЕКЛАМА
+   1. Первое в мире ОНО было создано в 1611 году
+   2. Самым бросающимся в глаза в истории рекламы считается Знак
+Ситроена находившейся ТАМ 11 лет
+   3. Компания &quot;Уолт Дисней&quot;в 1988 году к ЕГО 60-летию заказала разовую
+рекламу за почти 4 млн долларов
+   4. Их рекламировал герой созданный Бернеттом в 1953 году
+   5. Самая дорогая спортивная реклама - во время финала в ЭТОМ виде
+спорта</Question>
+<Answer>   1. Рекламное агентство
+   2. На Эйфелевой башне
+   3. Микки Маус
+   4. Сигареты Мальборо
+   5. Американский футбол</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548244</QuestionId>
+<ParentId>31897</ParentId>
+<Number>86</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-86</TextId>
+<Question>ТЕМА НАРОДЫ МИРА
+   1. Самоназвание ЭТОГО народа - скоттс
+   2. Рапануйцы являются коренными жителями ЭТОГО острова
+   3. Болотные арабы - этническая группа, проживающая в поймах рек Тигр
+и Евфрат. По некоторым предположениям, они - прямые потомки Этого
+исчезнувшего народа
+   4. Кого в русской литературе 18-го века называли&quot;трухмянами&quot;?
+   5. ЭТОТ народ - основное население островов Санта-Крус, Сент-Томас и
+Сент-Джон</Question>
+<Answer>   1. Шотландцы
+   2. Пасхи
+   3. Шумеров
+   4. Туркмен
+   5. Виргинцы</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548245</QuestionId>
+<ParentId>31897</ParentId>
+<Number>87</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-87</TextId>
+<Question>ТЕМА Музыкальный собачий мир
+   1. ОН создал &quot;Собачий вальс&quot;
+   2. ЭТУ собаку искали в своей песне Олег и Радион
+   3. Песня &quot;Марта, дорогая моя&quot; обращена к ЕГО любимой собаке
+   4. Знаменитая американская группа получила свое название благодаря
+собаке из ЭТОГО произведения
+   5. Изображение белого фокстерьера Ниппера в 1910 году является
+официальным торговым знаком ЭТОЙ компании</Question>
+<Answer>   1. Бетховен
+   2. Люси
+   3. Пола Маккартни
+   4. Волшебник страны Оз
+   5. Голос его хозяина</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548246</QuestionId>
+<ParentId>31897</ParentId>
+<Number>88</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-88</TextId>
+<Question>ТЕМА Биология-2
+   1. Ископаемая смола хвойных деревьев верхнемелового периода одним
+словом...
+   2. Впервые ОНИ были описаны Мальпиги, как недостающее звено между
+венозными артериальными сосудами
+   3. И представитель отряда воробьинообразных и пьеса Жана Ануя
+   4. Четвертый период палеозоя получил свое название благодаря ЭТОМУ
+графству в Великобритании
+   5. Под каким названием известен продукт из чистой слюны Collocolia</Question>
+<Answer>   1. Янтарь
+   2. Капилляры
+   3. Жаворонок
+   4. Девоншир
+   5. Ласточкино гнездо</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548247</QuestionId>
+<ParentId>31897</ParentId>
+<Number>89</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-89</TextId>
+<Question>ТЕМА МИФЫ МИРА
+   1. У индейцев кечуа есть женское божество в виде стеблей, одетых в
+женское платье. Стеблей чего?
+   2. В ведийской мифологии ОН - бог домашнего очага
+   3. В &quot;Слове о полку Игоревом&quot; ветры названы ЕГО внуками
+   4. С ЭТИМ мудрецом мусульманское предание связывает обычай отсекать
+руку за воровство
+   5. Согласно скифской мифологии ЕГО сыновьями были Арпоксай, Колоксай и
+Липоксай</Question>
+<Answer>   1. Кукурузы
+   2. Агни
+   3. Стрибога
+   4. Лукман
+   5. Таргитая</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548248</QuestionId>
+<ParentId>31897</ParentId>
+<Number>90</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-90</TextId>
+<Question>ТЕМА МИФОЛОГИЯ
+   1. В мифологии шанов Бирмы было божество невидимой темной планеты,
+вызывавшее ЭТО явление
+   2. В древнейшие времена богиня Хатор почиталась, как небесная корова
+породившая ЭТО
+   3. Именно ТАК по-древнеисландски будет &quot;чертог убитых&quot;
+   4. В &quot;Мифологическом словаре&quot; под редакцией Мелетинского между
+статьями &quot;Ибу Пертиви&quot; и &quot;Иггдрасиль&quot; находятся 2 статьи, объединенные
+ЭТИМ именем
+   5. В пантеоне Владимира было и это божество иранского происхождения с
+собачьими чертами</Question>
+<Answer>   1. Затмение
+   2. Солнце
+   3. Валгалла
+   4. Иван
+   5. Семаргл</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548249</QuestionId>
+<ParentId>31897</ParentId>
+<Number>91</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-91</TextId>
+<Question>ТЕМА ХРАМЫ МИРА
+   1. Указ о ЕГО воссоздании был издан 5 мая 1995 года
+   2. Название ЭТОГО храмового комплекса переводится как &quot;много Будд&quot;
+   3. ОН строил собор Саграда Фамилия 35 лет, но так и не достроил
+   4. ОН был построен Иктином и Калликратом на фундаменте более раннего
+храма, также посвященного Афине
+   5. Главный храм ЭТОГО города был посвящен Кукулькану, покровителю
+тольтеков</Question>
+<Answer>   1. Храм Христа Спасителя
+   2. Боробудур
+   3. Гауди
+   4. Парфенон
+   5. Чичен-Ица</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548250</QuestionId>
+<ParentId>31897</ParentId>
+<Number>92</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-92</TextId>
+<Question>ТЕМА ВЕЛОСИПЕДЫ
+   1. ОН создал в конце XV века первый чертеж подобной машины
+   2. В 1870 году Старли построил первый велосипед ТАКОЙ системы
+   3. ЭТОТ фильм считается классикой итальянского неореализма
+   4. Для съемок видеоклипа &quot;Велогонка&quot; ЭТОЙ группы было привлечено 65
+обнаженных манекенщиц
+   5. За ЭТО, длившееся с 1911 по 1913 года, Панкратов получил
+Бриллиантовую звезду</Question>
+<Answer>   1. Леонардо Да Винчи
+   2. Паук
+   3. &quot;Похитители велосипедов&quot;
+   4. Квин
+   5. Кругосветка на велосипеде</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548251</QuestionId>
+<ParentId>31897</ParentId>
+<Number>93</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-93</TextId>
+<Question>ТЕМА Инквизиция
+   1. 30 мая 1416 года казнили Иеронима Пражского, а 6 июля предыдущего
+года...
+   2. ОН возглавлял испанский инквизиционный трибунал первых 16 лет
+   3. ЭТА жертва инквизиции была приобщена к лику святых в 1920 году
+   4. У Данте еретики находились в ЭТОМ круге ада
+   5. ТАК назывался совет при короле Испании - высший орган инквизиции</Question>
+<Answer>   1. Яна Гуса
+   2. Торквемада
+   3. Жанна Д Арк
+   4. Шестом
+   5. Супрема</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548252</QuestionId>
+<ParentId>31897</ParentId>
+<Number>94</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-94</TextId>
+<Question>ТЕМА Оливер Кромвель
+   1. В возрасте 51 года Кромвель писал ЕЙ: &quot;Ты дороже мне, чем
+какое-либо другое существо&quot;. Кому?
+   2. К этому религиозно-нравственному течению принадлежал герой нашей темы
+   3. Статуя Кромвеля стоит у ЭТОГО лондонского здания
+   4. 16 декабря 1653 года Кромвель был провозглашен ТАКИМ лордом
+   5. Историк Михаил Барг сравнивал Кромвеля с ЭТИМИ знаменитыми
+французами</Question>
+<Answer>   1. жене
+   2. пуританство
+   3. Парламента
+   4. Протектором
+   5. Робеспьером и Наполеоном</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548253</QuestionId>
+<ParentId>31897</ParentId>
+<Number>95</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-95</TextId>
+<Question>ТЕМА Космонавтика
+   1. В 80-е гг Центр подготовки космонавтов в СССР носил ЕГО имя
+   2. Американские космические корабли серии &quot;Аполлон&quot; были рассчитаны
+на ЭТО количество
+   3. Советские спутники &quot;Ореол&quot; исследовали атмосферу верхнюю Земли и
+изучали природу ЭТОГО явления
+   4. Посадка Аполлона-11 была произведена в ЭТОМ море
+   5. Индийский искусственный спутник Земли для исследования ионосферы
+был назван в честь ЭТОГО астронома и математика</Question>
+<Answer>   1. Юрия Гагарина
+   2. 3
+   3. полярного сияния
+   4. Море Спокойствия
+   5. Ариабхаты</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548254</QuestionId>
+<ParentId>31897</ParentId>
+<Number>96</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-96</TextId>
+<Question>ТЕМА Музыка
+   1. Сейчас модно употреблять иностранные слова, даже при наличии
+русскоязычных аналогов. Вот и вместо &quot;музыка из кинофильмов&quot; говорят...
+   2. &quot;А из зала мне кричат - давай подробности&quot; - пел ОН
+   3. В одном из последних альбомов ОНА просила: &quot;Не делайте мне больно
+господа!&quot;
+   4. Испанцы называют ЕЕ &quot;Эроика&quot;
+   5. Статья об ЭТОМ произведении Шостаковича называлась &quot;Сумбур в
+музыке&quot;</Question>
+<Answer>   1. Саундтрек
+   2. Галич
+   3. Пугачева
+   4. Героическая симфония Бетховена
+   5. Леди Макбет Мценского уезда</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548255</QuestionId>
+<ParentId>31897</ParentId>
+<Number>97</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-97</TextId>
+<Question>ТЕМА Третий Рейх-1
+   1. Правом на публикацию фотографий Гитлера обладал Генрих Гофман и
+ОНА
+   2. Именно в ЭТОМ обвинили Попова, Танеева и Димитрова
+   3. Концентрационный лагерь Маутхаузен находился в 4 км от ЭТОГО
+городка
+   4. ОН примерно в 1928 году написал слова на мотив старой морской
+песенки, ставшей гимном нацистской партии
+   5. ЭТОТ документальный фильм продюсера Лени Рифеншталь вышел на экран
+в 1936 году</Question>
+<Answer>   1. Ева Браун
+   2. В поджоге рейхстага
+   3. Маутхаузен
+   4. Хорст Вессель
+   5. Триумф Воли</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548256</QuestionId>
+<ParentId>31897</ParentId>
+<Number>98</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-98</TextId>
+<Question>ТЕМА Сказки Андерсена
+   1. В первых переводах на русский ОНА была Лизок-с-вершок
+   2. Сам Андерсен считал ЕЕ самой трогательной из своих сказок, того же
+мнения придерживался и скульптор Эриксен
+   3. ОНА получилась переделкой &quot;Зеркала тролля&quot;
+   4. В сказке &quot;Тень&quot; автор вспоминает известную историю о человеке без
+тени, созданную ЭТИМ немцем
+   5. ЭТОТ скульптор подал идею о написании сказки о штопальной игле</Question>
+<Answer>   1. Дюймовочка
+   2. Русалочка
+   3. Снежная королева
+   4. Шамиссо
+   5. Торвальдсен</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548257</QuestionId>
+<ParentId>31897</ParentId>
+<Number>99</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-99</TextId>
+<Question>ТЕМА 18-й век - 1
+   1. В 1778 году ЭТО европейское государство первым признало США
+   2. У Георга Генделя ИХ более 40, а у Баха ни одной
+   3. Персонаж ЭТОГО писателя Панглос восклицал: &quot;Все к лучшему в этом
+лучшем из миров!&quot;
+   4. Именно СТОЛЬКО воин провела в 18-м веке Россия со Швецией
+   5. &quot;Каждый вершок - король Лир&quot; - говорили об ЭТОМ великом актере</Question>
+<Answer>   1. Франция
+   2. Оперы
+   3. Вольтера
+   4. 3 (1700-1721,1741-1743 и 1788-1790)
+   5. Дэвид Гэррик</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548258</QuestionId>
+<ParentId>31897</ParentId>
+<Number>100</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-100</TextId>
+<Question>ТЕМА Кофе
+   1. ЭТОТ знаменитый бразилец выпускает свой сорт кофе
+   2. Согласно арабской обычаю &quot;кофе должен быть черен как ночь, горяч
+как ад, сладок как ОНА&quot;
+   3. В 1 чайной ложке молотого кофе содержится 0,1 грамма ЭТОГО
+   4. Кофе является главной товарной культурой ЭТОЙ латиноамериканской
+страны
+   5. Свое название сорт кофе Мокко получила благодаря ЭТОМУ
+городу-порту</Question>
+<Answer>   1. Пеле
+   2. Любовь
+   3. Кофеина
+   4. Колумбии
+   5. Моха</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548259</QuestionId>
+<ParentId>31897</ParentId>
+<Number>101</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-101</TextId>
+<Question>ТЕМА Лестницы
+   1. Классическим примером ритмического монтажа стал эпизод из ЭТОГО
+фильма
+   2. Название ЭТОГО устройства является производным от латинской
+лестницы
+   3. В 2001 году исполнится столько лет со дня выхода знаменитой песни
+Лед Зеппелин
+   4. К ЭТОМУ российскому ресторану ведет 1706 ступенек
+   5. Самая высокая из ЕЙ подобных лестниц идет вокруг дымовой трубы
+&quot;Бобилья Альмираль&quot; в Испании</Question>
+<Answer>   1. Броненосец Потемкин
+   2. эскалатор
+   3. 30
+   4. Седьмое небо
+   5. из винтовых</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548260</QuestionId>
+<ParentId>31897</ParentId>
+<Number>102</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-102</TextId>
+<Question>ТЕМА Кошки
+   1. В штате ЭТОГО музея числится 6 котов
+   2. ЭТОТ чемпион мира отправлялся на турниры в сопровождении кота
+Чесса
+   3. Именно так по-научному называются кошачьи усы
+   4. Ушные раковины кошек способны разворачиваться на СТОЛЬКО градусов
+   5. ТАК звали древнеегипетскую богиню любви в образе кошки</Question>
+<Answer>   1. Британского
+   2. Алехин
+   3. вибриссы
+   4. на 180
+   5. Баст</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548261</QuestionId>
+<ParentId>31897</ParentId>
+<Number>103</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-103</TextId>
+<Question>ТЕМА Третий рейх -2
+   1. В &quot;Энциклопедии третьего рейха&quot; ЕМУ посвящена самая большая статья
+   2. 22 мая 1939 года был подписан &quot;Стальной пакт&quot; между ЭТИМИ странами
+   3. Третий рейх просуществовал вместо 1000 лет столько
+   4. ЭТО прозвище получил за подобострастное отношение к фюреру Кейтель
+   5. Под ТАКИМ названием вошла в историю резня 30 июля 1934 года</Question>
+<Answer>   1. Гитлеру
+   2. Германия и Италия
+   3. 12
+   4. Лакейтель
+   5. Ночь длинных ножей</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548262</QuestionId>
+<ParentId>31897</ParentId>
+<Number>104</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-104</TextId>
+<Question>ЦВЕТОЧНАЯ ТЕМА
+   1. ЭТОТ штат в шутку называют &quot;цветочным&quot;
+   2. ОН вырос на месте гибели сына речного бога Кефиса
+   3. ИМ было &quot;Негоже прясть&quot; в романе Дрюона
+   4. Говорят, что веточка мирта из свадебного букета леди Дианы вела
+свою &quot;Родословную&quot; от цветка, посаженого в 1840 году ЕЙ
+   5. ЭТУ картину Ван Гога купили в 1987 году за 53, 9 млн долларов</Question>
+<Answer>   1. Флорида
+   2. Нарцисс
+   3. лилиям
+   4. Королевой Викторией
+   5. Ирисы</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548263</QuestionId>
+<ParentId>31897</ParentId>
+<Number>105</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-105</TextId>
+<Question>ГИТАРА
+   1. ТАК называется струнный щипковый инструмент, родственный гитаре
+   2. ЭТО прозвище было у блюзового музыканта Джонни Уотсона
+   3. ТАКАЯ гитара с 5 двойными струнами получила распространение в
+Италии 16-го века
+   4. ЭТОТ бас-гитарист ранних Битлз на всех фото группы стоит спиной к
+зрителям
+   5. Бывший лидер ЭТОЙ группы Нопфлер не использует во время игры
+медиаторы</Question>
+<Answer>   1. кифара
+   2. Гитара
+   3. Испанская
+   4. Сатклифф
+   5. Dire Straits</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548264</QuestionId>
+<ParentId>31897</ParentId>
+<Number>106</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-106</TextId>
+<Question>Рок
+   1. Музыку для трилогии этого режиссера написал Борис Гребенщиков
+   2. Фамилия одного из персонажей известной песни Высоцкого и фамилия
+одного из участников &quot;Машины времени&quot;
+   3. Этот рок. музыкант называл Самару своей сестрой, а своей любовью -
+другой российский город
+   4. Именно его называют дедушкой русского рока
+   5. Прозвище этого великого рок-гитариста рептилия</Question>
+<Answer>   1. Соловьев
+   2. Маргулис
+   3. Кострому. Борис Гребенщиков
+   4. А.Градский
+   5. Эрик Клептон</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548265</QuestionId>
+<ParentId>31897</ParentId>
+<Number>107</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-107</TextId>
+<Question>Президенты
+   1. Он был 1-м президентом ЛУК.
+   2. Этот президент был однофамильцем одного из авторов гимна России
+   3. Имя этого президента напоминает нам один из любимых напитков
+   4. Однофамильца американского президента, павшего от руки убийцы в
+советском фильме сыграл этот Прибалтийский актер
+   5. Этого американского президента в скором времени собираются
+поместить на 10$ купюру</Question>
+<Answer>   1. Анатолий Коган
+   2. Александров. Президент АН).
+   3. Коффи Аннан
+   4. Банионис, &quot;Бегство м-ра МакКинли&quot;
+   5. Рональд Рейган</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548266</QuestionId>
+<ParentId>31897</ParentId>
+<Number>108</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-108</TextId>
+<Question>ТЕМА Чудеса света
+   1. В известной песне этот объект называют 8-м чудом света
+   2. Мы имеем достаточно точное представление об этом чуде света
+благодаря его изображению на монетах
+   3. Остатки этого чуда света были закуплены как первая промышленная
+партия металлолома
+   4. Марка этого пива называется так же, как и город, в котором
+располагается одно из чудес света
+   5. Строительная какого чуда света сражалась в битве при Соломине на
+стороне персов?</Question>
+<Answer>   1. Потемкинская лестница
+   2. Александрийский маяк
+   3. Колосс Родосский
+   4. Эфес
+   5. Артемисия. жена Мавзола, чудо света. Мавзолей</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548267</QuestionId>
+<ParentId>31897</ParentId>
+<Number>109</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-109</TextId>
+<Question>ТЕМА Барды
+   1. Этот бард сыграл в известнейшем советском шпионском фильме?
+   2. В 80-х годах XX века в Западной прессе появились сообщения об
+открытии этим
+   3. Этот бард был женат на колдунье
+   4. Именно этот бард положил свои стихи на музыку Моцарта
+   5. К жрецам именно этой религии относились барды</Question>
+<Answer>   1. Юрий Визбор
+   2. бардом остатков Атлантиды (А. Городницкий).
+   3. В. Высоцкий
+   4. Б.Бурда
+   5. Друиды</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548268</QuestionId>
+<ParentId>31897</ParentId>
+<Number>110</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-110</TextId>
+<Question>ТЕМА ПОДВОДНЫЕ ЛОДКИ
+   1. Линейный корабль - ЛК, тральщик - ТЩ, сторожевой корабль - СКР. А
+подводная лодка?
+   2. Эта подводная лодка первой достигла Северного полюса.
+   3. Длина этой подводной лодки 70 метров, наибольший диаметр 8 метров,
+водоизмещение подводное 1500 тонн, надводное - 1350; скорость 50 узлов.
+Год спуска 1865-1866. Капитана зовут...
+   4. Именно это грозное название носят наиболее современные российские
+подводные атомные ракетоносцы.
+   5. Именно этим подводная лодка &quot;Северянка&quot; кардинально отличалась от
+остальных советских подлодок.</Question>
+<Answer>   1. ПЛ
+   2. АПЛ &quot;Ленинский комсомол&quot;
+   3. Немо (ну можно еще принять и ответ &quot;Дакар&quot;)
+   4. &quot;Тайфун&quot;
+   5. Это было научное, а не военное судно</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548269</QuestionId>
+<ParentId>31897</ParentId>
+<Number>111</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-111</TextId>
+<Question>ТЕМА ФАУНА
+   1. В день эти зверьки съедают пищу, эквивалентную 100-300% их
+собственного веса.
+   2. Мыши и крысы у большинства людей вызывают отвращение. А эти их
+родственники, обитающие в наших лесах, неизменно вызывают у всех
+симпатию.
+   3. Они до того любят кататься с горок, что даже летом накатывают себе
+полосы для катания на глиняных откосах.
+   4. Их принято считать падальщиками, подбирающими объедки. На самом же
+деле они удачливые хищники и смелые мародеры.
+   5. Их жилища в войну нередко оккупировали партизаны.</Question>
+<Answer>   1. Землеройки
+   2. Белки
+   3. Выдры
+   4. Гиены
+   5. Хатки бобров</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548270</QuestionId>
+<ParentId>31897</ParentId>
+<Number>112</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-112</TextId>
+<Question>ТЕМА БАШНИ
+   1. Согласно современным представлениям, она имела вид ступенчатой
+пирамиды высотой около 90 метров - по тем временам немало.
+   2. Высота этой башни, известной если и не всему миру, то уж во всяком
+случае всему СССР, 540 метров.
+   3. Она самая высокая, самая древняя и самая заметная башня
+лондонского Тауэра.
+   4. Орудийные башни кораблей защищены очень мощной броней, нередко
+самой толстой на корабле. А самую толстую броню на башнях - до 650 мм -
+имели именно эти японские линкоры.
+   5. Это самая высокая из башен московского Кремля - ее высота 80
+метров.</Question>
+<Answer>   1. Вавилонская башня
+   2. Останкинская телебашня
+   3. Белая башня
+   4. Ямато и Мутцу
+   5. Троицкая</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548271</QuestionId>
+<ParentId>31897</ParentId>
+<Number>113</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-113</TextId>
+<Question>ТЕМА СТРАНЫ МИРА
+   1. Эту страну на карте не сразу и заметишь, а ее колония занимает
+самый большой остров у берегов Северной Америки.
+   2. Если не считать границы между Канадой и США, то все остальные
+границы, являющие собой прямые линии, находятся на Африканском материке,
+причем или на севере Африки, или на ее юге, и проходят по таким
+ландшафтам.
+   3. Эти 2 государства лежат на островах и со всех сторон омываются
+Средиземным морем.
+   4. На территории этой страны развивается большая часть сюжета фильма
+&quot;Бангког-хилтон&quot;
+   5. Галапагосские острова лежат между 3о северной широты и 3о южной
+широты в тысяче километров от Южной Америки и, естественно, являются
+территорией именно этой страны.</Question>
+<Answer>   1. Дания (колония - Гренландия)
+   2. По пустыням (Сахара и Намиб)
+   3. Мальта и Кипр
+   4. Таиланд
+   5. Эквадор</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548272</QuestionId>
+<ParentId>31897</ParentId>
+<Number>114</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-114</TextId>
+<Question>ТЕМА КОЛЬЦА
+   1. Загорск, Переславль-Залесский, Ростов Великий, Ярославль,
+Кострома, Суздаль и Владимир образуют именно это кольцо.
+   2. На кольцах, которыми кольцуют птиц, пишутся именно эти 2 вида
+данных.
+   3. Именно столько колец изготовил Саурон.
+   4. Операция &quot;Кольцо&quot; была завершающей стадией именно этой грандиозной
+битвы.
+   5. Кроме Сатурна, кольца имеют еще и эти 2 планеты. Их кольца,
+правда, не столь заметны.</Question>
+<Answer>   1. Золотое кольцо России
+   2. Где и когда кольцо было надето
+   3. 20: 9 людям, 7 гномам, 3 эльфам + 1 кольцо всевластия
+   4. Сталинградская битва
+   5. Уран и Юпитер</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548273</QuestionId>
+<ParentId>31897</ParentId>
+<Number>115</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-115</TextId>
+<Question>ТЕМА СВЯЗЬ ПРАВИТ МИРОМ
+   1. Он был главным &quot;связным&quot; на Олимпе, хотя и сам был богом.
+   2. Граф Монте-Кристо сравнивал это средство связи с огромным
+насекомым с белым брюшком и тонкими черными лапами.
+   3. Именно это средство связи в Америке в середине прошлого века
+называли &quot;говорящей молнией&quot;.
+   4. Первым получив известия об окончании битвы при Ватерлоо, он
+изрядно нажился на устроенной им же биржевой панике.
+   5. Именно так назывался первый в мире радиопередатчик.</Question>
+<Answer>   1. Гермес
+   2. Телеграф (механический)
+   3. Телеграф (электрический)
+   4. Рокфеллер
+   5. Грозоотметчик</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548274</QuestionId>
+<ParentId>31897</ParentId>
+<Number>116</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-116</TextId>
+<Question>ТЕМА ОТКРЫТИЯ
+   1. Этим открытием человечество обязано плохой погоде - в течение
+нескольких дней из-за пасмурной погоды Беккерель не мог изучать
+флюоресценцию солей металлов.
+   2. Чтобы отблагодарить богов за свое открытие, он устроил гекатомбу.
+   3. Именно так говорят о теоретическом предсказании чего-либо, что
+позднее подтверждается экспериментально.
+   4. Ради этого открытия, совершенного русскими землепроходцами еще в
+XVII веке, в XVIII-XIX веках в Америке было загублено несколько
+экспедиций.
+   5. Открытие этой земли - согласно международному праву - произошло
+спустя много лет после той даты, которую у нас принято считать датой ее
+открытия: ведь даже спустя более полстолетия Жюль Верн считал, что там
+нет суши, а только море.</Question>
+<Answer>   1. Открытие естественной радиоактивности
+   2. Пифагор
+   3. Открытие &quot;на кончике пера&quot;
+   4. Ради открытия т. н. северо-западного прохода (Берингов пролив,
+являющийся таковым, был открыт Семеном Дежневым в 1648 году)
+   5. Антарктида (Лазарев и Беллисгаузен &quot;открыли&quot; ее в 1820 г., но
+согласно международному праву земля считается открытой, если она
+картирована)</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548275</QuestionId>
+<ParentId>31897</ParentId>
+<Number>117</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-117</TextId>
+<Question>ТЕМА ОГНИ
+   1. Он был богом огня у древних греков
+   2. Звери в джунглях настолько боятся огня, что даже не называют его
+по имени, а называют его именно так.
+   3. Ученые называют это явление коронным разрядом, а в просторечии это
+называют именно так.
+   4. Многочисленные дымы костров аборигенов и дали название этому
+архипелагу.
+   5. Именно с этой целью в прошлом веке аборигены некоторых
+тихоокеанских островов разводили на своих берегах костры.</Question>
+<Answer>   1. Гефест
+   2. Красный цветок
+   3. Огни святого Эльма
+   4. Огненная Земля
+   5. Они приманивали таким образом корабли, некоторые из которых
+разбивались и становились их добычей</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548276</QuestionId>
+<ParentId>31897</ParentId>
+<Number>118</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-118</TextId>
+<Question>ТЕМА...ИЛИ...
+   1. Эти люди шли к святым местам.
+   2. Это протянулось почти на 5 тысяч километров вдоль западного
+побережья Южной Америки.
+   3. Это приходит дважды в сутки на побережье всех морей.
+   4. Этот архипелаг, ныне независимое государство, открывшие его
+испанцы назвали в честь своего короля.
+   5. Это был первый вид общественного транспорта.</Question>
+<Answer>   1. Пилигримы
+   2. Чили
+   3. Прилив
+   4. Филиппины
+   5. Дилижанс</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548277</QuestionId>
+<ParentId>31897</ParentId>
+<Number>119</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-119</TextId>
+<Question>ТЕМА В ДЖАЗЕ ТОЛЬКО ДЕВУШКИ
+   1. У нас этот фильм известен как &quot;В джазе только девушки&quot;, а на самом
+деле его оригинальное название переводится именно так.
+   2. Женщины этого острова перебили на своем острове всех мужчин. Но
+природа берет свое, так что даже могучие аргонавты с трудом убрались с
+острова.
+   3. Несколько лет назад к Южному полюсу отправилась на лыжах чисто
+женская экспедиция с именем этого мужского персонажа.
+   4. Именно так назывался бомбардировщик ДБ-2, на котором совершал
+рекордный перелет чисто женский экипаж под командованием Гризодубовой.
+   5. Помимо нескольких чисто женских ночных легкобомбардировочных
+полков на самолетах У-2 в Красной Армии был и чисто женский авиаполк,
+летавший на этих &quot;настоящих&quot; боевых машинах.</Question>
+<Answer>   1. &quot;Некоторые любят погорячее&quot;
+   2. Лесбос
+   3. Метелица
+   4. &quot;Родина&quot;
+   5. Полк Пе-2 под командованием М. Расковой</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548278</QuestionId>
+<ParentId>31897</ParentId>
+<Number>120</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-120</TextId>
+<Question>ТЕМА КИЛЬ
+   1. У всех птиц, обладающих этой способностью, киль есть обязательно.
+   2. Передняя оконечность киля называется форштевень. А задняя?
+   3. Именно для этого был выкопан Кильский канал.
+   4. В английском (и не только) флоте было жестокое наказание -
+килевание. Не все подвергавшиеся ему оставались в живых. А что оно из
+себя представляло?
+   5. Единое некогда созвездие Корабля (&quot;Арго&quot;) ныне разделено на три
+отдельных созвездия - Киль и эти 2 созвездия.</Question>
+<Answer>   1. Способность к полету
+   2. Ахтерштевень
+   3. Чтобы обеспечить проход больших кораблей, в первую очередь
+военных, из Балтийского в Северное море
+   4. Килевание иначе называется протягивание под килем
+   5. Корма и Паруса</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548279</QuestionId>
+<ParentId>31897</ParentId>
+<Number>121</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-121</TextId>
+<Question>ТЕМА ПУШКИ
+   1. Калибр этого артиллерийского орудия составляет 890 мм.
+   2. 210-мм пушка, обстреливавшая в 1916 году Париж с расстояния около
+ста километров, называлась именно так.
+   3. Разработанная этим ученым пушка до сих пор используется в
+медицинской диагностике.
+   4. Орудия, стоявшие на носу парусных боевых кораблей, назывались
+именно так.
+   5. У советских солдат это орудие получило мрачное прозвище &quot;прощай,
+Родина&quot; - мало кто долго воевал в расчетах этих орудий. Переоценить же
+их роль в Великой Отечественной войне трудно.</Question>
+<Answer>   1. Царь-пушка
+   2. Большая Берта
+   3. Рентген
+   4. Погонные
+   5. Противотанковая 45-мм пушка</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548280</QuestionId>
+<ParentId>31897</ParentId>
+<Number>122</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-122</TextId>
+<Question>ТЕМА ВСЕГО ОДНА БУКВА
+   1. Он снял фильм про однобуквенную операцию.
+   2. Именно этой буквой, как правило, обозначается самая яркая звезда
+созвездия.
+   3. Самое известное в России антитеррористическое подразделение,
+известное как группа &quot;Альфа&quot;, на самом деле называется по этой букве.
+   4. Эта буква стоит на &quot;экваторе&quot; русского алфавита.
+   5. Именно столько химических элементов обозначаются одной буквой.</Question>
+<Answer>   1. Л. Гайдай
+   2. Альфа
+   3. Группа А
+   4. П
+   5. 14</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548281</QuestionId>
+<ParentId>31897</ParentId>
+<Number>123</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-123</TextId>
+<Question>ТЕМА НЕ СОВСЕМ О ЖИВОТНЫХ
+   1. Так называют небольшой якорь с 3-4 лапами.
+   2. Снайпера, действующего в одиночку, как правило, на пересеченной
+местности, зовут именно так.
+   3. Расщепление неба в быту называется именно так.
+   4. Ка-52 - &quot;Аллигатор&quot;, Ка-54 - (&quot;Косатка&quot;), Ка-50 - именно она?
+   5. За выпученные глаза Н. К. Крупская получила в партии эту кличку.</Question>
+<Answer>   1. Кошка
+   2. Кукушка
+   3. Волчья пасть
+   4. &quot;Черная акула&quot;
+   5. Минога</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548282</QuestionId>
+<ParentId>31897</ParentId>
+<Number>124</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-124</TextId>
+<Question>ТЕМА ВЗРЫВ
+   1. Известно, что взрывы вулканов по силе сопоставимы с ядерным
+оружием. А самым известным взорвавшимся вулканом был он.
+   2. Взрыв звезды называют именно так.
+   3. Первый корабль этого класса назывался &quot;Взрыв&quot;. Был он невелик -
+всего 21 тонна.
+   4. Так называют боеприпасы, использующие эффект направленного взрыва.
+   5. Его взрыв послужил поводом для начала испано-американской войны.</Question>
+<Answer>   1. Кракатау
+   2. Вспышка сверхновой
+   3. Миноносец
+   4. Кумулятивные
+   5. Броненосный крейсер &quot;Мен&quot;</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548283</QuestionId>
+<ParentId>31897</ParentId>
+<Number>125</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-125</TextId>
+<Question>ТЕМА СЕМЕНЫ
+   1. Он возглавлял самое крупное подвижное соединение Красной Армии в
+1919- 1921 гг.
+   2. Пресловутый &quot;северо-западный проход&quot;, который безуспешно искали
+европейские мореплаватели несколько веков, он нашел задолго до того, как
+европейцы начали свои поиски.
+   3. Он был национальным героем нескольких стран, едва не стал
+императором, но умер в нищете в 44 года.
+   4. На его самолетах летали все советские асы.
+   5. Он возглавил антиримское восстание в 132-135 гг. н. э. Будь он
+поумнее, вторая иудейская война могла бы закончиться иначе.</Question>
+<Answer>   1. Семен Буденый
+   2. Семен Дежнев
+   3. Симон Боливар
+   4. Семен Лавочкин
+   5. Шимон Бар-Кохба</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548284</QuestionId>
+<ParentId>31897</ParentId>
+<Number>126</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-126</TextId>
+<Question>ТЕМА Петухи
+   1. Самая частая форма этого бытового приспособления петушок на
+шарнире?
+   2. Постоянным насестом этого петуха был шлем Жихаря?
+   3. Один из напитков двойного коньячного набора, производимого в Пензе
+носит название &quot;Золотой петушок&quot;, а второй - именно это?
+   4. Первая строчка сказки Пушкина &quot;Золотой петушок&quot; звучит именно так?
+   5. Вертикальная пластинка решетчатой кости называется именно так?</Question>
+<Answer>   1. Флюгер
+   2. Будимир
+   3. Золотая курочка
+   4. &quot;Негде, в тридевятом царстве&quot;
+   5. Петушиный гребень</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>548285</QuestionId>
+<ParentId>31897</ParentId>
+<Number>127</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>odessv01-127</TextId>
+<Question>ТЕМА САН САНЫЧ
+   1. Он начал Великую Отечественную войну командующим авиацией
+Ленинградского ВО, а закончил главнокомандующим ВВС советской армии.
+   2. Этот российский монарх носил именно такой номер.
+   3. Он вел в течение многих лет юмористическую передачу на
+телевидении.
+   4. Он был одним из первых поэтов, писавших о революции без пафоса, но
+разрешенных. А сам ненадолго пережил царский режим.</Question>
+<Answer>   1. А. А. Новиков
+   2. Александр III Александрович
+   3. Иванов
+   4. А. А. Блок
+   5. Александр Дюма - сын</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+</tournament>

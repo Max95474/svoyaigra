@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>2998</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;Своей игре&quot; на фестивале &quot;Остров сокровищ&quot; (Полтава, 2001)</Title>
+<Number/>
+<TextId>poltsv01</TextId>
+<QuestionsNum>31</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>poltsv01.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:47:29</LastUpdated>
+<PlayedAt>2001-07-13</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-08-24</CreatedAt>
+<question>
+<QuestionId>157158</QuestionId>
+<ParentId>11513</ParentId>
+<Number>1</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-1</TextId>
+<Question>РАЗ, ДВА, ТРИ, ЧЕТЫРЕ, ПЯТЬ
+   1. Именно так начинается один из куплетов знаменитой &quot;Мурки&quot;.
+   2. Главные роли в этом фильме сыграли Борис Гребенщиков и Сергей
+Курехин.
+   3. Именно он является автором книги &quot;Три цвета времени&quot;.
+   4. &quot;Раз - котенок самый белый, два - котенок самый смелый, три -
+котенок самый умный...&quot;. А четыре - именно такой.
+   5. Фраза &quot;Я не ел морковь&quot; была спета именно в этом мультфильме.</Question>
+<Answer>   1. &quot;Раз пошли на дело...&quot;
+   2. &quot;Два капитана-2&quot;.
+   3. Анатолий Виноградов.
+   4. Самый шумный - вспомните детское стихотворение.
+   5. &quot;Раз, два, три, четыре, пять&quot;.</Answer>
+<PassCriteria/>
+<Authors>Дмитрий Башук (3-й вопрос - Ольга Неумывакина)</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157159</QuestionId>
+<ParentId>11513</ParentId>
+<Number>2</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-2</TextId>
+<Question>НИКТО
+   10. Именно ЭТИМ командовал капитан &quot;Никто&quot;.
+   20. Именно ЕМУ Одиссей назвался &quot;Никто&quot;.
+   30. Почтальон Печкин на третий вопрос галчонка ответил именно этими
+двумя словами.
+   40. Согласно одному из гимнов, ЭТОГО не даст нам никто.
+   50. Именно эти имя и фамилия стояли в болгарском паспорте &quot;господина
+Никто&quot;.</Question>
+<Answer>   1. &quot;Наутилусом&quot; - речь идет о капитане Немо.
+   2. Циклопу Полифему.
+   3. &quot;Да никто!&quot;
+   4. Избавленья.
+   5. Эмил Боев (или Эмиль Боев).</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов</Authors>
+<Sources>   1. Ж. Верн. 20000 лье под водой.
+   2. Гомер. Одиссея.
+   3. М/ф &quot;Трое из Простоквашино&quot;.
+   4. &quot;Интернационал&quot;.
+   5. Б. Райнов. Пан Нiхто. - К.: Днiпро, 1988. - 765 с.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157160</QuestionId>
+<ParentId>11513</ParentId>
+<Number>3</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-3</TextId>
+<Question>БЕЛКА
+   1. Именно этот капитан принял на борт полный груз белок живьем.
+   2. Белки относятся именно к этому отряду.
+   3. Белка князя Гвидона пела именно эту песню.
+   4. Именно там поместил белку Чиж.
+   5. Белку обыкновенную еще зовут именно так.</Question>
+<Answer>   1. Капитан Врунгель.
+   2. Отряд грызунов.
+   3. &quot;Во саду ли в огороде...&quot;
+   4. В колесе.
+   5. Векша.</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов</Authors>
+<Sources>   1. М/ф &quot;Приключения капитана Врунгеля&quot;.
+   2. БЭС.
+   3. А. Пушкин. Сказка о царе Салтане.
+   4. Песня С. Чигракова &quot;Мышка&quot;.
+   5. БЭС.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157161</QuestionId>
+<ParentId>11513</ParentId>
+<Number>4</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-4</TextId>
+<Question>СТРЕЛКА
+   1. Именно ОНА летала вместе со Стрелкой.
+   2. Самая большая стрелка в Крыму называется именно ТАК.
+   3. В песне Утесова стрелка торопит именно ЕГО.
+   4. Именно такие имя и фамилия у письмоносицы Стрелки.
+   5. У растений стрелкой называют и лист, и побег, и ЭТО.</Question>
+<Answer>   1. Белка.
+   2. Арабатская стрелка.
+   3. Циферблат.
+   4. Дуня Петрова.
+   5. Стебель.</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов</Authors>
+<Sources>   2. Украина. Географическая карта.
+   3. Х/ф &quot;Веселые ребята&quot;.
+   4. Х/ф &quot;Волга-Волга&quot;.
+   5. Большой толковый словарь русского языка.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157162</QuestionId>
+<ParentId>11513</ParentId>
+<Number>5</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-5</TextId>
+<Question>ЧТО ТАКОЕ? КТО ТАКОЙ?
+   1. Отвечая на вопрос &quot;Что такое осень?&quot;, Шевчук упоминает именно эту
+реку.
+   2. Для мамы Ягуара именно так зовется тот, кто свернется клубком.
+   3. Именно этот, связанный с данной темой вопрос был первым из тех,
+что задала Алисе Синяя Гусеница.
+   4. Именно этот, связанный с данной темой вопрос задает популярная
+группа &quot;Конец фильма&quot;.
+   5. С этих четырех слов начинается работа классика, название которой
+заканчивается упоминанием о войне против политического течения.</Question>
+<Answer>   1. Неву.
+   2. Ежом.
+   3. &quot;Ты кто такая?&quot;
+   4. &quot;Кто такая Элис?&quot; (засчитывать также &quot;А что это за девочка?&quot;)
+   5. &quot;Что такое &quot;друзья народа&quot;...&quot;</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов (4-й вопрос - Дмитрий Башук)</Authors>
+<Sources>   1. Песня Ю. Шевчука &quot;Осень&quot;.
+   2. Р. Кiплiнг. Казки. - К.: Школа, 2000. - С. 79-80.
+   3. Л. Кэрролл. Приключения Алисы в Стране Чудес. Алиса в Зазеркалье.
+- М.: Пресса, 1992. - С. 53.
+   5. Алфавитный указатель произведений В.И. Ленина, вошедших в 4-е
+издание сочинений. - М.: Государственное издательство политической
+литературы, 1951. - С. 133.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157163</QuestionId>
+<ParentId>11513</ParentId>
+<Number>6</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-6</TextId>
+<Question>СИНЯЯ ПЕСНЯ
+   1. Именно ОН &quot;лег на провода&quot;.
+   2. Именно эти синие цветы &quot;помнили&quot; С. Ротару и Я. Йоала.
+   3. Согласно песне &quot;Синий платочек&quot;, &quot;в страде боевой помнят&quot; именно
+эту часть тела.
+   4. Именно ОН &quot;сердце растревожил, на глаза твои похожий&quot;.
+   5. Именно этим синим сооружениям советовал &quot;очень верить&quot; Булат
+Окуджава.</Question>
+<Answer>   1. Синий иней. &quot;Синяя песня&quot;.
+   2. Лаванда.
+   3. Девичьи плечи.
+   4. Синий лен.
+   5. Маяки.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources>   1. &quot;Синяя песня&quot;.
+   2. В. Матецкий, М. Шабров. &quot;Лаванда&quot;.
+   3. &quot;Синий платочек&quot;.
+   4. Р. Паулс, Я. Петерс. &quot;Синий лен&quot;.
+   5. Б. Окуджава. &quot;Не бродяги, не пропойцы...&quot;</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157164</QuestionId>
+<ParentId>11513</ParentId>
+<Number>7</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-7</TextId>
+<Question>ЭТИ ГЛАЗА НАПРОТИВ
+   1. Именно с этим драгоценным камнем сравнивают точный глаз.
+   2. Именно такого цвета &quot;глаза напротив&quot;.
+   3. Именно этот ученый первым исследовал глазное дно.
+   4. Именно в этот глаз впился князь Гвидон сватье бабе Бабарихе.
+   5. Именно ОН - автор танго &quot;Черные глаза&quot;.</Question>
+<Answer>   1. Алмаз.
+   2. Чайного.
+   3. Г. Гельмгольц.
+   4. Ни в какой - &quot;Но жалеет он очей / Старой бабушки своей&quot;; в общем,
+укусил он ее за нос.
+   5. Оскар Строк.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157165</QuestionId>
+<ParentId>11513</ParentId>
+<Number>8</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-8</TextId>
+<Question>ВСЮДУ УШИ
+   1. Именно из ЭТОГО поливали лягушата.
+   2. Так назывался житель планеты Блук.
+   3. Так называется кожистокрылое насекомое с узким длинным тельцем.
+   4. Именно о ее ухе шла речь в фильме &quot;Ва-банк&quot;.
+   5. Коровьи уши - один из видов именно ЭТОГО.</Question>
+<Answer>   1. Ушат. (К. Чуковский. &quot;Путаница&quot;)
+   2. Ушан. (К. Булычев. &quot;Тайна третьей планеты&quot;)
+   3. Уховертка.
+   4. Селедка.
+   5. Грибы.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157166</QuestionId>
+<ParentId>11513</ParentId>
+<Number>9</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-9</TextId>
+<Question>ЗАЧЕМ ТЕБЕ ТАКИЕ БОЛЬШИЕ ЗУБЫ?
+   1. Так называется долька чеснока.
+   2. Так называется семейство морских рыб отряда окунеобразных.
+   3. Так называлась одна из футбольных команд, за игрой которых
+наблюдал Хоттабыч.
+   4. Именно этим способом Элли и ее друзья предотвратили нападение
+саблезубых тигров.
+   5. Такое прозвище носил гангстер из фильма &quot;В джазе только девушки&quot;.</Question>
+<Answer>   1. Зубок.
+   2. Зубатка.
+   3. &quot;Зубило&quot;.
+   4. Шли очень тихо, чтобы тигры их не услышали.
+   5. Зубочистка.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157167</QuestionId>
+<ParentId>11513</ParentId>
+<Number>10</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-10</TextId>
+<Question>-НОС-
+   1. Так называется фильм А. Тарковского.
+   2. Его дочерью была Ариадна.
+   3. Крокодил плывет, а ОН идет.
+   4. Так называется философское учение, отрицающее возможность познания
+объективного мира и достижимость истины.
+   5. Нос является предметом изучения именно этой науки.</Question>
+<Answer>   1. &quot;Ностальгия&quot;.
+   2. Минос.
+   3. Носорог - вспомните песню, которую пели Львенок и Черепаха.
+   4. Агностицизм.
+   5. Ринология.</Answer>
+<PassCriteria/>
+<Authors>Дмитрий Башук (1-й вопрос - Ольга Неумывакина, 2-й вопрос - Максим
+Евланов)</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157168</QuestionId>
+<ParentId>11513</ParentId>
+<Number>11</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-11</TextId>
+<Question>-СОН-
+   1. Так называется ветер, периодически меняющий свое направление.
+   2. Этот воспитанник харьковского футбола прославился, играя за
+киевское &quot;Динамо&quot;.
+   3. Так в русской транскрипции звучит самоназвание Кореи.
+   4. Именно он у Бориса Гребенщикова имеет номер 2.
+   5. В этом фильме Ингмара Бергмана главные роли сыграли Ингрид Бергман
+и Лив Ульман.</Question>
+<Answer>   1. Муссон.
+   2. Владимир Бессонов.
+   3. Чосон.
+   4. Гарсон.
+   5. &quot;Осенняя соната&quot;.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157169</QuestionId>
+<ParentId>11513</ParentId>
+<Number>12</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-12</TextId>
+<Question>ГДЕ ТВОИ КРЫЛЬЯ?
+   1. Именно так называется один из видов интеллектуального творчества.
+   2. Крылатое сооружение начинает разбегаться именно в этом месяце.
+   3. ЭТО - и полосатый тюлень, и сухой плод растений, и верхняя одежда.
+   4. &quot;Нам разум дал стальные руки-крылья, а вместо сердца&quot; - именно
+ЭТО.
+   5. Именно ОНА написала: &quot;И я не могу взлететь,/ А с детства была
+крылатой&quot;.</Question>
+<Answer>   1. Бескрылки.
+   2. &quot;В юном месяце апреле&quot;.
+   3. Крылатка.
+   4. &quot;Пламенный мотор&quot;.
+   5. Анна Ахматова.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources>   2. Песня из телефильма &quot;Приключения Электроника&quot;.
+   3. Большой толковый словарь.
+   4. &quot;Марш авиаторов&quot;.
+   5. А. Ахматова. Стихотворения. - М.: Радуга, 1989. - С. 50.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157170</QuestionId>
+<ParentId>11513</ParentId>
+<Number>13</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-13</TextId>
+<Question>РАССКАЖИТЕ, ПТИЦЫ
+   1. Эта птица отличается от всех остальных самыми маленькими
+размерами.
+   2. Эта птица отличается умом и сообразительностью.
+   3. Голос этой птицы был одной из &quot;визитных карточек&quot; &quot;Комитета охраны
+авторских прав природы&quot;.
+   4. Так называется подотряд пауков.
+   5. Народный артист СССР, хоровой дирижер, руководитель Большого хора
+центрального телевидения и радиовещания носил именно эту фамилию.</Question>
+<Answer>   1. Колибри.
+   2. Птица-говорун. (Мультфильм &quot;Тайна третьей планеты&quot;)
+   3. Птица-секретарь.
+   4. Птицееды.
+   5. Птица.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157171</QuestionId>
+<ParentId>11513</ParentId>
+<Number>14</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-14</TextId>
+<Question>ВОКРУГ ФУТБОЛА
+   1. Именно столько конфет &quot;Футбол&quot; размещается в одной коробке.
+   2. Дочь известного футболиста Владимира Бессонова занимается именно
+этим видом спорта.
+   3. Так звучит русский перевод названия мемуаров Диего Марадоны.
+   4. Таково футбольное амплуа героя Владимира Новика в фильме &quot;Большая
+перемена&quot;.
+   5. Согласно песне А. Розенбаума &quot;Зенит-чемпион&quot;, именно ОН &quot;последним
+лег под бело-синий флаг&quot;.</Question>
+<Answer>   1. Девять.
+   2. Художественная гимнастика.
+   3. &quot;Это я, Диего&quot;.
+   4. Вратарь.
+   5. &quot;Металлист&quot;.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157172</QuestionId>
+<ParentId>11513</ParentId>
+<Number>15</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-15</TextId>
+<Question>ПОРА, ПОРА ПО БАРДАМ!
+   1. Именно такого цвета гитара в песне Олега Митяева.
+   2. Именно это транспортное средство фигурирует в песне Визбора &quot;Милая
+моя&quot;.
+   3. У Клячкина ОН - мокрый, у Дольского - удивительный, у Визбора -
+Домбайский.
+   4. Именно столько коней везут зеленую карету у А. Суханова.
+   5. &quot;Еще не в затемнении Москва и Ленинград&quot; в песне Григория
+Дикштейна. А какого числа?</Question>
+<Answer>   1. Желтая.
+   2. Самолет.
+   3. Вальс.
+   4. Шесть.
+   5. 21 июня.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157173</QuestionId>
+<ParentId>11513</ParentId>
+<Number>16</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-16</TextId>
+<Question>-ДИМ-
+   1. В числе нескольких человек ЕГО обвинили в поджоге Рейхстага.
+   2. На это место для сидения вряд ли кто-то стремится по своей воле.
+   3. Так называется неоконченная поэма А.С. Пушкина.
+   4. Так называется свойство некоторых веществ существовать в двух
+различных кристаллических формах.
+   5. Так в музыке называется постепенное ослабление звука.</Question>
+<Answer>   1. Георгий Димитров.
+   2. Скамья подсудимых.
+   3. &quot;Вадим&quot;.
+   4. Диморфизм.
+   5. Диминуэндо.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157174</QuestionId>
+<ParentId>11513</ParentId>
+<Number>17</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-17</TextId>
+<Question>МЫ ОЧЕНЬ ЛЮБИМ ОПЕРУ
+   1. Именно ОН написал либретто к опере Мусоргского &quot;Хованщина&quot;.
+   2. Этот автор оперы &quot;Война и мир&quot; умер в один день со Сталиным.
+   3. Этот герой оперы Вагнера приплывает в ладье, запряженной лебедем,
+чтобы спасти героиню.
+   4. Именно в этой опере присутствует балетная сцена &quot;Вальпургиева
+ночь&quot;.
+   5. В основе сюжета этой оперы лежит роман американского писателя Д.Б.
+Хейуарда, написанный по следам действительного происшествия.</Question>
+<Answer>   1. М. Мусоргский.
+   2. С. Прокофьев.
+   3. Лоэнгрин.
+   4. &quot;Фауст&quot; Ш. Гуно.
+   5. &quot;Порги и Бесс&quot; Д. Гершвина.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources>Энциклопедия юного музыканта. - СПб.: ООО &quot;Диамант&quot;, 2001. - С. 289,
+418, 427-428, 439-440.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157175</QuestionId>
+<ParentId>11513</ParentId>
+<Number>18</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-18</TextId>
+<Question>АПОЛЛОН
+   1. У греков - Аполлон, а у римлян - именно ОН.
+   2. Именно в этом зале в Ватикане находится римская копия бронзового
+оригинала статуи Аполлона работы древнегреческого скульптора Леохара.
+   3. Именно так звучали имя, отчество и фамилия персонажа Валентина
+Гафта в фильме &quot;Чародеи&quot;.
+   4. Именно столько кораблей серии &quot;Аполлон&quot; с экипажем было запущено в
+1968-1975 гг.
+   5. Именно это божество этрусской мифологии во многом соответствует
+Аполлону.</Question>
+<Answer>   1. Аполлон (или Феб).
+   2. Бельведер.
+   3. Аполлон Митрофанович Сатанеев.
+   4. Пятнадцать.
+   5. Аплу.</Answer>
+<PassCriteria/>
+<Authors>Вадим Данько</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157176</QuestionId>
+<ParentId>11513</ParentId>
+<Number>19</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-19</TextId>
+<Question>ПОРА, ПОРА ПО БАРДАМ! - 2
+   1. Кусочек именно ЭТОГО должна принести Глафира для совместного
+съедения.
+   2. Именно этот тип светильника горит &quot;в ночь перед бурею на мачте&quot;.
+   3. Именно этот возраст для Юрия Кукина - &quot;возраст свершений&quot;,
+&quot;возраст вершины&quot;.
+   4. Именно ОН написал песню к фильму &quot;Красавец-мужчина&quot;.
+   5. Название этой песни Александра Городницкого совпадает с названием
+романа Э. Хемингуэя.</Question>
+<Answer>   1. Сыр.
+   2. Святого Эльма свечки.
+   3. 30 лет.
+   4. Юлий Ким.
+   5. &quot;Острова в океане&quot;.</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources>   1. Песня &quot;Глафира&quot; дуэта &quot;Иваси&quot;.
+   2. Б. Окуджава. Песня из к/ф &quot;Из жизни инспектора уголовного
+розыска&quot;.
+   3. Одноименная песня Ю. Кукина.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157177</QuestionId>
+<ParentId>11513</ParentId>
+<Number>20</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-20</TextId>
+<Question>ЧТО СКАЗАЛ ПОКОЙНИК
+   1. Именно ЭТО сказал мертвый негр, идя играть в баскетбол.
+   2. &quot;Уже светляк предвозвещает утро / И гасит свой ненужный огонек. /
+Прощай, прощай! И помни обо мне&quot;. Эти слова произнес именно ОН (или
+ОНА).
+   3. Именно это шепнули мертвые губы после того, как над трупом
+склонилась луна.
+   4. Именно эти два первых слова в русском переводе сказал покойник
+Иоанне Хмелевской.
+   5. Именно эти два последних слова, по версии А.С. Пушкина, сказала
+статуя Командора Дону Гуану.</Question>
+<Answer>   1. Ничего он не сказал.
+   2. Призрак, он же тень отца Гамлета.
+   3. &quot;Грена...&quot;
+   4. &quot;Все сложено&quot;.
+   5. &quot;Дай руку!&quot;</Answer>
+<PassCriteria/>
+<Authors>Ольга Неумывакина</Authors>
+<Sources>   1. Песня &quot;Убили негра&quot; группы &quot;Запрещенные барабанщики&quot;.
+   2. В. Шекспир. Гамлет, принц Датский. Король Лир /Пер. М. Лозинского.
+- Мн.: Нар. асвета, 1974. - С. 14.
+   3. М. Светлов. Гренада.
+   4. И. Хмелевская. &quot;Что сказал покойник&quot;.
+   5. А. Пушкин. Полное собрание сочинений. - Т. 3. - М.: Гос. издат.
+худ. лит-ры, 1950. - С. 393.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157178</QuestionId>
+<ParentId>11513</ParentId>
+<Number>21</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-21</TextId>
+<Question>ВСЕ КРАСНОЕ
+   1. Именно в это, согласно версии Виктора Цоя, через час превращается
+&quot;красная, красная кровь&quot;.
+   2. Именно в этой газете впервые появились слова &quot;железная леди&quot;.
+   3. Именно это приветствие было популярным у советской молодежи в
+1920-1930-х гг.
+   4. Именно такое прозвище носил Манфред фон Рихтгофен.
+   5. Именно так звали убийцу из романа И. Хмелевской &quot;Все красное&quot;.</Question>
+<Answer>   1. В землю. (Песня &quot;Звезда по имени Солнце&quot;)
+   2. &quot;Красная звезда&quot;.
+   3. &quot;Рот Фронт!&quot; - &quot;Красный фронт&quot; в переводе с немецкого.
+   4. &quot;Красный барон&quot;.
+   5. Анита.</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157179</QuestionId>
+<ParentId>11513</ParentId>
+<Number>22</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-22</TextId>
+<Question>ЧЕРНАЯ ТЕМА
+   1. В песне очи - черные, а скатерть именно такого цвета.
+   2. У Высоцкого ОН носит серый костюм.
+   3. &quot;Он умел бумагу марать под треск свечки / Ему было за что
+умирать...&quot; Где именно?
+   4. Именно так в обиходе называют сотрудника Высшей аттестационной
+комиссии, который &quot;наугад&quot; берет диссертацию для экспертизы и
+последующего оппонирования.
+   5. Именно так звали одну из собак, побывавших в космосе до Гагарина.</Question>
+<Answer>   1. Белого (&quot;Скатерть белая / Залита вином...&quot;)
+   2. Черный человек.
+   3. &quot;... у Черной речки&quot;.
+   4. &quot;Черный оппонент&quot;.
+   5. Чернушка.</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов</Authors>
+<Sources>   2. В. Высоцкий. Собрание сочинений в 4-х книгах. Книга четвертая. -
+М.: Надежда-1, 1997. - С. 195.
+   3. А. Стругацкий, Б. Стругацкий. За миллиард лет до конца света.
+   5. М. Залюбовская. Сын Земли и звезд.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157180</QuestionId>
+<ParentId>11513</ParentId>
+<Number>23</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-23</TextId>
+<Question>-ТИР-
+   1. Быстрому износу вещей способствует именно это мероприятие.
+   2. Именно эту форму правления Д. Лоуэлл охарактеризовал как &quot;признак
+слабости&quot;.
+   3. Главным вооружением бомбардирских кораблей были именно эти орудия.
+   4. Именно этот номер был у &quot;нехорошей квартиры&quot;.
+   5. Именно так называется рычажок, делающий неподвижной стрелку
+компаса.</Question>
+<Answer>   1. Стирка.
+   2. Тирания.
+   3. Мортиры.
+   4. N 50.
+   5. Арретир.</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов (1, 3, 4) и Дмитрий Башук (2, 5)</Authors>
+<Sources>   2. &quot;Вечерний Харьков&quot;, 27.07.2000 г.
+   5. &quot;Комсомольская правда&quot;, 27.01.2000 г.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157181</QuestionId>
+<ParentId>11513</ParentId>
+<Number>24</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-24</TextId>
+<Question>-КИМ-
+   1. Именно ему принадлежат идеи &quot;чучхе&quot;.
+   2. Именно он написал роман &quot;Ким&quot;.
+   3. Именно так расшифровывалась советская аббревиатура КИМ.
+   4. Именно из этого племени был родом Конан-варвар.
+   5. Таково полное имя Кима Филби.</Question>
+<Answer>   1. Ким Ир Сен.
+   2. Редьярд Киплинг.
+   3. &quot;Коммунистический Интернационал Молодежи&quot;.
+   4. Из киммерийцев.
+   5. Гарольд (Харолд) Эдриан (Адриан) Расселл Филби.</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов</Authors>
+<Sources>   1. БЭС, 1998. - С. 525.
+   2. БЭС, 1998. - С. 527.
+   3. СЭС, 1984. - С. 574.
+   4. Р. Говард. Люди Черного Круга. Час Дракона.
+   5. БЭС, 1998. - С. 1277.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157182</QuestionId>
+<ParentId>11513</ParentId>
+<Number>25</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-25</TextId>
+<Question>-АД-
+   1. В Ленинграде она длилась 900 дней.
+   2. Арабского &quot;владыку морей&quot; мы зовем именно так.
+   3. Именно так называется дорога, параллельная линии фронта.
+   4. У ворот этого города начинается действие трагедии А.С. Пушкина
+&quot;Каменный гость&quot;.
+   5. Именно так звали основателя греческого города Фивы.</Question>
+<Answer>   1. Блокада.
+   2. Адмирал.
+   3. Рокада.
+   4. Мадрид.
+   5. Кадм.</Answer>
+<PassCriteria/>
+<Authors>Максим Евланов (4-й вопрос - Дмитрий Башук)</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157183</QuestionId>
+<ParentId>11513</ParentId>
+<Number>26</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-26</TextId>
+<Question>ПРОТОТИПЫ В &quot;12 СТУЛЬЯХ&quot;
+   1. Именно его театр был основным объектом пародии при изображении
+Театра Колумба.
+   2. Именно этот велогонщик и авиатор стал прототипом Курочкина,
+разоблачившего беговую аферу графа Друцкого.
+   3. Город Ветлуга послужил прообразом именно этого города.
+   4. Именно его прототипом стал одесский литератор по фамилии Сиркес,
+писавший под боярской фамилией Колычев.
+   5. Полагают, что именно ОНА стала прототипом жены Николая Сестрина
+Густы.</Question>
+<Answer>   1. Всеволод Мейерхольд.
+   2. С.И. Уточкин.
+   3. Васюки.
+   4. Ляпис-Трубецкой.
+   5. Зинаида Райх.</Answer>
+<PassCriteria/>
+<Authors>Вадим Данько</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157184</QuestionId>
+<ParentId>11513</ParentId>
+<Number>27</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-27</TextId>
+<Question>ВОДКИ НАРОДОВ МИРА
+   1. По некоторым сведениям, именно это американское виски,
+приготовленное из кукурузного зерна с добавками ржи и ячменя, любит один
+французский актер.
+   2. Так называется грузинская виноградная водка.
+   3. Эта французская водка является напитком с контролируемым
+наименованием по происхождению. Напитки с подобной технологией, но
+произведенные на других территориях, носят другие названия.
+   4. Это - самая знаменитая китайская рисовая водка.
+   5. Дальнейшей перегонкой этой мексиканской водки можно получить
+текилу.</Question>
+<Answer>   1. Бурбон.
+   2. Чача.
+   3. Кальвадос.
+   4. Маотай.
+   5. Мецкал.</Answer>
+<PassCriteria/>
+<Authors>Вадим Данько</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157185</QuestionId>
+<ParentId>11513</ParentId>
+<Number>28</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-28</TextId>
+<Question>ПЕРВЫЕ ОЛИМПИЙСИКЕ ИГРЫ СОВРЕМЕННОСТИ
+   1. Спортсмены именно этой страны завоевали наибольшее число медалей.
+   2. Американец Томас Бэрк выиграл бег на 100 метров, применив именно
+это новшество.
+   3. Именно там стартовали спортсмены, соревновавшиеся в &quot;беге
+греческого воина&quot;.
+   4. Победитель в марафоне получал в жены дочь богача Авероффа. Но
+только при этом условии.
+   5. Спортсмены именно этих двух неевропейских стран становились
+олимпийскими чемпионами.</Question>
+<Answer>   1. Греция.
+   2. Низкий старт.
+   3. В Марафоне.
+   4. Он должен был быть греком.
+   5. США и Австралия.</Answer>
+<PassCriteria/>
+<Authors>Вадим Данько</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157186</QuestionId>
+<ParentId>11513</ParentId>
+<Number>29</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-29</TextId>
+<Question>И СНОВА АПОЛЛОН
+   1. Именно так назывался литературно-художественный журнал,
+издававшийся в 1909-17 в Санкт-Петербурге, связанный с символизмом,
+позднее с акмеизмом.
+   2. Именно этот актер сыграл главную роль в фильме &quot;Аполлон-13&quot;.
+   3. Именно этот русский композитор в 1928 году написал балет &quot;Аполлон
+Мусагет&quot;.
+   4. Именно к ним уходил Аполлон на зиму из Дельф.
+   5. Именно под таким названием в 1977 г. Михаил Шемякин издал
+альманах, объединивший многих писателей и художников-нонконформистов
+России.</Question>
+<Answer>   1. &quot;Аполлон&quot;.
+   2. Том Хэнкс.
+   3. Игорь Стравинский.
+   4. Гипербореи.
+   5. &quot;Аполлон-77&quot;.</Answer>
+<PassCriteria/>
+<Authors>Вадим Данько</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157187</QuestionId>
+<ParentId>11513</ParentId>
+<Number>30</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-30</TextId>
+<Question>ПРОФЕССИИ
+   1. Песню человека этой профессии исполнял Леонид Агутин в телепроекте
+&quot;Старые песни о главном-1&quot;.
+   2. Именно им по профессии был Стекляшкин из Цветочного города.
+   3. Человек этой профессии говорил: &quot;Я приеду к Пете, я приеду к Поле:
+&quot;Здравствуйте, дети!&quot;
+   4. Этой рабочей профессией в совершенстве владел Харрисон Форд.
+   5. Это - основная профессия барда Е. Бачурина.</Question>
+<Answer>   1. Шофер.
+   2. Астроном. (Н. Носов. &quot;Приключения Незнайки и его друзей&quot;)
+   3. Доктор. (В. Маяковский. &quot;Кем быть&quot;)
+   4. Столяр (ответ &quot;плотник&quot; тоже засчитывать).
+   5. Художник.</Answer>
+<PassCriteria/>
+<Authors>Дмитрий Башук (1, 2) и Ольга Неумывакина (3, 4, 5)</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>157188</QuestionId>
+<ParentId>11513</ParentId>
+<Number>31</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>poltsv01-31</TextId>
+<Question>САТУРН
+   1. По преданию, именно он привел аборигенов в Италию.
+   2. Именно под его руководством были разработаны американские
+ракетоносители &quot;Сатурн&quot;.
+   3. Именно он соответствует Сатурну в греческой мифологии.
+   4. Именно этот аппарат открыл в 1980 году 8 спутников Сатурна.
+   5. Именно эта американская автомобильная компания в 1984 г.
+организовала новое автомобильное отделение &quot;Сатурн&quot;, использующее
+высокоавтоматизированные заводы для производства компактных автомобилей.</Question>
+<Answer>   1. Сатурн.
+   2. Вернер фон Браун.
+   3. Кронос.
+   4. &quot;Вояджер-2&quot;.
+   5. &quot;Дженерал Моторс&quot;.</Answer>
+<PassCriteria/>
+<Authors>Вадим Данько</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+</tournament>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3009</Id>
+<ParentId>2988</ParentId>
+<Title>Пятый Международный летний лагерь немецких знатоков &quot;Хоббах - 2003&quot;. Спортивное Jeopardy.</Title>
+<Number/>
+<TextId>hobb03je</TextId>
+<QuestionsNum>31</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>hobb03je.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:24</LastUpdated>
+<PlayedAt>2003-09-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-03-21</CreatedAt>
+<tour>
+<Id>24005</Id>
+<ParentId>3009</ParentId>
+<Title>Отборочный этап.</Title>
+<Number>1</Number>
+<TextId>hobb03je.1</TextId>
+<QuestionsNum>21</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>hobb03je.1</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:24</LastUpdated>
+<PlayedAt>2003-09-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+<tour>
+<Id>24006</Id>
+<ParentId>3009</ParentId>
+<Title>Финал.</Title>
+<Number>2</Number>
+<TextId>hobb03je.2</TextId>
+<QuestionsNum>10</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>hobb03je.2</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:24</LastUpdated>
+<PlayedAt>2003-09-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+</tournament>

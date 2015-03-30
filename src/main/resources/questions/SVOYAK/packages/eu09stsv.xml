@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3035</Id>
+<ParentId>2988</ParentId>
+<Title>V Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu09stsv</TextId>
+<QuestionsNum>75</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Александру Коробейникову
+(Санкт-Петербург), Дмитрию Соловьеву (Саранск), Кире Полевой и Алексею
+Полевому (Гомель).</Info>
+<URL>/znatoki/boris/reports/200911SPb.html</URL>
+<FileName>eu09stsv.txt</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-05 00:30:25</LastUpdated>
+<PlayedAt>2009-11-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+<tour>
+<Id>15745</Id>
+<ParentId>3035</ParentId>
+<Title>Квалификационный этап</Title>
+<Number>1</Number>
+<TextId>eu09stsv.1</TextId>
+<QuestionsNum>16</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Александру Коробейникову
+(Санкт-Петербург), Дмитрию Соловьеву (Саранск), Кире Полевой и Алексею
+Полевому (Гомель).</Info>
+<URL>/znatoki/boris/reports/200911SPb.html</URL>
+<FileName>eu09stsv.1</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-05 00:30:25</LastUpdated>
+<PlayedAt>2009-11-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-01-04</CreatedAt>
+</tour>
+<tour>
+<Id>15746</Id>
+<ParentId>3035</ParentId>
+<Title>1/27 финала</Title>
+<Number>2</Number>
+<TextId>eu09stsv.2</TextId>
+<QuestionsNum>28</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Александру Коробейникову
+(Санкт-Петербург), Дмитрию Соловьеву (Саранск), Кире Полевой и Алексею
+Полевому (Гомель).</Info>
+<URL>/znatoki/boris/reports/200911SPb.html</URL>
+<FileName>eu09stsv.2</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-05 00:30:25</LastUpdated>
+<PlayedAt>2009-11-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-01-04</CreatedAt>
+</tour>
+<tour>
+<Id>15747</Id>
+<ParentId>3035</ParentId>
+<Title>1/9 финала</Title>
+<Number>3</Number>
+<TextId>eu09stsv.3</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Александру Коробейникову
+(Санкт-Петербург), Дмитрию Соловьеву (Саранск), Кире Полевой и Алексею
+Полевому (Гомель).</Info>
+<URL>/znatoki/boris/reports/200911SPb.html</URL>
+<FileName>eu09stsv.3</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-05 00:30:25</LastUpdated>
+<PlayedAt>2009-11-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-01-04</CreatedAt>
+</tour>
+<tour>
+<Id>15748</Id>
+<ParentId>3035</ParentId>
+<Title>1/3 финала</Title>
+<Number>4</Number>
+<TextId>eu09stsv.4</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Александру Коробейникову
+(Санкт-Петербург), Дмитрию Соловьеву (Саранск), Кире Полевой и Алексею
+Полевому (Гомель).</Info>
+<URL>/znatoki/boris/reports/200911SPb.html</URL>
+<FileName>eu09stsv.4</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-05 00:30:25</LastUpdated>
+<PlayedAt>2009-11-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-01-04</CreatedAt>
+</tour>
+<tour>
+<Id>15749</Id>
+<ParentId>3035</ParentId>
+<Title>Финал</Title>
+<Number>5</Number>
+<TextId>eu09stsv.5</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Александру Коробейникову
+(Санкт-Петербург), Дмитрию Соловьеву (Саранск), Кире Полевой и Алексею
+Полевому (Гомель).</Info>
+<URL>/znatoki/boris/reports/200911SPb.html</URL>
+<FileName>eu09stsv.5</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-05 00:30:25</LastUpdated>
+<PlayedAt>2009-11-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-01-04</CreatedAt>
+</tour>
+<tour>
+<Id>15750</Id>
+<ParentId>3035</ParentId>
+<Title>Запас</Title>
+<Number>6</Number>
+<TextId>eu09stsv.6</TextId>
+<QuestionsNum>1</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Александру Коробейникову
+(Санкт-Петербург), Дмитрию Соловьеву (Саранск), Кире Полевой и Алексею
+Полевому (Гомель).</Info>
+<URL>/znatoki/boris/reports/200911SPb.html</URL>
+<FileName>eu09stsv.6</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-05 00:30:25</LastUpdated>
+<PlayedAt>2009-11-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-01-04</CreatedAt>
+</tour>
+</tournament>

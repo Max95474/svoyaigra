@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>32589</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Знатокиада - 2010&quot; (Всемирные игры знатоков) (Эйлат). Свояк-микст</Title>
+<Number/>
+<TextId>znat10mi</TextId>
+<QuestionsNum>64</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201011Eilat.html</URL>
+<FileName>znat10mi.txt</FileName>
+<RatingId/>
+<Editors>Евгений Шляхов, Александр Чижов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:55</LastUpdated>
+<PlayedAt>2010-11-12</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+<tour>
+<Id>34170</Id>
+<ParentId>32589</ParentId>
+<Title>Отборочные бои</Title>
+<Number>1</Number>
+<TextId>znat10mi.1</TextId>
+<QuestionsNum>32</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201011Eilat.html</URL>
+<FileName>znat10mi.1</FileName>
+<RatingId/>
+<Editors>Евгений Шляхов, Александр Чижов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:55</LastUpdated>
+<PlayedAt>2010-11-12</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-12-21</CreatedAt>
+</tour>
+<tour>
+<Id>34171</Id>
+<ParentId>32589</ParentId>
+<Title>1/4 финала</Title>
+<Number>2</Number>
+<TextId>znat10mi.2</TextId>
+<QuestionsNum>16</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201011Eilat.html</URL>
+<FileName>znat10mi.2</FileName>
+<RatingId/>
+<Editors>Евгений Шляхов, Александр Чижов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:55</LastUpdated>
+<PlayedAt>2010-11-12</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-12-21</CreatedAt>
+</tour>
+<tour>
+<Id>34172</Id>
+<ParentId>32589</ParentId>
+<Title>1/2 финала</Title>
+<Number>3</Number>
+<TextId>znat10mi.3</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201011Eilat.html</URL>
+<FileName>znat10mi.3</FileName>
+<RatingId/>
+<Editors>Евгений Шляхов, Александр Чижов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:55</LastUpdated>
+<PlayedAt>2010-11-12</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-12-21</CreatedAt>
+</tour>
+<tour>
+<Id>34173</Id>
+<ParentId>32589</ParentId>
+<Title>Финал</Title>
+<Number>4</Number>
+<TextId>znat10mi.4</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201011Eilat.html</URL>
+<FileName>znat10mi.4</FileName>
+<RatingId/>
+<Editors>Евгений Шляхов, Александр Чижов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:55</LastUpdated>
+<PlayedAt>2010-11-12</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-12-21</CreatedAt>
+</tour>
+</tournament>

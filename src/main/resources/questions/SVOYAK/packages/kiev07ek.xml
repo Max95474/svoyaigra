@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3021</Id>
+<ParentId>2988</ParentId>
+<Title>Чемпионат Киева по эрудит-квартету сезона 2006/07 гг.</Title>
+<Number/>
+<TextId>kiev07ek</TextId>
+<QuestionsNum>84</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.txt</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-11</CreatedAt>
+<tour>
+<Id>35670</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 1. Открытый раунд</Title>
+<Number>1</Number>
+<TextId>kiev07ek.1</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.1</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35671</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 1. Полуоткрытый раунд</Title>
+<Number>2</Number>
+<TextId>kiev07ek.2</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.2</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35672</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 1. Закрытый раунд</Title>
+<Number>3</Number>
+<TextId>kiev07ek.3</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.3</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35673</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 2. Открытый раунд</Title>
+<Number>4</Number>
+<TextId>kiev07ek.4</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.4</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35674</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 2. Полуоткрытый раунд</Title>
+<Number>5</Number>
+<TextId>kiev07ek.5</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.5</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35675</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 2. Закрытый раунд</Title>
+<Number>6</Number>
+<TextId>kiev07ek.6</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.6</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35676</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 3. Открытый раунд</Title>
+<Number>7</Number>
+<TextId>kiev07ek.7</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.7</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35677</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 3. Полуоткрытый раунд</Title>
+<Number>8</Number>
+<TextId>kiev07ek.8</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.8</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35678</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 3. Закрытый раунд</Title>
+<Number>9</Number>
+<TextId>kiev07ek.9</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.9</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35679</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 4. Открытый раунд</Title>
+<Number>10</Number>
+<TextId>kiev07ek.10</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.10</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35680</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 4. Полуоткрытый раунд</Title>
+<Number>11</Number>
+<TextId>kiev07ek.11</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.11</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35681</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 4. Закрытый раунд</Title>
+<Number>12</Number>
+<TextId>kiev07ek.12</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.12</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35682</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 5. Открытый раунд</Title>
+<Number>13</Number>
+<TextId>kiev07ek.13</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.13</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35683</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 5. Полуоткрытый раунд</Title>
+<Number>14</Number>
+<TextId>kiev07ek.14</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.14</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35684</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 5. Закрытый раунд</Title>
+<Number>15</Number>
+<TextId>kiev07ek.15</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.15</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35685</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 6. Открытый раунд</Title>
+<Number>16</Number>
+<TextId>kiev07ek.16</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.16</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35686</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 6. Полуоткрытый раунд</Title>
+<Number>17</Number>
+<TextId>kiev07ek.17</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.17</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35687</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 6. Закрытый раунд</Title>
+<Number>18</Number>
+<TextId>kiev07ek.18</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.18</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35688</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 7. Открытый раунд</Title>
+<Number>19</Number>
+<TextId>kiev07ek.19</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.19</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35689</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 7. Полуоткрытый раунд</Title>
+<Number>20</Number>
+<TextId>kiev07ek.20</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.20</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+<tour>
+<Id>35690</Id>
+<ParentId>3021</ParentId>
+<Title>Пакет N 7. Закрытый раунд</Title>
+<Number>21</Number>
+<TextId>kiev07ek.21</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.21</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-09</CreatedAt>
+</tour>
+</tournament>

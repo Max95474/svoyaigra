@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3037</Id>
+<ParentId>2988</ParentId>
+<Title>VI Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Эрудит-квартет</Title>
+<Number/>
+<TextId>eu10stek</TextId>
+<QuestionsNum>48</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.txt</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-11-15</CreatedAt>
+<tour>
+<Id>31027</Id>
+<ParentId>3037</ParentId>
+<Title>Предварительный этап. Бой 1. Открытый раунд</Title>
+<Number>1</Number>
+<TextId>eu10stek.1</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.1</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31028</Id>
+<ParentId>3037</ParentId>
+<Title>Предварительный этап. Бой 1. Полутемный раунд</Title>
+<Number>2</Number>
+<TextId>eu10stek.2</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.2</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31029</Id>
+<ParentId>3037</ParentId>
+<Title>Предварительный этап. Бой 1. Темный раунд</Title>
+<Number>3</Number>
+<TextId>eu10stek.3</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.3</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31030</Id>
+<ParentId>3037</ParentId>
+<Title>Предварительный этап. Бой 2. Открытый раунд</Title>
+<Number>4</Number>
+<TextId>eu10stek.4</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.4</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31031</Id>
+<ParentId>3037</ParentId>
+<Title>Предварительный этап. Бой 2. Полутемный раунд</Title>
+<Number>5</Number>
+<TextId>eu10stek.5</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.5</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31032</Id>
+<ParentId>3037</ParentId>
+<Title>Предварительный этап. Бой 2. Темный раунд</Title>
+<Number>6</Number>
+<TextId>eu10stek.6</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.6</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31033</Id>
+<ParentId>3037</ParentId>
+<Title>Полуфинал. Открытый раунд</Title>
+<Number>7</Number>
+<TextId>eu10stek.7</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.7</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31034</Id>
+<ParentId>3037</ParentId>
+<Title>Полуфинал. Полутемный раунд</Title>
+<Number>8</Number>
+<TextId>eu10stek.8</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.8</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31035</Id>
+<ParentId>3037</ParentId>
+<Title>Полуфинал. Темный раунд</Title>
+<Number>9</Number>
+<TextId>eu10stek.9</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.9</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31036</Id>
+<ParentId>3037</ParentId>
+<Title>Финал. Открытый раунд</Title>
+<Number>10</Number>
+<TextId>eu10stek.10</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.10</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31037</Id>
+<ParentId>3037</ParentId>
+<Title>Финал. Полутемный раунд</Title>
+<Number>11</Number>
+<TextId>eu10stek.11</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.11</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+<tour>
+<Id>31038</Id>
+<ParentId>3037</ParentId>
+<Title>Финал. Темный раунд</Title>
+<Number>12</Number>
+<TextId>eu10stek.12</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.12</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-10</CreatedAt>
+</tour>
+</tournament>

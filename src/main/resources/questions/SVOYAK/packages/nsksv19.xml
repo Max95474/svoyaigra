@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>18560</Id>
+<ParentId>2988</ParentId>
+<Title>XIX чемпионат Новосибирска по &quot;Своей игре&quot;. Полуфиналы и финал</Title>
+<Number/>
+<TextId>nsksv19</TextId>
+<QuestionsNum>32</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>nsksv19.txt</FileName>
+<RatingId/>
+<Editors>Егор Тимошенко</Editors>
+<EnteredBy/>
+<LastUpdated>2013-06-18 13:09:45</LastUpdated>
+<PlayedAt>2010-03-28</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-13</CreatedAt>
+<tour>
+<Id>18603</Id>
+<ParentId>18560</ParentId>
+<Title>Первый полуфинал</Title>
+<Number>1</Number>
+<TextId>nsksv19.1</TextId>
+<QuestionsNum>10</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>nsksv19.1</FileName>
+<RatingId/>
+<Editors>Егор Тимошенко</Editors>
+<EnteredBy/>
+<LastUpdated>2013-06-18 13:09:45</LastUpdated>
+<PlayedAt>2010-03-28</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-13</CreatedAt>
+</tour>
+<tour>
+<Id>18604</Id>
+<ParentId>18560</ParentId>
+<Title>Второй полуфинал</Title>
+<Number>2</Number>
+<TextId>nsksv19.2</TextId>
+<QuestionsNum>10</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>nsksv19.2</FileName>
+<RatingId/>
+<Editors>Егор Тимошенко</Editors>
+<EnteredBy/>
+<LastUpdated>2013-06-18 13:09:45</LastUpdated>
+<PlayedAt>2010-03-28</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-13</CreatedAt>
+</tour>
+<tour>
+<Id>18605</Id>
+<ParentId>18560</ParentId>
+<Title>Финал</Title>
+<Number>3</Number>
+<TextId>nsksv19.3</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>nsksv19.3</FileName>
+<RatingId/>
+<Editors>Егор Тимошенко</Editors>
+<EnteredBy/>
+<LastUpdated>2013-06-18 13:09:45</LastUpdated>
+<PlayedAt>2010-03-28</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-13</CreatedAt>
+</tour>
+</tournament>

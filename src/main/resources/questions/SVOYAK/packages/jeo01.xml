@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>2989</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Своя игра&quot; из Германии.</Title>
+<Number/>
+<TextId>jeo01</TextId>
+<QuestionsNum>26</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>jeo01.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2001-12-09</CreatedAt>
+<tour>
+<Id>24195</Id>
+<ParentId>2989</ParentId>
+<Title>Игра 31.</Title>
+<Number>1</Number>
+<TextId>jeo01.1</TextId>
+<QuestionsNum>13</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>jeo01.1</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+<tour>
+<Id>24196</Id>
+<ParentId>2989</ParentId>
+<Title>Игра 32.</Title>
+<Number>2</Number>
+<TextId>jeo01.2</TextId>
+<QuestionsNum>13</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>jeo01.2</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+</tournament>

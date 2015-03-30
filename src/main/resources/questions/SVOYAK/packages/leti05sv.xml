@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3015</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Весна в ЛЭТИ - 2005&quot; (Санкт-Петербург). Финал &quot;своей игры&quot;</Title>
+<Number/>
+<TextId>leti05sv</TextId>
+<QuestionsNum>13</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200503SPbLETI.html</URL>
+<FileName>leti05sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:46:18</LastUpdated>
+<PlayedAt>2005-03-20</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2006-06-13</CreatedAt>
+<question>
+<QuestionId>93568</QuestionId>
+<ParentId>8316</ParentId>
+<Number>1</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-1</TextId>
+<Question>Черное и белое
+   1. Именно его продал герой анекдота Абрам своему знакомому, после
+чего пришлось спрашивать у раввина о том, что такое цвет.
+   2. &quot;Черно-белый навсегда!&quot; - еще недавно на российском телевидении
+так раскручивали именно эту организацию.
+   3. Он постоянно меняет черное на белое и наоборот, а его соседа в
+этом вопросе отличает постоянство.
+   4. Один маленький мальчик считал, что ИХ два брата - Черный и Белый.
+   5. У англичан она серебряная, а у русских?</Question>
+<Answer>   1. Черно-белый телевизор.
+   2. &quot;Торпедо&quot;.
+   3. Шахматный конь.
+   4. Панкратовы (Панкратов-Черный и правда есть).
+   5. Черно-бурая.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93569</QuestionId>
+<ParentId>8316</ParentId>
+<Number>2</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-2</TextId>
+<Question>Современная музыка
+   1. Именно так зовут исполнителя образа Верки-Сердючки.
+   2. ОНА родилась 27 октября 1978 года - ровно через 196 лет после
+рождения Никколо Паганини.
+   3. &quot;Это образ весны и любви, что очень характеризует ассоциации со
+мной, мой внутренний мир&quot; - говорит Екатерина Чупринина об этом своем
+псевдониме.
+   4. На самом деле первое слово в названии этого коллектива совпадает с
+фамилией шестнадцатого президента США, а исказили его для того, чтобы
+приобрести соответствующее названию доменное имя.
+   5. Этот композитор в 1992 г. написал симфонию &quot;Ад&quot; по Данте с
+посвящением &quot;всем живущим и умирающим в России&quot;, а в 1996 г., в разгар
+войны, создал &quot;Чеченскую рапсодию&quot;.</Question>
+<Answer>   1. Андрей Данилко.
+   2. Ванесса Мэй.
+   3. Катя Лель.
+   4. &quot;Linkin Park&quot;.
+   5. Сергей Михайлович Слонимский.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources>   3. http://westrecords.by/artists.asp?artid=73&amp;subid=12</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93570</QuestionId>
+<ParentId>8316</ParentId>
+<Number>3</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-3</TextId>
+<Question>Россия в начале XX века
+   1. Его отец умер от болезни мозга в 54 года, а сам он - в 53. По той
+же причине.
+   2. Провальный олимпийский дебют сборной России случился именно в этом
+городе.
+   3. Некоторые историки утверждают, что в Саратове 28 февраля 1918 года
+вышел &quot;Декрет об отмене частного владения ИМИ&quot;, а Владимирский Совет
+немного позже объявил некоторых из НИХ государственной собственностью и
+выдавал красноармейцам лицензии на ИХ &quot;социализацию&quot;.
+   4. На VII (Апрельской) Всероссийской конференции РСДРП(б) - первой из
+легальных - на выборах в состав ЦК партии Ленин получил 104 голоса из
+109, Сталин - 97. На втором месте со 103 голосами из 109 был именно он.
+   5. В ЭТОМ году в России было собрано 5,3 миллиарда пудов зерновых.</Question>
+<Answer>   1. В.И. Ленин.
+   2. Стокгольм.
+   3. Женщины.
+   4. Зиновьев.
+   5. 1913.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources>   3. Лео Германн. Правда о великой лжи. СПб.: Лира, 2001.</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93571</QuestionId>
+<ParentId>8316</ParentId>
+<Number>4</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-4</TextId>
+<Question>Генералы
+   1. Этот фильм был поставлен по роману Жоржи Амаду &quot;Капитаны песка&quot;.
+   2. Известный красноярский филолог Людмила Григорьевна Самотик
+составила словарь его афоризмов; напротив многих выражений стоит пометка
+&quot;МАС-нет&quot; - &quot;в Малом Академическом Словаре не зафиксирована&quot;.
+   3. &quot;Я искренне сожалею о том, что не могу пожать его честную и
+мужественную руку&quot;, - сказал уже после окончания войны его извечный
+противник - фельдмаршал Монтгомери.
+   4. Первая часть этого рассказа Акутагава Рюноскэ называется &quot;Отряд
+'Белые нашивки'&quot;.
+   5. Этот шведский генерал под Полтавой командовал конницей и был взят
+в плен князем Меншиковым, затем перешел на русскую службу и даже был
+назначен членом верховного суда, учрежденного над князем Гагариным.</Question>
+<Answer>   1. &quot;Генералы песчаных карьеров&quot;.
+   2. Александр Иванович Лебедь.
+   3. Генерал-фельдмаршал Эрвин Роммель.
+   4. &quot;Генерал&quot;.
+   5. Шлиппенбах.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93572</QuestionId>
+<ParentId>8316</ParentId>
+<Number>5</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-5</TextId>
+<Question>Патроны
+   1. В изделиях серии Coolscreen применяют ИХ модели 2G11.
+   2. &quot;Все патроны кончились, // Больше нет гранат: // Их в живых
+осталось только семеро, // Молодых солдат&quot;. Дело было рядом с этим
+населенным пунктом.
+   3. Своему патрону он посвятил поэму &quot;Венера и Адонис&quot;.
+   4. В старом советском фильме героя исключали из комсомола. Главным
+аргументом обвинения была именно эта теперь уже крылатая фраза.
+   5. Эта сказка Оскара Уайльда описывает свадьбу юного принца с
+принцессой из далекой России.</Question>
+<Answer>   1. Патроны (для лампы, изделия - студийные прожекторы).
+   2. У деревни Крюково.
+   3. Уильям Шекспир.
+   4. &quot;А если бы он вез патроны?&quot;.
+   5. &quot;Необыкновенная история, случившаяся с патроном для фейерверка&quot;
+(&quot;The remarkable rocket&quot;).</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources>   1. http://www.glenbarr.com/cool.html</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93573</QuestionId>
+<ParentId>8316</ParentId>
+<Number>6</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-6</TextId>
+<Question>Гвозди
+   1. Эта премия учреждена Санкт-Петербургским союзом журналистов для
+репортеров, &quot;достигших наивысших профессиональных результатов в
+освещении работы строительного комплекса&quot;.
+   2. А эта премия вручается Союзом театральных деятелей РФ за лучший
+спектакль, созданный в театрах Москвы.
+   3. Начал дагестанец Омар Ханапиев с вытаскивания забитых гвоздей, а
+сейчас может таким способом сдвинуть с места самолет ТУ-134.
+   4. &quot;Гвозди б делать из этих людей: // Крепче б не было в мире
+гвоздей&quot;, - писал он в своей &quot;Балладе о гвоздях&quot;.
+   5. &quot;Есть лишь убийства на свете - запомните. // Самоубийств не бывает
+вообще&quot; - так заканчивается это стихотворение Евгения Евтушенко,
+посвященное Марине Цветаевой.</Question>
+<Answer>   1. Золотой гвоздь.
+   2. Гвоздь сезона.
+   3. Зубами.
+   4. Николай Семенович Тихонов.
+   5. &quot;Елабужский гвоздь&quot;.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources>   2. http://pr.nnn.tstu.ru/gazeta/
+   3. http://musculatura.narod.ru/articles/ability4.html
+   4. http://www.litera.ru/stixiya/authors/tixonov/spokojno-trubku-dokuril.html
+   5. http://www.kreschatik.net/issues/25/kontext/shulman_index.htm</Sources>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93574</QuestionId>
+<ParentId>8316</ParentId>
+<Number>7</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-7</TextId>
+<Question>Сокращения
+   1. Согласно известному анекдоту, его следовало начать с Аляски.
+   2. Созвучно этому портовому городу была названа тайная сеть эвакуации
+сотрудников СС после краха третьего рейха.
+   3. Учитывая его большую роль в создании первых танков, оные часто
+именовали по его инициалам его ватерклозетами.
+   4. Среди своих любимых сокращений он приводит &quot;сборный пункт
+аварийных машин&quot; и &quot;лабораторию санитарной дезинфекции&quot;.
+   5. Солженицын рассказывает о существовавшей в лагерях расшифровке
+сокращения ВКП(б), подчеркивающей бесправное положение заключенных.
+Подскажем, что значение последней буквы не изменилось.</Question>
+<Answer>   1. Сокращение штатов.
+   2. ОДЕССА.
+   3. Уинстон Черчилль (WC).
+   4. Артемий Лебедев.
+   5. Второе крепостное право (большевиков).</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93575</QuestionId>
+<ParentId>8316</ParentId>
+<Number>8</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-8</TextId>
+<Question>Мыши и крысы
+   1. Помимо мыши, в книге, посвященной разработке трехмерных
+интерфейсов, упоминается и это животное.
+   2. Книга советского разведчика утверждает, что там можно встретить
+только крыс.
+   3. Главный герой этой книги больше всего в жизни боялся именно крыс,
+на чем и сломался.
+   4. Основатель марки Smirnoff, судя по ее популярности, - вовсе не
+идиот. А родом основатель из этого города.
+   5. Именно он стал главным конструктором знаменитого немецкого
+сверхтяжелого танка &quot;Маус&quot;.</Question>
+<Answer>   1. Летучая мышь.
+   2. В подполье.
+   3. &quot;1984&quot;.
+   4. Мышкин.
+   5. Фердинанд Порше.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93576</QuestionId>
+<ParentId>8316</ParentId>
+<Number>9</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-9</TextId>
+<Question>МУР: география
+   1. Ее административный центр - Ижевск.
+   2. Это крупнейшая река Австралии.
+   3. Монголы называют эту реку Хара-Мурэн.
+   4. В этой исторической области Испании находится порт Картахена.
+   5. Такое название носил Мурманск до 1917 года.</Question>
+<Answer>   1. Удмуртия.
+   2. Муррей.
+   3. Амур.
+   4. Мурсия.
+   5. Романов-на-Мурмане.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93577</QuestionId>
+<ParentId>8316</ParentId>
+<Number>10</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-10</TextId>
+<Question>Треугольники
+   1. В 1981 году эта российская рок-группа выпустила альбом
+&quot;Треугольник&quot;.
+   2. Древние греки называли этот почти треугольный остров &quot;Тринакрией&quot;,
+что значит &quot;три мыса&quot;.
+   3. Если сторона равностороннего треугольника равна X, то чему равна
+его площадь?
+   4. Название этого татарского блюда переводится как &quot;треугольник&quot;.
+   5. В русских шашках так называется техника ловли тремя дамками одной.</Question>
+<Answer>   1. Аквариум.
+   2. Сицилия.
+   3. X*X*корень(3)/4.
+   4. Эчпочмак.
+   5. Треугольник Петрова.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93578</QuestionId>
+<ParentId>8316</ParentId>
+<Number>11</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-11</TextId>
+<Question>Тюремная
+   1. Говорят, кроме рукавов и притоков Невы с крыши &quot;Большого Дома&quot; на
+Литейном видно еще и эту реку, впадающую совсем в другое море.
+   2. Эта тюрьма в связи с событиями последних лет стала самой известной
+на острове свободы.
+   3. &quot;Тюрьмы, тюрьмы&quot;, - напевал Макс Покровский, сидя в подвале этой
+крепости.
+   4. Дежурный надзиратель из оперетты &quot;Летучая мышь&quot; по пьяни жаловался
+на такие действия со стороны арестантов.
+   5. Из нацистских лидеров, осужденных Нюрнбергским трибуналом к
+пожизненному заключению, только он не был освобожден досрочно.</Question>
+<Answer>   1. Колыму.
+   2. Гуантанамо (это американская база на Кубе).
+   3. Форт Байярд.
+   4. Каждый раз в его дежурство раскачивают тюрьму.
+   5. Рудольф Гесс.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93579</QuestionId>
+<ParentId>8316</ParentId>
+<Number>12</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-12</TextId>
+<Question>Поднять паруса
+   1. Это море обязано своим названием цвету паруса.
+   2. К этому семейству относится рыба парусник.
+   3. Именно это обозначает цифра в названии классов швертботов Ш-10;
+М-20; Р-30; Р-45.
+   4. Этим термином обозначают проекцию надводной части судна на
+диаметральную плоскость.
+   5. Эта международная встреча учебных парусных судов проводится каждые
+два года, начиная с 1938 года, Международной ассоциацией учебных
+парусных судов (СТА - Sail Training Association).</Question>
+<Answer>   1. Эгейское.
+   2. Парусниковые.
+   3. Площадь паруса в квадратных метрах.
+   4. Парусность судна.
+   5. Операция &quot;Парус&quot;.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>93580</QuestionId>
+<ParentId>8316</ParentId>
+<Number>13</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>leti05sv-13</TextId>
+<Question>МУР: литература
+   1. По словам Паниковского, именно это сделали с Козлевичем ксендзы.
+   2. Недавно он выпустил второй том книги &quot;Рухнама&quot;.
+   3. Одним из имен главного героя этой книги было &quot;Большой Жук&quot;.
+   4. Он поведал нам &quot;Сагу о Вечном воителе&quot;.
+   5. Согласно &quot;Книге вымышленных существ&quot;, его имя означает &quot;тридцать
+птиц&quot;.</Question>
+<Answer>   1. Охмурили.
+   2. Сапармурат Ниязов.
+   3. &quot;Жук в муравейнике&quot;.
+   4. Майкл Муркок.
+   5. Симург.</Answer>
+<PassCriteria/>
+<Authors/>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+</tournament>

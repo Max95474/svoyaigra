@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3032</Id>
+<ParentId>2988</ParentId>
+<Title>II Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu06stsv</TextId>
+<QuestionsNum>32</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200611Petrodvorets.html</URL>
+<FileName>eu06stsv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:33</LastUpdated>
+<PlayedAt>2006-11-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+<question>
+<QuestionId>580413</QuestionId>
+<ParentId>33453</ParentId>
+<Number>1</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-1</TextId>
+<Question>Знаки.
+   1. В уставах сказано, что воинское приветствие отдается ИМ.
+   2. ЭТОТ советский ЗНАК был производным от звезды.
+   3. ЭТОТ ЗНАК в программном коде означает ноль.
+   4. Именно ТАК раньше называлась группа &quot;Препинаки&quot;.
+   5. ОН делал знаки свечой родственнику своей жены.</Question>
+<Answer>   1. Знаки воинского различия.
+   2. Знак качества.
+   3. Перечеркнутый ноль.
+   4. &quot;Знаки препинания&quot;.
+   5. Бэрримор.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580414</QuestionId>
+<ParentId>33453</ParentId>
+<Number>2</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-2</TextId>
+<Question>Клетки.
+   1. В честь ЭТОЙ СТРАНЫ названа ткань в крупную клетку.
+   2. ТАК называются отростки нервных клеток.
+   3. ОНА стоит на клетке e7 в начале шахматной партии.
+   4. Клеточную теорию называют именами ЭТИХ ДВУХ УЧЕНЫХ.
+   5. ЭТИХ НАСЕКОМЫХ китайцы традиционно держат в клетках, как птиц.</Question>
+<Answer>   1. Шотландия.
+   2. Аксоны и дендриты.
+   3. Черная пешка.
+   4. Шлейден и Шванн.
+   5. Цикады.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580415</QuestionId>
+<ParentId>33453</ParentId>
+<Number>3</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-3</TextId>
+<Question>Точки.
+   1. ТАК называется московская поп-группа. Название у нее
+метеорологическое.
+   2. ЭТА &quot;ТОЧКА&quot; стала культовым фильмом во всём мире.
+   3. ТАКОЕ ПРОЗВИЩЕ носят люди, покорившие семь высших точек мира.
+   4. ТАК называется вершина побега.
+   5. ТАК называется место, в котором начинается расхождение.</Question>
+<Answer>   1. &quot;Точка росы&quot;.
+   2. &quot;Забриски пойнт&quot;.
+   3. Снежные барсы.
+   4. Точка роста.
+   5. Точка бифуркации.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments>   z-checkdb: &quot;Снежными барсами&quot; называют альпинистов, покоривших все
+горы [бывшего] Советского Союза высотой более 7000 метров (Антон
+Губанов).</Comments>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580416</QuestionId>
+<ParentId>33453</ParentId>
+<Number>4</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-4</TextId>
+<Question>Головные уборы.
+   1. У ЭТОГО головного УБОРА нет козырька, что логично.
+   2. ЭТОТ головной УБОР используют фокусники.
+   3. ЭТОТ головной УБОР дал имя вредной старухе.
+   4. ЭТОТ головной УБОР сшит по мотивам шлемов времен Киевской Руси.
+   5. ЭТОТ головной УБОР стал названием линейки Linux.</Question>
+<Answer>   1. Бескозырка.
+   2. Цилиндр.
+   3. Шапокляк.
+   4. Будёновка.
+   5. Red Hat [зачет: красная шляпа].</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580417</QuestionId>
+<ParentId>33453</ParentId>
+<Number>5</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-5</TextId>
+<Question>Мир растений.
+   1. ЭТО - самое северное насекомоядное растение.
+   2. Из ЭТОЙ растительной ТКАНИ, отвечающей за рост стебля в толщину,
+был изготовлен сказочный домик.
+   3. Растение, называемое по-латыни Selenicereus grandeflorus
+[селеницереус грандефлорус], по-русски зовется именно ТАК.
+   4. ЭТО ДЕРЕВО является самым морозоустойчивым из широколиственных:
+северная граница его произрастания - Таймыр.
+   5. ТАК называется смена одного типа растительности другим.</Question>
+<Answer>   1. Росянка.
+   2. Луб.
+   3. Царица ночи.
+   4. Липа.
+   5. Сукцессия.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580418</QuestionId>
+<ParentId>33453</ParentId>
+<Number>6</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-6</TextId>
+<Question>Одесса.
+   1. Одессу в футбольном чемпионате представляет ЭТОТ КЛУБ.
+   2. Последние несколько лет бессменным чемпионом Одессы по ЧГК
+является ЭТА КОМАНДА.
+   3. Часть территории Одессы получила свое название благодаря ЭТИМ
+гидротехническим СООРУЖЕНИЯМ.
+   4. Ближайшей к Одессе столицей является ЭТОТ ГОРОД.
+   5. ЭТОТ СИМВОЛ Одессы был плацдармом боевых действий в Первую
+мировую, и в Гражданскую, и в Великую Отечественную.</Question>
+<Answer>   1. &quot;Черноморец&quot;.
+   2. &quot;ОНУ им. Мечникова&quot; [зачет: команда Санникова].
+   3. Фонтаны.
+   4. Кишинев.
+   5. Катакомбы.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580419</QuestionId>
+<ParentId>33453</ParentId>
+<Number>7</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-7</TextId>
+<Question>Свадьбы.
+   1. Именно ТАМ состоялась в 1740 году свадьба, описанная в романе
+Лажечникова.
+   2. Именно ЭТОТ СПОР разгорелся на свадьбе Пелея и Фетиды.
+   3. ЭТУ РОЛЬ родственника жениха или невесты может выполнять только
+женатый мужчина.
+   4. Есть футболист С ТАКОЙ ФАМИЛИЕЙ. Холостой.
+   5. Именно ОН выступает с музыкальным коллективом под названием
+&quot;Свадебно-похоронный оркестр&quot;.</Question>
+<Answer>   1. Ледяной дом.
+   2. За обладание яблоком с надписью &quot;прекраснейшей&quot; (&quot;яблоком
+раздора&quot;).
+   3. Посажёный отец.
+   4. Ярослав Несвадба.
+   5. Горан Брегович.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580420</QuestionId>
+<ParentId>33453</ParentId>
+<Number>8</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-8</TextId>
+<Question>Всё о турах.
+   1. Сокращение &quot;тур.&quot; в энциклопедиях обычно означает именно ЭТО.
+   2. ЕЕ русское название - &quot;лодка&quot;, французское - &quot;башня&quot;.
+   3. Именно ОН был убит в Польше в 1627 году.
+   4. В 1981 году ОН был почетным гостем шестого Международного семинара
+молодых исследователей по проблемам сотрудничества в бассейне Тихого
+океана, проводившегося в Находке.
+   5. Именно ЭТОТ областной ЦЕНТР Российской Федерации расположен на
+реке Тура, притоке Тобола.</Question>
+<Answer>   1. &quot;Турецкий&quot;.
+   2. Шахматная ладья (В просторечии - тура).
+   3. Последний тур.
+   4. Тур Хейердал.
+   5. Тюмень.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580421</QuestionId>
+<ParentId>33453</ParentId>
+<Number>9</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-9</TextId>
+<Question>Не только овощи.
+   1. Название ЭТОГО ОВОЩА происходит от слов &quot;золотое яблоко&quot;.
+   2. ЭТО ЖИВОТНОЕ называют &quot;морским огурцом&quot;.
+   3. ЭТОТ ОВОЩ обвиняют в готовности предать, поскольку снаружи он
+красный, а внутри - белый.
+   4. Словом &quot;carrote&quot; [каррОт] - &quot;морковь&quot; - французы называют и ЭТУ
+МАСТЬ.
+   5. ТАК называется музыкальный коллектив и американский фильм ужасов.</Question>
+<Answer>   1. Помидор.
+   2. Трепанг [зачет: голотурия].
+   3. Редис.
+   4. Бубны.
+   5. &quot;Дети кукурузы&quot;.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580422</QuestionId>
+<ParentId>33453</ParentId>
+<Number>10</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-10</TextId>
+<Question>Пятиугольная тема.
+   1. Именно СТОЛЬКО пятиугольников используется в классическом
+футбольном мяче.
+   2. Именно ТАК называется многогранник, грани которого - двенадцать
+правильных пятиугольников.
+   3. ЕГО строительство велось под началом генерала Самервиля в 40-х
+годах XX века.
+   4. ЭТО ИЗОБРАЖЕНИЕ в СССР называли и &quot;ласточкой&quot;, и &quot;человечком,
+разводящим руками: лучше не можем&quot;.
+   5. Двадцать лет назад газета &quot;Пять углов&quot; выходила ПОД ЭТИМ
+НАЗВАНИЕМ.</Question>
+<Answer>   1. Двенадцать (и двадцать шестиугольников).
+   2. Додекаэдр.
+   3. Пентагон.
+   4. Знак качества.
+   5. &quot;Ленинские искры&quot;.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580423</QuestionId>
+<ParentId>33453</ParentId>
+<Number>11</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-11</TextId>
+<Question>Профессоры.
+   1. Именно НА ЭТОЙ УЛИЦЕ находится электротехнический университет.
+   2. ОН был вынужден продолжить свои исследования после того, как
+лишился и ног, и рук.
+   3. ЭТОТ эстрадный ПЕРСОНАЖ вообще не имеет академического звания или
+должности.
+   4. ЭТУ РОЛЬ Евгений Евстигнеев сыграл в 1973 году.
+   5. ОН выступал по &quot;Радио России&quot; вместе с академиком Пятитомовым.</Question>
+<Answer>   1. Улица Профессора Попова (СПбГЭТУ, он же ЛЭТИ).
+   2. Профессор Доуэль.
+   3. Профессор Лебединский.
+   4. Профессор Плейшнер.
+   5. Профессор Синицын.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580424</QuestionId>
+<ParentId>33453</ParentId>
+<Number>12</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-12</TextId>
+<Question>Учителя.
+   1. Учителем ЕГО учителя был Квай-Гон Джинн.
+   2. ОН появился в результате реорганизации 2-го Московского
+государственного университета.
+   3. Романы С ТАКИМ НАЗВАНИЕМ создали Александр Дюма и Артуро
+Перес-Реверте.
+   4. Победителем XXVII Московского международного кинофестиваля стал
+ЭТОТ ФИЛЬМ Алексея Учителя.
+   5. Именно В ЭТОМ ПРОИЗВЕДЕНИИ Пушкина Петр I &quot;за учителей своих
+заздравный кубок выпивает&quot;.</Question>
+<Answer>   1. Энакин Скайуокер (его учитель Оби Ван - ученик Квай-Гона).
+   2. Московский Государственный Педагогический Институт.
+   3. &quot;Учитель фехтования&quot;.
+   4. &quot;Космос как предчувствие&quot;.
+   5. &quot;Полтава&quot;.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580425</QuestionId>
+<ParentId>33453</ParentId>
+<Number>13</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-13</TextId>
+<Question>Инициалы.
+   1. На ЕГО слова написано множество романсов - &quot;Серенада&quot;, &quot;Растворил
+я окно&quot; и другие.
+   2. ЭТОГО талантливого РОССИЯНИНА часто называют по первым буквам
+имени: JR [Джей Ар].
+   3. ЭТОТ ФИЛЬМ сняли Эрнест Ясан и Николай Лебедев, а музыку написал
+Александр Журбин.
+   4. ПОД ЭТОЙ ТАБЛИЧКОЙ в переводе Заходера проживал Пятачок.
+   5. ЭТОГО АВТОРА один из героев О. Генри называет &quot;старикашкой Ха Эм&quot;.</Question>
+<Answer>   1. К.Р. [зачет: Константин Романов].
+   2. Джон Роберт Холден.
+   3. &quot;В моей смерти прошу винить Клаву К.&quot;.
+   4. &quot;Посторонним В.&quot;.
+   5. Омар Хайам.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580426</QuestionId>
+<ParentId>33453</ParentId>
+<Number>14</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-14</TextId>
+<Question>Минздрав предупреждает: оградите детей от табачного дыма.
+   1. Первое действие ЭТОЙ ОПЕРЫ происходит возле сигарной фабрики.
+   2. ОН поет:
+   &quot;Моя бабушка курит трубку,
+   Черный-пречерный табак&quot;.
+   3. &quot;Сказки дедушки Иринея&quot; - подзаголовок ЭТОЙ СКАЗКИ Владимира
+Фёдоровича Одоевского.
+   4. ОН был ректором школы-студии МХАТ, а затем - художественным
+руководителем МХТ им. Чехова.
+   5. ЭТОТ СОРТ табака был любимым у Сталина.</Question>
+<Answer>   1. &quot;Кармен&quot;.
+   2. Гарик Сукачёв.
+   3. &quot;Городок в табакерке&quot;.
+   4. Олег Табаков.
+   5. &quot;Герцеговина Флор&quot;.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580427</QuestionId>
+<ParentId>33453</ParentId>
+<Number>15</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-15</TextId>
+<Question>Три буквы.
+   1. Свое подразделение, производящее портативные компьютеры, ОНИ
+продали китайской фирме &quot;Леново&quot;.
+   2. Велосипеды ТАКОГО РОДА больше всего похожи на детские, однако все
+их компоненты обладают удивительной стойкостью, а цены - вполне
+&quot;недетские&quot;.
+   3. ОН - существенная часть пищеварительной системы.
+   4. Директор Эрмитажа носит фамилию Пиотровский. А директор КАКОГО
+МУЗЕЯ носит фамилию Гусев?
+   5. Команда Алексея Вавилова, одна из звездных команд &quot;Элитарного
+клуба&quot; начала девяностых, носила ТАКОЕ НАЗВАНИЕ.</Question>
+<Answer>   1. IBM.
+   2. BMX [би-эм-экс].
+   3. ЖКТ [желудочно-кишечный тракт].
+   4. ГРМ [Государственный Русский музей].
+   5. СКВ.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580428</QuestionId>
+<ParentId>33453</ParentId>
+<Number>16</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-16</TextId>
+<Question>Молдавия.
+   1. ЭТА молдавская ПОП-ГРУППА когда-то играла яркий хардкор.
+   2. ТАК называется денежная единица Молдавии.
+   3. &quot;Шопырло&quot; по-румынски, как известно, &quot;ящерица&quot;. А ЧТО по-румынски
+означает &quot;темпо&quot;?
+   4. На гербе Молдавии изображен зверь ИЗ ЭТОГО СЕМЕЙСТВА.
+   5. Знаменитая еще в СССР кондитерская фабрика Кишинева называется
+именно ТАК.</Question>
+<Answer>   1. &quot;Zdob si Zdub&quot; [здоб ши здуб].
+   2. Лей.
+   3. &quot;Время&quot;.
+   4. Парнокопытные (то ли корова, то ли зубр).
+   5. &quot;Букурия&quot;.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580429</QuestionId>
+<ParentId>33453</ParentId>
+<Number>17</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-17</TextId>
+<Question>Прощай!
+   1. На мелодию ЕЕ &quot;Прощания&quot; придумали не один текст. Но &quot;смертный
+бой&quot; упоминается повсеместно.
+   2. Хрестоматийное стихотворение Лермонтова начинается ТАК.
+   3. У ЭТОЙ ПОП-ГРУППЫ 90-х был хит &quot;Лондон, прощай&quot;.
+   4. ТАК на самом деле называется &quot;Полонез Огинского&quot;.
+   5. ЭТИМИ СЛОВАМИ прощается с телезрителями Василий Уткин.</Question>
+<Answer>   1. Славянка.
+   2. &quot;Прощай, немытая Россия&quot;.
+   3. &quot;Кар-мэн&quot;.
+   4. &quot;Прощание с Родиной&quot;.
+   5. &quot;Играйте в футбол!&quot;.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580430</QuestionId>
+<ParentId>33453</ParentId>
+<Number>18</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-18</TextId>
+<Question>Химия.
+   1. ЭТИМ прославились Рудзитис и Фельдман.
+   2. ТАК расшифровывается название пермского футбольного клуба.
+   3. ЭТОТ ПОП-ДУЭТ в начале девяностых был серьезным музыкальным
+экспериментом.
+   4. ЭТОТ отечественный ХИМИК получил синтетический каучук из
+картофельного спирта в разгар Поволжского голода.
+   5. На восьмой день рождения автору вопроса приобрели ЕГО за 16
+рублей.</Question>
+<Answer>   1. Написали школьный учебник по химии.
+   2. Аммиак-карбамид.
+   3. &quot;Chemical Brothers&quot;.
+   4. Сергей Лебедев.
+   5. Набор &quot;Юный химик&quot;.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments>   z-checkdb: Синтетический каучук был получен Лебедевым примерно через
+пять лет после голода в Поволжье (Антон Губанов).</Comments>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580431</QuestionId>
+<ParentId>33453</ParentId>
+<Number>19</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-19</TextId>
+<Question>Вперед!
+   1. &quot;Вперед и вверх, а там -
+   Ведь это наши горы,
+   Они помогут нам!&quot;
+   КАК НАЧИНАЕТСЯ этот припев?
+   2. Именно ОН &quot;шагает впереди&quot;. Или скачет - в переводе с
+монгольского.
+   3. ОН сидит в &quot;вороньем гнезде&quot;.
+   4. &quot;А ОНА всё вперед и вперед,
+   По полям, по болотам идет&quot;.
+   Назовите ее.
+   5. Линия переднего края десанта, освобождавшего ЭТОТ ГОРОД от
+фашистов, сейчас увековечена различными мемориальными памятниками по
+всей своей малой длине.</Question>
+<Answer>   1. &quot;Отставить разговоры&quot;.
+   2. Гайдар.
+   3. Впередсмотрящий.
+   4. Посуда.
+   5. Новороссийск.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580432</QuestionId>
+<ParentId>33453</ParentId>
+<Number>20</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-20</TextId>
+<Question>Грызуны.
+   1. ЕЕ изобрел Дуглас Энгельбарт.
+   2. ЭТИ ОРГАНЫ растут у грызунов на протяжении всей жизни.
+   3. Дикая морская свинка называется именно ТАК.
+   4. Систематика грызунов - сложное занятие. И когда не помогает
+микроскопическое изучение черепа, спасает только анализ ЕЕ.
+   5. ОН написал &quot;Танго морских свинок&quot;.</Question>
+<Answer>   1. Компьютерная мышь.
+   2. Зубы.
+   3. Агути.
+   4. ДНК.
+   5. Алексей Айги.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580433</QuestionId>
+<ParentId>33453</ParentId>
+<Number>21</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-21</TextId>
+<Question>Свиньи.
+   1. ЭТА СКАЗКА Андерсена соответствует теме.
+   2. ЭТО традиционно вставляют в рот печеному целиком поросенку.
+   3. В спектакле &quot;Кто боится Вирджинии Вульф?&quot; традиционно звучит
+музыка ИЗ ЭТОГО МУЛЬТФИЛЬМА Уолта Диснея.
+   4. ТАК называется первый альбом группы &quot;ДДТ&quot;.
+   5. ЭТОТ МЕТАЛЛ в старину называли &quot;свиным железом&quot;.</Question>
+<Answer>   1. &quot;Свинопас&quot;.
+   2. Печеное яблоко.
+   3. &quot;Три поросенка&quot;.
+   4. &quot;Свинья на радуге&quot;.
+   5. Чугун.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580434</QuestionId>
+<ParentId>33453</ParentId>
+<Number>22</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-22</TextId>
+<Question>Дыры и дырки.
+   1. ЭТО ВЫРАЖЕНИЕ - синоним слова &quot;ничего&quot;.
+   2. Дыра - это нора. А нора - это...
+   3. &quot;Если в сыре много дыр,
+   Значит, вкусным будет сыр!
+   Если в нем одна дыра,
+   Значит, ...&quot;.
+   4. Именно ОН надул губы, когда кафтан прожег.
+   5. ЭТОТ НОСИТЕЛЬ информации навсегда останется символом КБ 80-х
+годов.</Question>
+<Answer>   1. &quot;Дырка от бублика&quot;.
+   2. Кролик.
+   3. &quot;... вкусным был вчера&quot;.
+   4. Федул.
+   5. Перфокарта.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580435</QuestionId>
+<ParentId>33453</ParentId>
+<Number>23</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-23</TextId>
+<Question>-ГОП-.
+   1. ОНИ мешают нам жить.
+   2. Группа &quot;Вопли Видоплясова&quot; называет свое творчество
+&quot;электро-панк-...&quot;. ЗАКОНЧИТЕ.
+   3. Древние греки решили бы, что ОН учит ребенка, что недалеко от
+истины.
+   4. ЭТОТ ГОРОД - административный центр Восточного Самоа.
+   5. ЭТОТ АРХИТЕКТОР жил и работал во Пскове. Церковь Георгия и
+Преображения, построенная по его проекту в 1910 году, в 1995 году
+получила статус памятника.</Question>
+<Answer>   1. Гопники.
+   2. &quot;...гопак&quot;.
+   3. Логопед.
+   4. Паго-Паго.
+   5. Гоп.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580436</QuestionId>
+<ParentId>33453</ParentId>
+<Number>24</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-24</TextId>
+<Question>-СТОП-.
+   1. У дорожного знака &quot;Стоп&quot; именно СТОЛЬКО углов.
+   2. Англоязычное название ЭТОГО - &quot;hitchhiking&quot;.
+   3. В американском футболе есть ТАКАЯ игровая РОЛЬ.
+   4. &quot;Сигналом&quot; для ЭТОГО ЯВЛЕНИЯ служит сокращение светового дня.
+   5. ЭТОТ английский ДРАМАТУРГ написал пьесы &quot;Аркадия&quot;, &quot;Входит
+свободный человек&quot; и многие другие.</Question>
+<Answer>   1. Восемь.
+   2. Автостоп.
+   3. Стоппер.
+   4. Листопад.
+   5. Том Стоппард.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580437</QuestionId>
+<ParentId>33453</ParentId>
+<Number>25</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-25</TextId>
+<Question>Женские голоса.
+   1. ЕЕ дуэт с Армстронгом из джазовой классики превратился в
+поп-шлягер.
+   2. ЕЕ голос звучит в песнях &quot;Иронии судьбы&quot;.
+   3. ОНА хоть и управляет &quot;Ковчегом&quot;, но закончила консерваторию по
+классу вокала.
+   4. ОНА спела дуэтом с БГ битловскую &quot;Come Together&quot;.
+   5. Доход от ЕЕ пластинок составляет большую долю в бюджете
+Кабо-Верде.</Question>
+<Answer>   1. Элла Фицджеральд.
+   2. Алла Пугачева.
+   3. Ольга Арефьева.
+   4. Джоанна Стингрей.
+   5. Сезария Эвора.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580438</QuestionId>
+<ParentId>33453</ParentId>
+<Number>26</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-26</TextId>
+<Question>Байкал.
+   1. ЭТИХ &quot;ТУЗЕМЦЕВ&quot; в Байкале множество.
+   2. В Байкал впадает множество рек, а вытекает ЭТА.
+   3. ЭТО ЖИВОТНОЕ считается самым таинственным млекопитающим в Байкале.
+   4. ЭТО крупнейший остров на Байкале.
+   5. Байкал - крупнейшее по площади пресноводное озеро в мире. Назовите
+ВТОРОЕ по этому показателю.</Question>
+<Answer>   1. Эндемики.
+   2. Ангара.
+   3. Байкальская нерпа.
+   4. Ольхон.
+   5. Танганьика.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580439</QuestionId>
+<ParentId>33453</ParentId>
+<Number>27</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-27</TextId>
+<Question>Три буквы.
+   1. Хотабыч считал ЭТО сладостным мигом в жизни. Я с ним полностью
+согласен.
+   2. Псевдоним у солиста &quot;Сектора Газа&quot; был ТАКОЙ.
+   3. Один из первых ИХ альбомов назывался &quot;Периферия&quot;.
+   4. В 1988 году именно ОН забил голландцам на 53-й минуте.
+   5. Эта фирма советовала: &quot;Оденься прилично&quot;.</Question>
+<Answer>   1. Гол.
+   2. Юрий Хой.
+   3. &quot;ДДТ&quot;.
+   4. Василий Рац.
+   5. &quot;Lee&quot; [ли].</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580440</QuestionId>
+<ParentId>33453</ParentId>
+<Number>28</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-28</TextId>
+<Question>Лесная тема.
+   1. ОНИ помогают при реставрации.
+   2. ТАМ живет красавица по имени Олеся.
+   3. ЛЕННИИЛХ расшифровывается именно ТАК.
+   4. ОН написал роман &quot;Русский лес&quot;.
+   5. ЕЕ народное название - уссурийский енот.</Question>
+<Answer>   1. Строительные леса.
+   2. В белорусском Полесье.
+   3. Ленинградский научно-исследовательский институт лесного хозяйства.
+   4. Леонид Леонов.
+   5. Енотовидная собака.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580441</QuestionId>
+<ParentId>33453</ParentId>
+<Number>29</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-29</TextId>
+<Question>-РОЛ-.
+   1. ЭТО спортивное СНАРЯЖЕНИЕ выпускает фирма &quot;Ultra Wells&quot;.
+   2. ИХ первый диск вышел еще в 1964 году.
+   3. ЭТУ французскую &quot;РЕЧЬ&quot; нередко скрывают.
+   4. ЭТОТ АМЕРИКАНЕЦ записывает диски не только со своей альтернативной
+музыкой, но и с лекциями о здоровом образе жизни и поведения.
+   5. ОН написал &quot;Жизнь Рамакришны&quot;.</Question>
+<Answer>   1. Роликовые коньки.
+   2. &quot;Роллинг Стоунз&quot;.
+   3. Пароль.
+   4. Генри Роллинз.
+   5. Ромен Роллан.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580442</QuestionId>
+<ParentId>33453</ParentId>
+<Number>30</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-30</TextId>
+<Question>Волосы.
+   1. ОНА должна расти до пояса.
+   2. ИМ была посвящена статья &quot;Смены&quot;, названная &quot;Молчаливый бунт
+волосатых&quot;.
+   3. ЭТО сделали со своими волосами игроки сборной Румынии на
+чемпионате мира по футболу 1998 года.
+   4. ОН был самым известным солистом в группе &quot;Волосатое стекло&quot;.
+   5. ЭТО ВИДОИЗМЕНЕНИЕ стебля связано с волосами.</Question>
+<Answer>   1. Коса.
+   2. Хиппи.
+   3. Покрасили в желтый цвет (под цвет формы).
+   4. Александр Лаэртский.
+   5. Луковица (луковица бывает у волоса).</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580443</QuestionId>
+<ParentId>33453</ParentId>
+<Number>31</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-31</TextId>
+<Question>Книги.
+   1. У коровы книга - одна из составных частей... ЧЕГО?
+   2. Английский мультфильм по Библии назывался именно ТАК.
+   3. ЕГО перестали издавать в Ватикане только в середине XX века.
+   4. ОН &quot;составил&quot; словарь - отдельно для мужчин и отдельно для женщин.
+   5. Символами ЭТОГО книжного ИЗДАТЕЛЬСТВА являются молоток и буровая
+вышка.</Question>
+<Answer>   1. Желудка.
+   2. &quot;Суперкнига&quot;.
+   3. &quot;Индекс запрещенных книг&quot;.
+   4. Милорад Павич.
+   5. &quot;Недра&quot;.</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+<question>
+<QuestionId>580444</QuestionId>
+<ParentId>33453</ParentId>
+<Number>32</Number>
+<Type>Я</Type>
+<TypeNum>5</TypeNum>
+<TextId>eu06stsv-32</TextId>
+<Question>Пальцы.
+   1. ЭТОТ ПАЛЕЦ противопоставляет высших приматов низшим.
+   2. ОНА играла в команде Владимира Белкина.
+   3. По количеству пальцев отличают ЭТИ ДВА ОТРЯДА млекопитающих.
+   4. На роль первого в ЭТОМ ДЕЛЕ претендуют и антрополог, и
+полицейский, и врач.
+   5. Солдаты Пиночета отрубили ЕМУ пальцы.</Question>
+<Answer>   1. Большой.
+   2. Елена Пальцева.
+   3. Парнокопытные и непарнокопытные.
+   4. Дактилоскопия.
+   5. Виктор Хара (известный чилийский бард и член Коммунистической
+партии).</Answer>
+<PassCriteria/>
+<Authors>Михаил Скипский</Authors>
+<Sources/>
+<Comments/>
+<Rating/>
+<RatingNumber/>
+<Complexity/>
+<Topic/>
+<ProcessedBySearch/>
+<Notices>
+</Notices>
+</question>
+</tournament>

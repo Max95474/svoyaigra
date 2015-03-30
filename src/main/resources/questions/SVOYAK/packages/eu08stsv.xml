@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3034</Id>
+<ParentId>2988</ParentId>
+<Title>IV Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu08stsv</TextId>
+<QuestionsNum>78</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Мишелю Матвееву и Кириллу Богловскому (Санкт-Петербург), а
+также Диане Газаровой, Араму Арутюняну и Павлу Солахяну (Ереван).</Info>
+<URL>/znatoki/boris/reports/200809SPb.html</URL>
+<FileName>eu08stsv.txt</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:15</LastUpdated>
+<PlayedAt>2008-11-07</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+<tour>
+<Id>5145</Id>
+<ParentId>3034</ParentId>
+<Title>Квалификационный этап</Title>
+<Number>1</Number>
+<TextId>eu08stsv.1</TextId>
+<QuestionsNum>20</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Мишелю Матвееву и Кириллу Богловскому (Санкт-Петербург), а
+также Диане Газаровой, Араму Арутюняну и Павлу Солахяну (Ереван).</Info>
+<URL>/znatoki/boris/reports/200809SPb.html</URL>
+<FileName>eu08stsv.1</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:15</LastUpdated>
+<PlayedAt>2008-11-07</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+<tour>
+<Id>5146</Id>
+<ParentId>3034</ParentId>
+<Title>1/27 финала</Title>
+<Number>2</Number>
+<TextId>eu08stsv.2</TextId>
+<QuestionsNum>28</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Мишелю Матвееву и Кириллу Богловскому (Санкт-Петербург), а
+также Диане Газаровой, Араму Арутюняну и Павлу Солахяну (Ереван).</Info>
+<URL>/znatoki/boris/reports/200809SPb.html</URL>
+<FileName>eu08stsv.2</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:15</LastUpdated>
+<PlayedAt>2008-11-07</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+<tour>
+<Id>5147</Id>
+<ParentId>3034</ParentId>
+<Title>1/9 финала</Title>
+<Number>3</Number>
+<TextId>eu08stsv.3</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Мишелю Матвееву и Кириллу Богловскому (Санкт-Петербург), а
+также Диане Газаровой, Араму Арутюняну и Павлу Солахяну (Ереван).</Info>
+<URL>/znatoki/boris/reports/200809SPb.html</URL>
+<FileName>eu08stsv.3</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:15</LastUpdated>
+<PlayedAt>2008-11-07</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+<tour>
+<Id>5148</Id>
+<ParentId>3034</ParentId>
+<Title>1/3 финала</Title>
+<Number>4</Number>
+<TextId>eu08stsv.4</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Мишелю Матвееву и Кириллу Богловскому (Санкт-Петербург), а
+также Диане Газаровой, Араму Арутюняну и Павлу Солахяну (Ереван).</Info>
+<URL>/znatoki/boris/reports/200809SPb.html</URL>
+<FileName>eu08stsv.4</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:15</LastUpdated>
+<PlayedAt>2008-11-07</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+<tour>
+<Id>5149</Id>
+<ParentId>3034</ParentId>
+<Title>Финал</Title>
+<Number>5</Number>
+<TextId>eu08stsv.5</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Мишелю Матвееву и Кириллу Богловскому (Санкт-Петербург), а
+также Диане Газаровой, Араму Арутюняну и Павлу Солахяну (Ереван).</Info>
+<URL>/znatoki/boris/reports/200809SPb.html</URL>
+<FileName>eu08stsv.5</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:15</LastUpdated>
+<PlayedAt>2008-11-07</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+</tournament>

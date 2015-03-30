@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3006</Id>
+<ParentId>2988</ParentId>
+<Title>Карусель - 1 (Кронах-2000)</Title>
+<Number/>
+<TextId>karus00</TextId>
+<QuestionsNum>21</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus00.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:56</LastUpdated>
+<PlayedAt>2000-08-08</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-06-12</CreatedAt>
+<tour>
+<Id>7152</Id>
+<ParentId>3006</ParentId>
+<Title>Четвертьфинал. Jeopardy feat. Crossword.</Title>
+<Number>1</Number>
+<TextId>karus00.1</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus00.1</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:56</LastUpdated>
+<PlayedAt>2000-08-08</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2010-03-21</CreatedAt>
+</tour>
+<tour>
+<Id>7153</Id>
+<ParentId>3006</ParentId>
+<Title>Полуфинал. Jeopardy Modern.</Title>
+<Number>2</Number>
+<TextId>karus00.2</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus00.2</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:56</LastUpdated>
+<PlayedAt>2000-08-08</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2010-03-21</CreatedAt>
+</tour>
+<tour>
+<Id>7154</Id>
+<ParentId>3006</ParentId>
+<Title>Финал. Jeopardy Classic.</Title>
+<Number>3</Number>
+<TextId>karus00.3</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus00.3</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:56</LastUpdated>
+<PlayedAt>2000-08-08</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2010-03-21</CreatedAt>
+</tour>
+<tour>
+<Id>7155</Id>
+<ParentId>3006</ParentId>
+<Title>Финал финала. &quot;Своя Игра&quot;. 3 вопроса. Общая тема - Искусство.</Title>
+<Number>4</Number>
+<TextId>karus00.4</TextId>
+<QuestionsNum>3</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus00.4</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:56</LastUpdated>
+<PlayedAt>2000-08-08</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2010-03-21</CreatedAt>
+</tour>
+</tournament>

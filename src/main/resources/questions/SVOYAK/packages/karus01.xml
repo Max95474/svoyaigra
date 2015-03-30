@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3007</Id>
+<ParentId>2988</ParentId>
+<Title>Карусель - 2 (Хоббах-2001)</Title>
+<Number/>
+<TextId>karus01</TextId>
+<QuestionsNum>21</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus01.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-08-25</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-07-13</CreatedAt>
+<tour>
+<Id>24201</Id>
+<ParentId>3007</ParentId>
+<Title>Четвертьфинал. Jeopardy Domains.</Title>
+<Number>1</Number>
+<TextId>karus01.1</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus01.1</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-08-25</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+<tour>
+<Id>24202</Id>
+<ParentId>3007</ParentId>
+<Title>Полуфинал. Jeopardy Time.</Title>
+<Number>2</Number>
+<TextId>karus01.2</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus01.2</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-08-25</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+<tour>
+<Id>24203</Id>
+<ParentId>3007</ParentId>
+<Title>Финал. Jeopardy Classic.</Title>
+<Number>3</Number>
+<TextId>karus01.3</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus01.3</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-08-25</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+<tour>
+<Id>24204</Id>
+<ParentId>3007</ParentId>
+<Title>Финал финала. &quot;Своя Игра&quot;. 3 вопроса.</Title>
+<Number>4</Number>
+<TextId>karus01.4</TextId>
+<QuestionsNum>3</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus01.4</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-08-25</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+</tournament>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>36149</Id>
+<ParentId>2988</ParentId>
+<Title>I Кубок South Butovo Park по &quot;Своей игре&quot;</Title>
+<Number/>
+<TextId>sbp-sv11</TextId>
+<QuestionsNum>112</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редакторы благодарят за помощь в подготовке пакета Иделию Айзятулову
+(Санкт-Петербург), Юлию Буздалину (Москва), Александра Рождествина
+(Самара).</Info>
+<URL/>
+<FileName>sbp-sv11.txt</FileName>
+<RatingId/>
+<Editors>Андрей Островский, Игорь Тюнькин, Серафим Шибанов (Москва)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-02-08 03:02:35</LastUpdated>
+<PlayedAt>2011-09-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-11</CreatedAt>
+<tour>
+<Id>36500</Id>
+<ParentId>36149</ParentId>
+<Title>Квалификация</Title>
+<Number>1</Number>
+<TextId>sbp-sv11.1</TextId>
+<QuestionsNum>28</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят за помощь в подготовке пакета Иделию Айзятулову
+(Санкт-Петербург), Юлию Буздалину (Москва), Александра Рождествина
+(Самара).</Info>
+<URL/>
+<FileName>sbp-sv11.1</FileName>
+<RatingId/>
+<Editors>Андрей Островский, Игорь Тюнькин, Серафим Шибанов (Москва)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-02-08 03:02:35</LastUpdated>
+<PlayedAt>2011-09-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-02-08</CreatedAt>
+</tour>
+<tour>
+<Id>36501</Id>
+<ParentId>36149</ParentId>
+<Title>Групповой этап</Title>
+<Number>2</Number>
+<TextId>sbp-sv11.2</TextId>
+<QuestionsNum>48</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят за помощь в подготовке пакета Иделию Айзятулову
+(Санкт-Петербург), Юлию Буздалину (Москва), Александра Рождествина
+(Самара).</Info>
+<URL/>
+<FileName>sbp-sv11.2</FileName>
+<RatingId/>
+<Editors>Андрей Островский, Игорь Тюнькин, Серафим Шибанов (Москва)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-02-08 03:02:35</LastUpdated>
+<PlayedAt>2011-09-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-02-08</CreatedAt>
+</tour>
+<tour>
+<Id>36502</Id>
+<ParentId>36149</ParentId>
+<Title>Третьфиналы</Title>
+<Number>3</Number>
+<TextId>sbp-sv11.3</TextId>
+<QuestionsNum>24</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят за помощь в подготовке пакета Иделию Айзятулову
+(Санкт-Петербург), Юлию Буздалину (Москва), Александра Рождествина
+(Самара).</Info>
+<URL/>
+<FileName>sbp-sv11.3</FileName>
+<RatingId/>
+<Editors>Андрей Островский, Игорь Тюнькин, Серафим Шибанов (Москва)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-02-08 03:02:35</LastUpdated>
+<PlayedAt>2011-09-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-02-08</CreatedAt>
+</tour>
+<tour>
+<Id>36503</Id>
+<ParentId>36149</ParentId>
+<Title>Финал</Title>
+<Number>4</Number>
+<TextId>sbp-sv11.4</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редакторы благодарят за помощь в подготовке пакета Иделию Айзятулову
+(Санкт-Петербург), Юлию Буздалину (Москва), Александра Рождествина
+(Самара).</Info>
+<URL/>
+<FileName>sbp-sv11.4</FileName>
+<RatingId/>
+<Editors>Андрей Островский, Игорь Тюнькин, Серафим Шибанов (Москва)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-02-08 03:02:35</LastUpdated>
+<PlayedAt>2011-09-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-02-08</CreatedAt>
+</tour>
+</tournament>

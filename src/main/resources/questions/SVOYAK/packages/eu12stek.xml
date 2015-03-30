@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>30749</Id>
+<ParentId>2988</ParentId>
+<Title>VIII Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Эрудит-квартет</Title>
+<Number/>
+<TextId>eu12stek</TextId>
+<QuestionsNum>49</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.txt</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:08</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-10-29</CreatedAt>
+<tour>
+<Id>32434</Id>
+<ParentId>30749</ParentId>
+<Title>Предварительный этап. Бой 1. Открытый раунд</Title>
+<Number>1</Number>
+<TextId>eu12stek.1</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.1</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:08</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32435</Id>
+<ParentId>30749</ParentId>
+<Title>Предварительный этап. Бой 1. Полутемный раунд</Title>
+<Number>2</Number>
+<TextId>eu12stek.2</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.2</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32436</Id>
+<ParentId>30749</ParentId>
+<Title>Предварительный этап. Бой 1. Темный раунд</Title>
+<Number>3</Number>
+<TextId>eu12stek.3</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.3</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32437</Id>
+<ParentId>30749</ParentId>
+<Title>Предварительный этап. Бой 2. Открытый раунд</Title>
+<Number>4</Number>
+<TextId>eu12stek.4</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.4</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32438</Id>
+<ParentId>30749</ParentId>
+<Title>Предварительный этап. Бой 2. Полутемный раунд</Title>
+<Number>5</Number>
+<TextId>eu12stek.5</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.5</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32439</Id>
+<ParentId>30749</ParentId>
+<Title>Предварительный этап. Бой 2. Темный раунд</Title>
+<Number>6</Number>
+<TextId>eu12stek.6</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.6</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32440</Id>
+<ParentId>30749</ParentId>
+<Title>Полуфинал. Открытый раунд</Title>
+<Number>7</Number>
+<TextId>eu12stek.7</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.7</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32441</Id>
+<ParentId>30749</ParentId>
+<Title>Полуфинал. Полутемный раунд</Title>
+<Number>8</Number>
+<TextId>eu12stek.8</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.8</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32442</Id>
+<ParentId>30749</ParentId>
+<Title>Полуфинал. Темный раунд</Title>
+<Number>9</Number>
+<TextId>eu12stek.9</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.9</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32443</Id>
+<ParentId>30749</ParentId>
+<Title>Финал. Открытый раунд</Title>
+<Number>10</Number>
+<TextId>eu12stek.10</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.10</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32444</Id>
+<ParentId>30749</ParentId>
+<Title>Финал. Полутемный раунд</Title>
+<Number>11</Number>
+<TextId>eu12stek.11</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.11</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32445</Id>
+<ParentId>30749</ParentId>
+<Title>Финал. Темный раунд</Title>
+<Number>12</Number>
+<TextId>eu12stek.12</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.12</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32446</Id>
+<ParentId>30749</ParentId>
+<Title>Дополнительная тема</Title>
+<Number>13</Number>
+<TextId>eu12stek.13</TextId>
+<QuestionsNum>1</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.13</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:09</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+</tournament>

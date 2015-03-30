@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3003</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;своей игре&quot; &quot;Бершидские озарения&quot;</Title>
+<Number/>
+<TextId>bersh</TextId>
+<QuestionsNum>85</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-05-01</CreatedAt>
+<tour>
+<Id>18979</Id>
+<ParentId>3003</ParentId>
+<Title>1/27 финала</Title>
+<Number>1</Number>
+<TextId>bersh.1</TextId>
+<QuestionsNum>35</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.1</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-30</CreatedAt>
+</tour>
+<tour>
+<Id>18980</Id>
+<ParentId>3003</ParentId>
+<Title>1/9 финала</Title>
+<Number>2</Number>
+<TextId>bersh.2</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.2</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-30</CreatedAt>
+</tour>
+<tour>
+<Id>18981</Id>
+<ParentId>3003</ParentId>
+<Title>Первый третьфинал</Title>
+<Number>3</Number>
+<TextId>bersh.3</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.3</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-30</CreatedAt>
+</tour>
+<tour>
+<Id>18982</Id>
+<ParentId>3003</ParentId>
+<Title>Второй третьфинал</Title>
+<Number>4</Number>
+<TextId>bersh.4</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.4</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-30</CreatedAt>
+</tour>
+<tour>
+<Id>18983</Id>
+<ParentId>3003</ParentId>
+<Title>Третий третьфинал</Title>
+<Number>5</Number>
+<TextId>bersh.5</TextId>
+<QuestionsNum>8</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.5</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-30</CreatedAt>
+</tour>
+<tour>
+<Id>18984</Id>
+<ParentId>3003</ParentId>
+<Title>Финал</Title>
+<Number>6</Number>
+<TextId>bersh.6</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.6</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-30</CreatedAt>
+</tour>
+<tour>
+<Id>18985</Id>
+<ParentId>3003</ParentId>
+<Title>Финал</Title>
+<Number>7</Number>
+<TextId>bersh.7</TextId>
+<QuestionsNum>2</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.7</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-30</CreatedAt>
+</tour>
+</tournament>

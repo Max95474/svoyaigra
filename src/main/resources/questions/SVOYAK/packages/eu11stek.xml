@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>18562</Id>
+<ParentId>2988</ParentId>
+<Title>VII Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Эрудит-квартет</Title>
+<Number/>
+<TextId>eu11stek</TextId>
+<QuestionsNum>48</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.txt</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-13</CreatedAt>
+<tour>
+<Id>23397</Id>
+<ParentId>18562</ParentId>
+<Title>Предварительный этап. Бой 1. Открытый раунд</Title>
+<Number>1</Number>
+<TextId>eu11stek.1</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.1</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23398</Id>
+<ParentId>18562</ParentId>
+<Title>Предварительный этап. Бой 1. Полутемный раунд</Title>
+<Number>2</Number>
+<TextId>eu11stek.2</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.2</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23399</Id>
+<ParentId>18562</ParentId>
+<Title>Предварительный этап. Бой 1. Темный раунд</Title>
+<Number>3</Number>
+<TextId>eu11stek.3</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.3</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23400</Id>
+<ParentId>18562</ParentId>
+<Title>Предварительный этап. Бой 2. Открытый раунд</Title>
+<Number>4</Number>
+<TextId>eu11stek.4</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.4</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23401</Id>
+<ParentId>18562</ParentId>
+<Title>Предварительный этап. Бой 2. Полутемный раунд</Title>
+<Number>5</Number>
+<TextId>eu11stek.5</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.5</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23402</Id>
+<ParentId>18562</ParentId>
+<Title>Предварительный этап. Бой 2. Темный раунд</Title>
+<Number>6</Number>
+<TextId>eu11stek.6</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.6</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23403</Id>
+<ParentId>18562</ParentId>
+<Title>Полуфинал. Открытый раунд</Title>
+<Number>7</Number>
+<TextId>eu11stek.7</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.7</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23404</Id>
+<ParentId>18562</ParentId>
+<Title>Полуфинал. Полутемный раунд</Title>
+<Number>8</Number>
+<TextId>eu11stek.8</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.8</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23405</Id>
+<ParentId>18562</ParentId>
+<Title>Полуфинал. Темный раунд</Title>
+<Number>9</Number>
+<TextId>eu11stek.9</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.9</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23406</Id>
+<ParentId>18562</ParentId>
+<Title>Финал. Открытый раунд</Title>
+<Number>10</Number>
+<TextId>eu11stek.10</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.10</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23407</Id>
+<ParentId>18562</ParentId>
+<Title>Финал. Полутемный раунд</Title>
+<Number>11</Number>
+<TextId>eu11stek.11</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.11</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+<tour>
+<Id>23408</Id>
+<ParentId>18562</ParentId>
+<Title>Финал. Темный раунд</Title>
+<Number>12</Number>
+<TextId>eu11stek.12</TextId>
+<QuestionsNum>4</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.12</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-19</CreatedAt>
+</tour>
+</tournament>

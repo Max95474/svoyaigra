@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>3005</Id>
+<ParentId>2988</ParentId>
+<Title>Карусель. Командное Jeopardy. Кишинёв - 1996.</Title>
+<Number/>
+<TextId>karus96</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus96.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>1996-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-12-19</CreatedAt>
+<tour>
+<Id>24205</Id>
+<ParentId>3005</ParentId>
+<Title>1-й круг. Матричные темы &quot;Ноты&quot;.</Title>
+<Number>1</Number>
+<TextId>karus96.1</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus96.1</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>1996-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+<tour>
+<Id>24206</Id>
+<ParentId>3005</ParentId>
+<Title>2-й круг. Темы (в алфавитном порядке): Венеция, Владыки и властители, Географические кубраечки, Религия, Спорт, Средние века.</Title>
+<Number>2</Number>
+<TextId>karus96.2</TextId>
+<QuestionsNum>6</QuestionsNum>
+<Complexity/>
+<Type>Т</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus96.2</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>1996-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-01-31</CreatedAt>
+</tour>
+</tournament>
