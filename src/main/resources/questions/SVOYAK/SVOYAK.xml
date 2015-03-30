@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament>
+<Id>2988</Id>
+<ParentId>0</ParentId>
+<Title>Своя игра</Title>
+<Number/>
+<TextId>SVOYAK</TextId>
+<QuestionsNum>5056</QuestionsNum>
+<Complexity/>
+<Type>Г</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>SVOYAK</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2015-02-08 03:02:35</LastUpdated>
+<PlayedAt/>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-02-08</CreatedAt>
+<tour>
+<Id>3008</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Своя игра&quot;. Юрий Гришов, 1999-2003</Title>
+<Number/>
+<TextId>grishov</TextId>
+<QuestionsNum>60</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>grishov.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-10-25 03:02:48</LastUpdated>
+<PlayedAt/>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-02-15</CreatedAt>
+</tour>
+<tour>
+<Id>3038</Id>
+<ParentId>2988</ParentId>
+<Title>Тематическая &quot;своя игра&quot;</Title>
+<Number/>
+<TextId>SVTEMA</TextId>
+<QuestionsNum>474</QuestionsNum>
+<Complexity/>
+<Type>Г</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>SVTEMA</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:47:59</LastUpdated>
+<PlayedAt/>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-01-04</CreatedAt>
+</tour>
+<tour>
+<Id>2993</Id>
+<ParentId>2988</ParentId>
+<Title>Кишинёв - 1995. Jeopardy для тренировок.</Title>
+<Number/>
+<TextId>kish95tr</TextId>
+<QuestionsNum>37</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>kish95tr.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>1995-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-12-19</CreatedAt>
+</tour>
+<tour>
+<Id>3005</Id>
+<ParentId>2988</ParentId>
+<Title>Карусель. Командное Jeopardy. Кишинёв - 1996.</Title>
+<Number/>
+<TextId>karus96</TextId>
+<QuestionsNum>12</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus96.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>1996-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-12-19</CreatedAt>
+</tour>
+<tour>
+<Id>2994</Id>
+<ParentId>2988</ParentId>
+<Title>Своя игра. Ашхабад-1996</Title>
+<Number/>
+<TextId>ash96sv</TextId>
+<QuestionsNum>54</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>ash96sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:44:39</LastUpdated>
+<PlayedAt>1996-10-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-07-02</CreatedAt>
+</tour>
+<tour>
+<Id>2995</Id>
+<ParentId>2988</ParentId>
+<Title>Своя игра. Ашхабад-1997</Title>
+<Number/>
+<TextId>ash97sv</TextId>
+<QuestionsNum>72</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>ash97sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:28</LastUpdated>
+<PlayedAt>1997-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2002-12-29</CreatedAt>
+</tour>
+<tour>
+<Id>2996</Id>
+<ParentId>2988</ParentId>
+<Title>Своя игра. Казань-1999</Title>
+<Number/>
+<TextId>svokaz99</TextId>
+<QuestionsNum>40</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>svokaz99.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:52</LastUpdated>
+<PlayedAt>1999-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2002-10-19</CreatedAt>
+</tour>
+<tour>
+<Id>2991</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Своя игра&quot; из Киева.</Title>
+<Number/>
+<TextId>gilen00</TextId>
+<QuestionsNum>48</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>gilen00.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:35</LastUpdated>
+<PlayedAt>2000-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2002-01-07</CreatedAt>
+</tour>
+<tour>
+<Id>3006</Id>
+<ParentId>2988</ParentId>
+<Title>Карусель - 1 (Кронах-2000)</Title>
+<Number/>
+<TextId>karus00</TextId>
+<QuestionsNum>21</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus00.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:56</LastUpdated>
+<PlayedAt>2000-08-08</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-06-12</CreatedAt>
+</tour>
+<tour>
+<Id>3010</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;своей игре&quot;. Харьков, 6-8 октября 2000 г.</Title>
+<Number/>
+<TextId>hark00sv</TextId>
+<QuestionsNum>14</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>hark00sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-02 05:01:10</LastUpdated>
+<PlayedAt>2000-10-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-04-24</CreatedAt>
+</tour>
+<tour>
+<Id>2989</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Своя игра&quot; из Германии.</Title>
+<Number/>
+<TextId>jeo01</TextId>
+<QuestionsNum>26</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>jeo01.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2001-12-09</CreatedAt>
+</tour>
+<tour>
+<Id>2990</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Своя игра&quot; с сайта Анатолия Белкина (&quot;Неспроста&quot;)</Title>
+<Number/>
+<TextId>belkin</TextId>
+<QuestionsNum>126</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>http://svoigra.tripod.com/</URL>
+<FileName>belkin.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:44:45</LastUpdated>
+<PlayedAt>2001-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2001-12-17</CreatedAt>
+</tour>
+<tour>
+<Id>2997</Id>
+<ParentId>2988</ParentId>
+<Title>Большой Турнир по Своей Игре (Одесса, 29.04-01.05.2001)</Title>
+<Number/>
+<TextId>odessv01</TextId>
+<QuestionsNum>127</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>odessv01.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-11-12 03:01:32</LastUpdated>
+<PlayedAt>2001-04-29</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-01-12</CreatedAt>
+</tour>
+<tour>
+<Id>2992</Id>
+<ParentId>2988</ParentId>
+<Title>Летний лагерь в Крыму. &quot;Своя игра&quot;</Title>
+<Number/>
+<TextId>lag01svo</TextId>
+<QuestionsNum>121</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200106Crimea.html</URL>
+<FileName>lag01svo.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-12-13 02:01:10</LastUpdated>
+<PlayedAt>2001-06-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2002-01-15</CreatedAt>
+</tour>
+<tour>
+<Id>2998</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;Своей игре&quot; на фестивале &quot;Остров сокровищ&quot; (Полтава, 2001)</Title>
+<Number/>
+<TextId>poltsv01</TextId>
+<QuestionsNum>31</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>poltsv01.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:47:29</LastUpdated>
+<PlayedAt>2001-07-13</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-08-24</CreatedAt>
+</tour>
+<tour>
+<Id>3007</Id>
+<ParentId>2988</ParentId>
+<Title>Карусель - 2 (Хоббах-2001)</Title>
+<Number/>
+<TextId>karus01</TextId>
+<QuestionsNum>21</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>karus01.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:29</LastUpdated>
+<PlayedAt>2001-08-25</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-07-13</CreatedAt>
+</tour>
+<tour>
+<Id>2999</Id>
+<ParentId>2988</ParentId>
+<Title>Своя игра. ШДК им. Рабиндраната Дебендранатовича Тагора</Title>
+<Number/>
+<TextId>tagor02</TextId>
+<QuestionsNum>167</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>http://rtagor.narod.ru</URL>
+<FileName>tagor02.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-03-28 16:01:59</LastUpdated>
+<PlayedAt>2002-01-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2002-12-07</CreatedAt>
+</tour>
+<tour>
+<Id>3001</Id>
+<ParentId>2988</ParentId>
+<Title>Фестиваль &quot;Бамберг-2002&quot;. Jeopardy.</Title>
+<Number/>
+<TextId>bamb02</TextId>
+<QuestionsNum>47</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>bamb02.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:20</LastUpdated>
+<PlayedAt>2002-03-30</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-05-26</CreatedAt>
+</tour>
+<tour>
+<Id>3016</Id>
+<ParentId>2988</ParentId>
+<Title>Экспериментальный чемпионат Украины по &quot;своей игре&quot; и &quot;эрудит-квартету&quot; (Киев)</Title>
+<Number/>
+<TextId>ukrsv02</TextId>
+<QuestionsNum>268</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200205KharkovJeop.html</URL>
+<FileName>ukrsv02.txt</FileName>
+<RatingId/>
+<Editors>Александр Либер</Editors>
+<EnteredBy/>
+<LastUpdated>2014-03-28 16:02:14</LastUpdated>
+<PlayedAt>2002-05-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2005-01-23</CreatedAt>
+</tour>
+<tour>
+<Id>3000</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Своя игра&quot; с Кубка Имладриса-2002.</Title>
+<Number/>
+<TextId>imla02sv</TextId>
+<QuestionsNum>24</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200211Imladris.html</URL>
+<FileName>imla02sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:48</LastUpdated>
+<PlayedAt>2002-11-03</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-04-12</CreatedAt>
+</tour>
+<tour>
+<Id>3003</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;своей игре&quot; &quot;Бершидские озарения&quot;</Title>
+<Number/>
+<TextId>bersh</TextId>
+<QuestionsNum>85</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Посвящен юбилею Ю.Г.Бершидского</Info>
+<URL>/znatoki/boris/reports/200211Nesprosta.html</URL>
+<FileName>bersh.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-06-30 15:54:11</LastUpdated>
+<PlayedAt>2002-11-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-05-01</CreatedAt>
+</tour>
+<tour>
+<Id>3004</Id>
+<ParentId>2988</ParentId>
+<Title>Всемирный день Енотов. Своя игра</Title>
+<Number/>
+<TextId>enot03sv</TextId>
+<QuestionsNum>24</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200303Enot.html</URL>
+<FileName>enot03sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:13</LastUpdated>
+<PlayedAt>2003-03-22</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2003-12-06</CreatedAt>
+</tour>
+<tour>
+<Id>3002</Id>
+<ParentId>2988</ParentId>
+<Title>Фестиваль &quot;Кронах-2003&quot;. Jeopardy.</Title>
+<Number/>
+<TextId>kronah03</TextId>
+<QuestionsNum>47</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>kronah03.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:30</LastUpdated>
+<PlayedAt>2003-03-29</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-03-27</CreatedAt>
+</tour>
+<tour>
+<Id>3009</Id>
+<ParentId>2988</ParentId>
+<Title>Пятый Международный летний лагерь немецких знатоков &quot;Хоббах - 2003&quot;. Спортивное Jeopardy.</Title>
+<Number/>
+<TextId>hobb03je</TextId>
+<QuestionsNum>31</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>hobb03je.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-31 04:01:24</LastUpdated>
+<PlayedAt>2003-09-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-03-21</CreatedAt>
+</tour>
+<tour>
+<Id>3011</Id>
+<ParentId>2988</ParentId>
+<Title>Чемпионат Москвы по &quot;своей игре&quot;</Title>
+<Number/>
+<TextId>mos04sv</TextId>
+<QuestionsNum>117</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>http://nesprosta.tripod.com/tourn/svoyak04-moskva/turnir.htm</URL>
+<FileName>mos04sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-07-08 15:07:56</LastUpdated>
+<PlayedAt>2004-02-29</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-06-27</CreatedAt>
+</tour>
+<tour>
+<Id>3026</Id>
+<ParentId>2988</ParentId>
+<Title>Чемпионат ЦИТ &quot;От винта&quot; по эрудит-квартету сезона 2003/04 гг.</Title>
+<Number/>
+<TextId>otv04ek</TextId>
+<QuestionsNum>39</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>otv04ek.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:47:09</LastUpdated>
+<PlayedAt>2004-06-13</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3013</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Подмосковные вечера - 2004&quot; (Серпухов). Своя игра</Title>
+<Number/>
+<TextId>podm04sv</TextId>
+<QuestionsNum>63</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200408Serpukhov.html</URL>
+<FileName>podm04sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2015-01-04 05:02:42</LastUpdated>
+<PlayedAt>2004-08-26</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2004-11-06</CreatedAt>
+</tour>
+<tour>
+<Id>3022</Id>
+<ParentId>2988</ParentId>
+<Title>Открытый кубок ЦИТ &quot;От винта&quot; по &quot;своей игре&quot;, ноябрь-декабрь 2004 г.</Title>
+<Number/>
+<TextId>otv04sv</TextId>
+<QuestionsNum>127</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>otv04sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:47</LastUpdated>
+<PlayedAt>2004-11-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3014</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;Своей игре&quot; на фестивале в Тюмени</Title>
+<Number/>
+<TextId>tyum04sv</TextId>
+<QuestionsNum>100</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200411Tyumen.html</URL>
+<FileName>tyum04sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-03-28 16:02:01</LastUpdated>
+<PlayedAt>2004-11-13</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2005-10-02</CreatedAt>
+</tour>
+<tour>
+<Id>3012</Id>
+<ParentId>2988</ParentId>
+<Title>Чемпионат Москвы по &quot;своей игре&quot;</Title>
+<Number/>
+<TextId>mos05sv</TextId>
+<QuestionsNum>121</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200502MoscowJeop.html</URL>
+<FileName>mos05sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:46:46</LastUpdated>
+<PlayedAt>2005-02-20</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2005-04-24</CreatedAt>
+</tour>
+<tour>
+<Id>3028</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;своей игре&quot; &quot;Мартовские коты - 2005&quot; (Харьков)</Title>
+<Number/>
+<TextId>martko05</TextId>
+<QuestionsNum>77</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>martko05.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-01-02 04:01:15</LastUpdated>
+<PlayedAt>2005-02-26</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3015</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Весна в ЛЭТИ - 2005&quot; (Санкт-Петербург). Финал &quot;своей игры&quot;</Title>
+<Number/>
+<TextId>leti05sv</TextId>
+<QuestionsNum>13</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200503SPbLETI.html</URL>
+<FileName>leti05sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:46:18</LastUpdated>
+<PlayedAt>2005-03-20</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2006-06-13</CreatedAt>
+</tour>
+<tour>
+<Id>3017</Id>
+<ParentId>2988</ParentId>
+<Title>Открытый чемпионат клуба &quot;Неспроста&quot; по &quot;своей игре&quot;, посвященный 50-летию Анатолия Белкина</Title>
+<Number/>
+<TextId>nesp05sv</TextId>
+<QuestionsNum>157</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200504MoscowJeop.html</URL>
+<FileName>nesp05sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-03-28 16:01:52</LastUpdated>
+<PlayedAt>2005-04-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2005-06-05</CreatedAt>
+</tour>
+<tour>
+<Id>3024</Id>
+<ParentId>2988</ParentId>
+<Title>Суперкубок ЦИТ &quot;От винта&quot; по &quot;своей игре&quot; сезона 2004/05 гг.</Title>
+<Number/>
+<TextId>ovsu05sv</TextId>
+<QuestionsNum>20</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>ovsu05sv.txt</FileName>
+<RatingId/>
+<Editors>Максим Евланов, Ольга Неумывакина</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:47:15</LastUpdated>
+<PlayedAt>2005-06-07</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3031</Id>
+<ParentId>2988</ParentId>
+<Title>I (экспериментальный) Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu05stsv</TextId>
+<QuestionsNum>56</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200510SPb.html</URL>
+<FileName>eu05stsv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:14</LastUpdated>
+<PlayedAt>2005-10-08</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+<tour>
+<Id>3018</Id>
+<ParentId>2988</ParentId>
+<Title>Открытый чемпионат клуба &quot;Неспроста&quot; по эрудит-квартету</Title>
+<Number/>
+<TextId>nesp05ek</TextId>
+<QuestionsNum>96</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>nesp05ek.txt</FileName>
+<RatingId/>
+<Editors>Анатолий Белкин</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:46:53</LastUpdated>
+<PlayedAt>2005-11-27</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2006-05-01</CreatedAt>
+</tour>
+<tour>
+<Id>3029</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;своей игре&quot; &quot;Мартовские коты - 2006&quot; (Харьков)</Title>
+<Number/>
+<TextId>martko06</TextId>
+<QuestionsNum>75</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>martko06.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-08-25 13:05:26</LastUpdated>
+<PlayedAt>2006-03-26</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3020</Id>
+<ParentId>2988</ParentId>
+<Title>XI чемпионат Новосибирска по &quot;Своей игре&quot;</Title>
+<Number/>
+<TextId>nsk06sv</TextId>
+<QuestionsNum>132</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>nsk06sv.txt</FileName>
+<RatingId/>
+<Editors>Егор Тимошенко (Томск)</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:47:01</LastUpdated>
+<PlayedAt>2006-04-30</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2007-06-28</CreatedAt>
+</tour>
+<tour>
+<Id>3023</Id>
+<ParentId>2988</ParentId>
+<Title>Открытый кубок ЦИТ &quot;От винта&quot; по &quot;своей игре&quot;, май-июнь 2006 г.</Title>
+<Number/>
+<TextId>otv06sv</TextId>
+<QuestionsNum>66</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>otv06sv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:47</LastUpdated>
+<PlayedAt>2006-05-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3027</Id>
+<ParentId>2988</ParentId>
+<Title>Чемпионат ЦИТ &quot;От винта&quot; по эрудит-квартету сезона 2005/06 гг.</Title>
+<Number/>
+<TextId>otv06ek</TextId>
+<QuestionsNum>33</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>otv06ek.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:47:09</LastUpdated>
+<PlayedAt>2006-06-04</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3025</Id>
+<ParentId>2988</ParentId>
+<Title>Суперкубок ЦИТ &quot;От винта&quot; по &quot;своей игре&quot; сезона 2005/06 гг.</Title>
+<Number/>
+<TextId>ovsu06sv</TextId>
+<QuestionsNum>24</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>ovsu06sv.txt</FileName>
+<RatingId/>
+<Editors>Максим Евланов</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:47:15</LastUpdated>
+<PlayedAt>2006-09-30</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3019</Id>
+<ParentId>2988</ParentId>
+<Title>II Открытый чемпионат клуба &quot;Неспроста&quot; по &quot;своей игре&quot;</Title>
+<Number/>
+<TextId>nesp06sv</TextId>
+<QuestionsNum>122</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200610MoscowNesprosta.html</URL>
+<FileName>nesp06sv.txt</FileName>
+<RatingId/>
+<Editors>Анатолий Белкин (главный редактор), Дмитрий Лурье</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:46:53</LastUpdated>
+<PlayedAt>2006-10-22</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2007-02-16</CreatedAt>
+</tour>
+<tour>
+<Id>3032</Id>
+<ParentId>2988</ParentId>
+<Title>II Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu06stsv</TextId>
+<QuestionsNum>32</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200611Petrodvorets.html</URL>
+<FileName>eu06stsv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:33</LastUpdated>
+<PlayedAt>2006-11-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+<tour>
+<Id>3030</Id>
+<ParentId>2988</ParentId>
+<Title>Турнир по &quot;своей игре&quot; &quot;Мартовские коты - 2007&quot; (Харьков)</Title>
+<Number/>
+<TextId>martko07</TextId>
+<QuestionsNum>88</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>martko07.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:46:29</LastUpdated>
+<PlayedAt>2007-03-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-10</CreatedAt>
+</tour>
+<tour>
+<Id>3021</Id>
+<ParentId>2988</ParentId>
+<Title>Чемпионат Киева по эрудит-квартету сезона 2006/07 гг.</Title>
+<Number/>
+<TextId>kiev07ek</TextId>
+<QuestionsNum>84</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редакторы благодарят Александра Голикова (Харьков) и Алексея Новакова
+(Харьков) за предоставленные темы. Данный пакет был отыгран также в
+рамках Чемпионата Минска по своей игре (2008) и экспериментального
+Чемпионата Занок по письменному квартету (2008). Часть тем игралась в
+рамках Чемпионата Харькова по эрудит-квартету (2008).</Info>
+<URL/>
+<FileName>kiev07ek.txt</FileName>
+<RatingId/>
+<Editors>Команда &quot;Дальше Некуда&quot; (Киев) - Елена Полонская, Алексей Андрусенко,
+Сергей Прилипко, Сергей Яковлев</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-09 05:02:24</LastUpdated>
+<PlayedAt>2007-06-10</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2009-10-11</CreatedAt>
+</tour>
+<tour>
+<Id>32130</Id>
+<ParentId>2988</ParentId>
+<Title>I Чемпионат России по &quot;Своей игре&quot; (Великие Луки)</Title>
+<Number/>
+<TextId>russv07</TextId>
+<QuestionsNum>202</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200709VelLuki.html</URL>
+<FileName>russv07.txt</FileName>
+<RatingId/>
+<Editors>Евгений Поникаров и Александр Либер</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-22 03:01:07</LastUpdated>
+<PlayedAt>2007-09-15</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-19</CreatedAt>
+</tour>
+<tour>
+<Id>3033</Id>
+<ParentId>2988</ParentId>
+<Title>III Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu07stsv</TextId>
+<QuestionsNum>88</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/200711SPb.html</URL>
+<FileName>eu07stsv.txt</FileName>
+<RatingId/>
+<Editors/>
+<EnteredBy/>
+<LastUpdated>2013-01-20 14:37:04</LastUpdated>
+<PlayedAt>2007-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-03-20</CreatedAt>
+</tour>
+<tour>
+<Id>3034</Id>
+<ParentId>2988</ParentId>
+<Title>IV Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu08stsv</TextId>
+<QuestionsNum>78</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Мишелю Матвееву и Кириллу Богловскому (Санкт-Петербург), а
+также Диане Газаровой, Араму Арутюняну и Павлу Солахяну (Ереван).</Info>
+<URL>/znatoki/boris/reports/200809SPb.html</URL>
+<FileName>eu08stsv.txt</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-04 20:45:15</LastUpdated>
+<PlayedAt>2008-11-07</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+<tour>
+<Id>3035</Id>
+<ParentId>2988</ParentId>
+<Title>V Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu09stsv</TextId>
+<QuestionsNum>75</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Александру Коробейникову
+(Санкт-Петербург), Дмитрию Соловьеву (Саранск), Кире Полевой и Алексею
+Полевому (Гомель).</Info>
+<URL>/znatoki/boris/reports/200911SPb.html</URL>
+<FileName>eu09stsv.txt</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-05 00:30:25</LastUpdated>
+<PlayedAt>2009-11-06</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-10-03</CreatedAt>
+</tour>
+<tour>
+<Id>18560</Id>
+<ParentId>2988</ParentId>
+<Title>XIX чемпионат Новосибирска по &quot;Своей игре&quot;. Полуфиналы и финал</Title>
+<Number/>
+<TextId>nsksv19</TextId>
+<QuestionsNum>32</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL/>
+<FileName>nsksv19.txt</FileName>
+<RatingId/>
+<Editors>Егор Тимошенко</Editors>
+<EnteredBy/>
+<LastUpdated>2013-06-18 13:09:45</LastUpdated>
+<PlayedAt>2010-03-28</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-13</CreatedAt>
+</tour>
+<tour>
+<Id>3036</Id>
+<ParentId>2988</ParentId>
+<Title>VI Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu10stsv</TextId>
+<QuestionsNum>86</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stsv.txt</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2013-01-20 14:37:04</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-11-15</CreatedAt>
+</tour>
+<tour>
+<Id>3037</Id>
+<ParentId>2988</ParentId>
+<Title>VI Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Эрудит-квартет</Title>
+<Number/>
+<TextId>eu10stek</TextId>
+<QuestionsNum>48</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор выражает благодарность авторам Александру Коробейникову,
+Евгению Поникарову (Санкт-Петербург) и Сергею Спешкову (Москва);
+тестерам - Юлии Архангельской, Юрию Выменцу, Анне Ефимовой, Александру
+Коробейникову, Александру Либеру, Мишелю Матвееву, Борису Моносову,
+Наталии Новыш, Николаю Рябых, Александру Скородумову, Андрею Сметанину,
+Сергею Спешкову, Александру Ушакову, Алексею Штыху.</Info>
+<URL>/znatoki/boris/reports/201009SPb.html</URL>
+<FileName>eu10stek.txt</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-10 03:01:34</LastUpdated>
+<PlayedAt>2010-09-17</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2012-11-15</CreatedAt>
+</tour>
+<tour>
+<Id>32588</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Знатокиада - 2010&quot; (Всемирные игры знатоков) (Эйлат). Турнир по &quot;своей игре&quot;</Title>
+<Number/>
+<TextId>znat10sv</TextId>
+<QuestionsNum>131</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201011Eilat.html</URL>
+<FileName>znat10sv.txt</FileName>
+<RatingId/>
+<Editors>Евгений Шляхов, Александр Чижов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2014-12-19 02:01:23</LastUpdated>
+<PlayedAt>2010-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>32589</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Знатокиада - 2010&quot; (Всемирные игры знатоков) (Эйлат). Свояк-микст</Title>
+<Number/>
+<TextId>znat10mi</TextId>
+<QuestionsNum>64</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201011Eilat.html</URL>
+<FileName>znat10mi.txt</FileName>
+<RatingId/>
+<Editors>Евгений Шляхов, Александр Чижов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2014-12-21 02:01:55</LastUpdated>
+<PlayedAt>2010-11-12</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-11-28</CreatedAt>
+</tour>
+<tour>
+<Id>36149</Id>
+<ParentId>2988</ParentId>
+<Title>I Кубок South Butovo Park по &quot;Своей игре&quot;</Title>
+<Number/>
+<TextId>sbp-sv11</TextId>
+<QuestionsNum>112</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редакторы благодарят за помощь в подготовке пакета Иделию Айзятулову
+(Санкт-Петербург), Юлию Буздалину (Москва), Александра Рождествина
+(Самара).</Info>
+<URL/>
+<FileName>sbp-sv11.txt</FileName>
+<RatingId/>
+<Editors>Андрей Островский, Игорь Тюнькин, Серафим Шибанов (Москва)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-02-08 03:02:35</LastUpdated>
+<PlayedAt>2011-09-24</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-11</CreatedAt>
+</tour>
+<tour>
+<Id>18561</Id>
+<ParentId>2988</ParentId>
+<Title>VII Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu11stsv</TextId>
+<QuestionsNum>86</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Евгению
+Поникарову, Кириллу Богловскому, Виталию Дубровнеру, Александру
+Геминтерну, Араму Арутюняну, Вардану Багиряну и Павлу Солахяну.</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stsv.txt</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2014-10-29 03:02:34</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-13</CreatedAt>
+</tour>
+<tour>
+<Id>18562</Id>
+<ParentId>2988</ParentId>
+<Title>VII Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Эрудит-квартет</Title>
+<Number/>
+<TextId>eu11stek</TextId>
+<QuestionsNum>48</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Иделию Айзятулову,
+Антона Губанова, Александру Киланову, Мишеля Матвеева, Бориса Моносова,
+Татьяну Моносову, Александра Салиту, Евгению Синичкину (все -
+Санкт-Петербург), Павла Солахяна (Ереван), Алексея Бороненко (Челябинск
+- Екатеринбург), Ивана Семушина, Сергея Спешкова (Москва), Илью
+Городецкого (Иркутск), Алексея Королёва (Саратов), Павла Столярова
+(Калуга), Константина Деменева, Анну Ефимову, Расима Мамедова, Андрея
+Сметанина (Пермь).</Info>
+<URL>/znatoki/boris/reports/201111Petrodvorets.html</URL>
+<FileName>eu11stek.txt</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-01-19 04:01:09</LastUpdated>
+<PlayedAt>2011-11-11</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2013-06-13</CreatedAt>
+</tour>
+<tour>
+<Id>34339</Id>
+<ParentId>2988</ParentId>
+<Title>&quot;Знатокиада - 2012&quot; (Всемирные игры знатоков) (Нагария). Турнир по &quot;своей игре&quot;</Title>
+<Number/>
+<TextId>znat12sv</TextId>
+<QuestionsNum>112</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>За помощь в формировании пакета редакторская группа благодарит Юлию
+Воробьеву (Хайфа), Баура Бектемирова (Астана), Александра Ведехина
+(Таллин), Бориса Ковалева (Тула), Юрия Козьмина (Ариэль), Александра
+Котлярова (Екатеринбург), Дмитрия Некрылова (Киев), Ивана Семушина
+(Москва), Алексея Пономарева и Сергея Чериканова (оба - Калуга).</Info>
+<URL>/znatoki/boris/reports/201205Nagaria.html</URL>
+<FileName>znat12sv.txt</FileName>
+<RatingId/>
+<Editors>Константин Науменко (Киев), при активном участии Игоря Гельфонда (Хайфа)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-12 03:02:41</LastUpdated>
+<PlayedAt>2012-06-01</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2015-01-01</CreatedAt>
+</tour>
+<tour>
+<Id>30748</Id>
+<ParentId>2988</ParentId>
+<Title>VIII Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Своя игра</Title>
+<Number/>
+<TextId>eu12stsv</TextId>
+<QuestionsNum>86</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор выражает огромную благодарность за предоставленные темы Кириллу
+Карташову, Павлу Столярову, Наилю Фарукшину, Алексею Пономареву,
+Александру Ведехину, Игорю Тюнькину, Виктору Абдураманову и Евгению
+Поникарову.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stsv.txt</FileName>
+<RatingId/>
+<Editors>Алексей Богословский</Editors>
+<EnteredBy/>
+<LastUpdated>2014-10-30 03:01:21</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-10-29</CreatedAt>
+</tour>
+<tour>
+<Id>30749</Id>
+<ParentId>2988</ParentId>
+<Title>VIII Кубок Европы по интеллектуальным играм среди студентов (Петродворец). Эрудит-квартет</Title>
+<Number/>
+<TextId>eu12stek</TextId>
+<QuestionsNum>49</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info>Редактор благодарит за помощь в работе над пакетом Евгения Поникарова,
+Алексея Бороненко, Константина Науменко, Алексея Соловьева, Сергея
+Спешкова.</Info>
+<URL>/znatoki/boris/reports/201211Petrodvorets.html</URL>
+<FileName>eu12stek.txt</FileName>
+<RatingId/>
+<Editors>Алексей Гилёв</Editors>
+<EnteredBy/>
+<LastUpdated>2014-11-28 03:01:08</LastUpdated>
+<PlayedAt>2012-11-09</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-10-29</CreatedAt>
+</tour>
+<tour>
+<Id>29562</Id>
+<ParentId>2988</ParentId>
+<Title>Молодежный чемпионат Украины по своей игре - 2013</Title>
+<Number/>
+<TextId>uksv13st</TextId>
+<QuestionsNum>140</QuestionsNum>
+<Complexity/>
+<Type>Ч</Type>
+<Copyright/>
+<Info/>
+<URL>/znatoki/boris/reports/201302Odessa.html</URL>
+<FileName>uksv13st.txt</FileName>
+<RatingId/>
+<Editors>Александра Косолапова (Запорожье), Владимир Островский (Киев), Евгений
+Шляхов (Днепропетровск)</Editors>
+<EnteredBy/>
+<LastUpdated>2015-01-03 05:02:38</LastUpdated>
+<PlayedAt>2013-02-02</PlayedAt>
+<PlayedAt2/>
+<KandId/>
+<CreatedAt>2014-09-09</CreatedAt>
+</tour>
+</tournament>
