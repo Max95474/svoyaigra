@@ -11,12 +11,8 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.*;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.nio.channels.Channels;
-import java.nio.channels.ReadableByteChannel;
+import java.net.URISyntaxException;;
 import java.util.ArrayList;
-import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -26,7 +22,7 @@ public class QuestionService {
 
     private QuestionService() {
         //read question-server.xml
-        Document questionServerDocument = getDocument("config/question-server.xml");
+        Document questionServerDocument = getDocument("/question-server.xml");
         NodeList urlNode = questionServerDocument.getElementsByTagName("server-url");
         serverUrl = urlNode.item(0).getFirstChild().getTextContent();
         //don't forget to handle errors and exceptions
@@ -42,16 +38,16 @@ public class QuestionService {
     public ArrayList<Game> getGamesList() {
         ArrayList<Game> gamesList = new ArrayList<>();
 
-        Document gamesDocument = getDocument("res/games.xml");
-        NodeList gameNodes = gamesDocument.getElementsByTagName("tour");
+        Document gamesDocument = getDocument("/questions/games.xml");
+        NodeList gameNodes     = gamesDocument.getElementsByTagName("tour");
         for(int i = 0; i < gameNodes.getLength(); i++) {
-            Element element = (Element)gameNodes.item(i);
+            Element element           = (Element)gameNodes.item(i);
 
-            NodeList titleNode = element.getElementsByTagName("Title");
-            NodeList idNode = element.getElementsByTagName("Id");
-            NodeList textIdNode = element.getElementsByTagName("TextId");
-            NodeList lastUpdatedNode = element.getElementsByTagName("LastUpdated");
-            NodeList createdAtNode = element.getElementsByTagName("CreatedAt");
+            NodeList titleNode        = element.getElementsByTagName("Title");
+            NodeList idNode           = element.getElementsByTagName("Id");
+            NodeList textIdNode       = element.getElementsByTagName("TextId");
+            NodeList lastUpdatedNode  = element.getElementsByTagName("LastUpdated");
+            NodeList createdAtNode    = element.getElementsByTagName("CreatedAt");
             NodeList questionsNumNode = element.getElementsByTagName("QuestionsNum");
 
             gamesList.add(new Game(
@@ -70,7 +66,7 @@ public class QuestionService {
     public ArrayList<Tour> getToursList(Game game) {
         ArrayList<Tour> toursList = new ArrayList<>();
 
-        String docLocation = "res/" + game.getTextId() + "/" + game.getTextId() + ".xml"; System.out.println(docLocation);
+        String docLocation = "/questions/" + game.getTextId() + "/" + game.getTextId() + ".xml"; //System.out.println(docLocation);
         Document toursDocument = getDocument(docLocation);
         NodeList tourNodes = toursDocument.getElementsByTagName("tour");
         for(int i = 0; i < tourNodes.getLength(); i++) {
@@ -102,8 +98,8 @@ public class QuestionService {
         ArrayList<String> textQuestions;
         ArrayList<String> textAnswers;
 
-        String documentLocation = "res/" + game.getTextId() + "/packages/" + tour.getTextId() + ".xml";
-        System.out.println(documentLocation);
+        String documentLocation = "/questions/" + game.getTextId() + "/packages/" + tour.getTextId() + ".xml";
+        //System.out.println(documentLocation);
         Document document = getDocument(documentLocation);
 
         NodeList nodeList = document.getElementsByTagName("question");
@@ -141,71 +137,21 @@ public class QuestionService {
         return new Package(theme.item(0).getFirstChild().getTextContent(), themeList);
     }
 
-    public void update() {
-        saveFromUrl(serverUrl + "/xml", "config/games.xml");
-        //saveTours();
-    }
-
-    private void saveTours() {
-        Document doc = null;
-        try {
-            File file = new File("res/SVOYAK/SVOYAK.xml");
-            DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
-            DocumentBuilder db = dbf.newDocumentBuilder();
-            doc = db.parse(file);
-        } catch(ParserConfigurationException ex) {
-            System.err.println("saveTours: ParserConfigurationException");
-            return;
-        } catch(SAXException ex) {
-            System.err.println("saveTours: SAXException");
-            return;
-        } catch(IOException ex) {
-            System.err.println("saveTours: IOException");
-            ex.printStackTrace();
-            return;
-        }
-
-        NodeList nodeList = doc.getElementsByTagName("tour");
-        for(int i = 0; i < nodeList.getLength(); i++) {
-            //get tour id
-            Element element = (Element)nodeList.item(i);
-            NodeList nodes = element.getElementsByTagName("TextId");
-            String textId = nodes.item(0).getTextContent();
-            //save file to directory
-            saveFromUrl("http://db.chgk.info/tour/" + textId + "/xml",
-                        "res/SVOYAK/packages/" + textId + ".xml");
-            System.out.println("Saving from: " + "http://db.chgk.info/tour/" + textId + "/xml...");
-        }
-    }
-
-    private void saveFromUrl(String url, String location) {
-        try {
-            URL website = new URL(url);
-            ReadableByteChannel rbc = Channels.newChannel(website.openStream());
-            FileOutputStream fos = new FileOutputStream(location);
-            fos.getChannel().transferFrom(rbc, 0, Long.MAX_VALUE);
-        } catch (MalformedURLException ex) {
-            System.err.println("saveFromUrl: got MalformedURLException");
-        } catch (FileNotFoundException ex) {
-            System.err.println("saveFromUrl: got FileNotFoundException");
-            System.err.println(ex.getMessage());
-        } catch (IOException ex) {
-            System.err.println("saveFromUrl: got IOException");
-            System.err.println(ex.getMessage());
-        }
-    }
-
     private Document getDocument(String fileName) {
         Document dom = null;
         try {
+            //InputStream inputStream = getClass().getResourceAsStream(fileName);
+            File file = new File(getClass().getResource(fileName).toURI());
             DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
             DocumentBuilder db = dbf.newDocumentBuilder();
-            dom = db.parse(fileName);
+            dom = db.parse(file);
         } catch(ParserConfigurationException ex) {
             System.err.println(ex.getMessage());
         } catch(SAXException ex) {
             System.err.println(ex.getMessage());
         } catch(IOException ex) {
+            System.err.println(ex.getMessage());
+        } catch(URISyntaxException ex) {
             System.err.println(ex.getMessage());
         }
         return dom;
@@ -253,6 +199,10 @@ public class QuestionService {
         return getQuestions(text);
     }
 
+    public String getServerUrl() {
+        return serverUrl;
+    }
+
     public Package getTestPackage() {
         ArrayList<Theme> themeList = new ArrayList<>();
         ArrayList<Question> questionList = new ArrayList<>();
@@ -291,4 +241,5 @@ public class QuestionService {
 
         return new Package(theme.item(0).getFirstChild().getTextContent(), themeList);
     }
+
 }
