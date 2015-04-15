@@ -66,7 +66,7 @@ public class QuestionService {
     public ArrayList<Tour> getToursList(Game game) {
         ArrayList<Tour> toursList = new ArrayList<>();
 
-        String docLocation = "/questions/" + game.getTextId() + "/" + game.getTextId() + ".xml"; //System.out.println(docLocation);
+        String docLocation = "/questions/" + game.getTextId() + "/" + game.getTextId() + ".xml";
         Document toursDocument = getDocument(docLocation);
         NodeList tourNodes = toursDocument.getElementsByTagName("tour");
         for(int i = 0; i < tourNodes.getLength(); i++) {
@@ -165,7 +165,7 @@ public class QuestionService {
     }
 
     private ArrayList<String> getQuestions(String text) {
-        ArrayList<String> questions = new ArrayList<String>();
+        ArrayList<String> questions = new ArrayList<>();
 
         Pattern pattern;
         Matcher matcher;
@@ -182,7 +182,7 @@ public class QuestionService {
                 s = matcher.group();
                 questions.add(s.substring(4, s.length()));
             } else {
-                regexp = "\\s" + i + ".+\\.";
+                regexp = "\\s" + i + ".+";
                 pattern = Pattern.compile(regexp);
                 matcher = pattern.matcher(text);
                 if(!matcher.find()) {
