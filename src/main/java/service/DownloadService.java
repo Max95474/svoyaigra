@@ -17,7 +17,7 @@ import java.net.URL;
 import java.nio.channels.Channels;
 import java.nio.channels.ReadableByteChannel;
 
-class DownloadService {
+public class DownloadService {
     public static void saveTours() {
         Document doc = null;
         try {

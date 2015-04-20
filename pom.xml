@@ -24,6 +24,11 @@
       <artifactId>logback-classic</artifactId>
       <version>1.0.13</version>
     </dependency>
+    <dependency>
+      <groupId>org.apache.lucene</groupId>
+      <artifactId>lucene-core</artifactId>
+      <version>5.0.0</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>svoyaigra</finalName>

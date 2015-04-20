@@ -195,51 +195,51 @@ public class QuestionService {
         return questions;
     }
 
-    private ArrayList<String> getAnswers(String text) {
+    /*private ArrayList<String> getAnswers(String text) {
         return getQuestions(text);
-    }
+    }*/
 
     public String getServerUrl() {
         return serverUrl;
     }
 
-    public Package getTestPackage() {
-        ArrayList<Theme> themeList = new ArrayList<>();
-        ArrayList<Question> questionList = new ArrayList<>();
-        ArrayList<String> textQuestions;
-        ArrayList<String> textAnswers;
-
-        Document document = getDocument("res/packages/enot03sv.xml");
-
-        NodeList nodeList = document.getElementsByTagName("question");
-        for(int i = 0; i < nodeList.getLength(); i++) {
-            Element element = (Element)nodeList.item(i);
-
-            //Questions
-            NodeList questionNode = element.getElementsByTagName("Question");
-            String questionsText = questionNode.item(0).getFirstChild().getTextContent();
-            questionsText = questionsText.replace("\n", " ");
-            textQuestions = getQuestions(questionsText);
-
-            //Answers
-            NodeList answerNode = element.getElementsByTagName("Answer");
-            String answersText = answerNode.item(0).getFirstChild().getTextContent();
-            answersText = answersText.replace("\n", " ");
-            answersText = answersText.replace("\"", "&");
-            textAnswers = getQuestions(answersText);
-
-            for(int j = 0; j < textQuestions.size(); j++) {
-                questionList.add(new Question(textQuestions.get(j), textAnswers.get(j), (j+1)*10));
-            }
-            themeList.add(new Theme(getTheme(questionsText), questionList));
-            questionList = new ArrayList<>();
-        }
-
-        nodeList = document.getElementsByTagName("tournament");
-        Element element = (Element)nodeList.item(0);
-        NodeList theme = element.getElementsByTagName("Title");
-
-        return new Package(theme.item(0).getFirstChild().getTextContent(), themeList);
-    }
+//    public Package getTestPackage() {
+//        ArrayList<Theme> themeList = new ArrayList<>();
+//        ArrayList<Question> questionList = new ArrayList<>();
+//        ArrayList<String> textQuestions;
+//        ArrayList<String> textAnswers;
+//
+//        Document document = getDocument("res/packages/enot03sv.xml");
+//
+//        NodeList nodeList = document.getElementsByTagName("question");
+//        for(int i = 0; i < nodeList.getLength(); i++) {
+//            Element element = (Element)nodeList.item(i);
+//
+//            //Questions
+//            NodeList questionNode = element.getElementsByTagName("Question");
+//            String questionsText = questionNode.item(0).getFirstChild().getTextContent();
+//            questionsText = questionsText.replace("\n", " ");
+//            textQuestions = getQuestions(questionsText);
+//
+//            //Answers
+//            NodeList answerNode = element.getElementsByTagName("Answer");
+//            String answersText = answerNode.item(0).getFirstChild().getTextContent();
+//            answersText = answersText.replace("\n", " ");
+//            answersText = answersText.replace("\"", "&");
+//            textAnswers = getQuestions(answersText);
+//
+//            for(int j = 0; j < textQuestions.size(); j++) {
+//                questionList.add(new Question(textQuestions.get(j), textAnswers.get(j), (j+1)*10));
+//            }
+//            themeList.add(new Theme(getTheme(questionsText), questionList));
+//            questionList = new ArrayList<>();
+//        }
+//
+//        nodeList = document.getElementsByTagName("tournament");
+//        Element element = (Element)nodeList.item(0);
+//        NodeList theme = element.getElementsByTagName("Title");
+//
+//        return new Package(theme.item(0).getFirstChild().getTextContent(), themeList);
+//    }
 
 }
