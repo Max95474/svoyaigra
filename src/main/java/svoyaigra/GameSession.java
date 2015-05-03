@@ -1,19 +1,20 @@
-//package svoyaigra;
-//
-//import model.Question;
-//
-//public interface GameSession {
-//
-//    public enum TimerStatus{
-//        ALIVE, STOPPED_BY_BUTTON, STOPPED_BY_TIMER
-//    }
-//
-//    public void startGame();
-//    public int endGame();
-//    public boolean checkAnswer(String answer);
-//    public int getTime();
-//    public Question getCurrentQuestion();
-//    public String getCurrentPackage();
-//    public TimerStatus getTimerStatus();
-//    public String getCurrentTheme();
-//}
+package svoyaigra;
+
+import model.Player;
+import model.*;
+import model.Package;
+
+public interface GameSession {
+    void startGame();
+    void stopGame();
+    int getTime();
+    int getTimerType();
+    void answerTime();
+    Question getCurrentQuestion();
+    Package getPackage();
+    Theme getCurrentTheme();
+    Player getPlayer();
+    boolean checkAnswer(String answer) throws GameStoppedException;
+    String getRightAnswer();
+    int getPoints();
+}

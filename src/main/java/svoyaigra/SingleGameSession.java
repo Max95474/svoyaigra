@@ -1,16 +1,16 @@
 package svoyaigra;
 
-import logic.GameSession;
-import logic.Player;
+import model.Player;
 import model.Package;
 import model.Question;
+import model.Theme;
 
 public class SingleGameSession implements GameSession {
     private final Player player;
     private final Package pack;
     private final Timer timer;
 
-    private int totalThemes;
+    private int totalThemes; //set to 0 when out of questions
     private int currentTheme;
     private int currentQuestion;
 
@@ -60,13 +60,30 @@ public class SingleGameSession implements GameSession {
         return false;
     }
 
-    public int getCurrentTime() {
+    public String getRightAnswer() {
+        return pack.getThemes().get(currentTheme)
+                .getQuestions().get(currentQuestion).getAnswer();
+    }
+
+    public int getPoints() {
+        return player.getScore();
+    }
+
+    public int getTime() {
         return timer.getCurrentTime();
+    }
+
+    public int getTimerType() {
+        return timer.getType();
     }
 
     public Question getCurrentQuestion() {
         return pack.getThemes().get(currentTheme)
                 .getQuestions().get(currentQuestion);
+    }
+
+    public Theme getCurrentTheme() {
+        return pack.getThemes().get(currentTheme);
     }
 
     public Player getPlayer() {
@@ -86,7 +103,7 @@ public class SingleGameSession implements GameSession {
                 currentQuestion = 0;
             }
         } else {
-            totalThemes = 0; //means: no themes left
+            totalThemes = 0; //assumes no themes left
         }
     }
 }

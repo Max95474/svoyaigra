@@ -3,12 +3,14 @@ package svoyaigra;
 import java.util.*;
 
 public class Timer {
+    public static final int TYPE_STOPPED = 0;
     public static final int TYPE_THINK  = 1;
     public static final int TYPE_ANSWER = 2;
     public final int CLICK_TIME;
     public final int ANSWER_TIME;
     private java.util.Timer timer;
     private int currentTime = 0;
+    private int currentType;
 
     public Timer() {
         CLICK_TIME = 5;
@@ -21,6 +23,7 @@ public class Timer {
     }
 
     public void startTimer(int type) {
+        currentType = type;
         timer = new java.util.Timer();
         final int time;
         if(type == TYPE_THINK) time = CLICK_TIME;
@@ -41,6 +44,7 @@ public class Timer {
     }
 
     public void stopTimer() {
+        currentType = TYPE_STOPPED;
         if(timer == null) {
             currentTime = 0;
             return;
@@ -51,5 +55,9 @@ public class Timer {
 
     public int getCurrentTime() {
         return currentTime;
+    }
+
+    public int getType() {
+        return currentType;
     }
 }
