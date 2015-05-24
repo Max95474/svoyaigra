@@ -14,14 +14,18 @@ $(document).ready(function(){
 			}
 			$(this).find('ul:first').stop(true, true).slideToggle();
 		});
-		$(".theme_item").click(function() {
+		$(".package_title").click(function() {
 			$("#quest_topics").hide();
 			$("#quest_game").load("quest.html", function() {
 				$(this).fadeIn(500);
 				$("#quest_button").click(function() {
 					$("#reply_field").load("reply_field.html", function(){
 						$("#quest_button").hide();
-						$("reply_field_show").fadeIn(500);
+						$("#quest_button_reply").click(function(){
+							$("#reply_field_show").hide();
+							$("#quest_button").show();
+						});
+						
 					});
 				});
 				$("#icon_a").click(function() {
