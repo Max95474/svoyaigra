@@ -110,6 +110,12 @@ header{
 	margin:5px;
 	padding:10px;
 }
+.package_title{
+	color:white;
+	text-decoration:none;
+	font-family:SegoeUILight;
+	font-size:18px;	
+}
 .theme{
 	margin:0px;
 	padding:5px;
