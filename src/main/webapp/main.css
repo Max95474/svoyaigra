@@ -38,7 +38,7 @@ header{
 	margin-right:50px;
 	margin-left:0px;
 	display: inline-block;
-	
+
 }
 .header_menu a{
 	padding-bottom:3px;
@@ -81,7 +81,7 @@ header{
 	padding:15px;
 	color:black;
 	font-family:SegoeUILight;
-	font-size:25px;	
+	font-size:25px;
 }
 
 /* Стартовая страница КОНЕЦ */
@@ -94,8 +94,28 @@ header{
 	padding:10px;
 	color:black;
 	font-family:SegoeUILight;
-	font-size:25px;
-	
+	font-size:18px;
+	float: left;
+	padding-bottom: 0;
+}
+#package_title_field{
+	height: auto;
+	display: block;
+	overflow: hidden;
+	position: relative;
+	margin: 5px;
+}
+#random_package{
+	background-color: #34495E;
+	width: auto;
+	display: block;
+	padding: 10px;
+	float: right;
+	text-decoration: none;
+	color: white;
+	cursor: pointer;
+	font-family: SegoeUILight;
+	font-size: 15px;
 }
 #accordion{
 	color:white;
@@ -110,11 +130,12 @@ header{
 	margin:5px;
 	padding:10px;
 }
+
 .package_title{
 	color:white;
 	text-decoration:none;
 	font-family:SegoeUILight;
-	font-size:18px;	
+	font-size:18px;
 }
 .theme{
 	margin:0px;
@@ -157,7 +178,7 @@ header{
 }
 
 #avatar_field{
-	display:inline-block;   
+	display:inline-block;
     position:relative;
 }
 #player_avatar img{
@@ -174,7 +195,7 @@ header{
 	font-family:SegoeUILight;
 	display:inline-block;
     position:absolute;
-    top:0px;   
+    top:0px;
     left:0px;
 	padding:2px;
 	border-radius:50%;
@@ -348,28 +369,14 @@ header{
 #reply_field_show{
 
 }
-progress {
-    width:100%;
-	margin-top:5px;
-	border:0;
-	outline:0;
-}
-progress::-webkit-progress-bar {
 
-}
-progress::-webkit-progress-value {
-    /* style rules */
-}
-progress::-moz-progress-bar {
-    /* style rules */
-}
 #quest_reply{
 	background-color:#34495E;
 	margin:0px;
 	margin-right:0px;
 	color:white;
 	position:relative;
-	width:85%;	
+	width:85%;
 	float:left;
 	height:auto;
 	padding:10px;
