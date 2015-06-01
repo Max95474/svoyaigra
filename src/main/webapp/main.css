@@ -358,16 +358,52 @@ header{
 	font-size:22px;
 	font-family:SegoeUILight;
 }
+#quest_title .new { opacity: 0; }
+#quest_title .div_opacity {
+  -webkit-transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -ms-transition: opacity .2s ease-in-out;
+  -o-transition: opacity .2s ease-in-out;
+  transition: opacity .2s ease-in-out;
+  opacity: 1;
+}
 .reply_field{
 	width:100%;
 	background-color:#F2F1EF;
 }
 .reply_field:hover{
 }
+.progress-bar {
+	background-color: #34495E;
+	height: 25px;
+	padding: 5px;
+	width: auto;
+	margin: 5px 0;
+}
+
+.progress-bar span {
+	display: inline-block;
+	height: 100%;
+	transition: width .4s ease-in-out;
+}
+.blue span {
+  background-color: #34c2e3;
+}
+.stripes span {
+  background-size: 30px 30px;
+  background-image: linear-gradient(135deg, rgba(255, 255, 255, .15) 25%, transparent 25%,
+                      transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%,
+                      transparent 75%, transparent);
+	/*-webkit-animation: animate-stripes 3s linear infinite;*/
+}
+/*@keyframes animate-stripes {
+    0% {background-position: 0 0;} 100% {background-position: 60px 0;} Дописать анимацию
+}*/
+
 #quest_reply_field{
 }
 #reply_field_show{
-
+	position: relative;
 }
 
 #quest_reply{
@@ -466,7 +502,6 @@ footer{
 #cat{
 	width:75px;
 }
-
  @font-face {
 	font-family:SegoeUILight;
 	src: url(fonts/SegoeUI/segoeuil.ttf);
