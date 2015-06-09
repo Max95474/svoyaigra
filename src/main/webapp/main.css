@@ -2,7 +2,7 @@ html{
 }
 
 body{
-	background-color: #D2D7D3;
+	background-color: #efefef;
 	background-repeat:no-repeat;
 	background-position:right top;
 	background-attachment:fixed;
@@ -65,7 +65,7 @@ header{
 	border:5px solid #336E7B;
 	margin-left:15%;
 	margin-right:15%;
-	background-color:#F2F1EF;
+	background-color:#fff;
 }
 #quest_game{
 	display:none;
@@ -349,7 +349,7 @@ header{
 	height:auto;
 	margin-top:0;
 	padding:15px;
-	background-color:#F2F1EF;
+	background-color:#fff;
 	position:relative;
 
 }
@@ -368,37 +368,12 @@ header{
   opacity: 1;
 }
 .reply_field{
+	position: relative;
 	width:100%;
 	background-color:#F2F1EF;
 }
 .reply_field:hover{
 }
-.progress-bar {
-	background-color: #34495E;
-	height: 25px;
-	padding: 5px;
-	width: auto;
-	margin: 5px 0;
-}
-
-.progress-bar span {
-	display: inline-block;
-	height: 100%;
-	transition: width .4s ease-in-out;
-}
-.blue span {
-  background-color: #34c2e3;
-}
-.stripes span {
-  background-size: 30px 30px;
-  background-image: linear-gradient(135deg, rgba(255, 255, 255, .15) 25%, transparent 25%,
-                      transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%,
-                      transparent 75%, transparent);
-	/*-webkit-animation: animate-stripes 3s linear infinite;*/
-}
-/*@keyframes animate-stripes {
-    0% {background-position: 0 0;} 100% {background-position: 60px 0;} Дописать анимацию
-}*/
 
 #quest_reply_field{
 }
@@ -442,13 +417,12 @@ header{
 	margin:0px;
 	border:0;
 	text-align:center;
-	float:left;
 	background-color:#f1693c;
 	color:white;
 	width:15%;
 	height:auto;
 	padding:10px;
-	margin-bottom:15px;
+	margin-bottom:5px;
 	font-size:18px;
 	font-family:SegoeUILight;
 	-webkit-transition:0.5s ease-in-out;
@@ -462,6 +436,34 @@ header{
 #quest_button:hover{
 	opacity:0.7;
 }
+.progress-bar {
+	background-color: #34495E;
+	height: 25px;
+	padding: 5px;
+	width: auto;
+	margin: 5px 0;
+}
+
+.progress-bar span {
+	max-width: 100%;
+	display: inline-block;
+	height: 100%;
+	transition: width .4s ease-in-out;
+}
+.blue span {
+  background-color: #34c2e3;
+}
+.stripes span {
+  background-size: 30px 30px;
+  background-image: linear-gradient(135deg, rgba(255, 255, 255, .15) 25%, transparent 25%,
+                      transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%,
+                      transparent 75%, transparent);
+	/*-webkit-animation: animate-stripes 3s linear infinite;*/
+}
+/*@keyframes animate-stripes {
+    0% {background-position: 0 0;} 100% {background-position: 60px 0;} Дописать анимацию
+}*/
+
 #quest_button_reply{
 	cursor:pointer;
 	margin:0px;
