@@ -13,6 +13,7 @@ public class GameServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
+        //why not use getSession() (without parameter)?
         HttpSession session = req.getSession(false);
 
         if(session == null) {
@@ -21,21 +22,23 @@ public class GameServlet extends HttpServlet {
 
         String sessionId = session.getId();
 
-        String method = req.getParameter("method");
-        switch(method) {
+        String methodName = req.getParameter("method");
+        System.out.println("GET methodName = " + methodName);
+        switch(methodName) {
             case "refresh":
                 resp.getWriter().print("{\"timerstatus\":" + logic.getGameSession(sessionId).getTimerType() +
                         ", \"time\":" + logic.getGameSession(sessionId).getTime() + "}");
                 //System.out.println("Timer status = " + logic.getTimerStatus(sessionId));
                 //System.out.println("Time = " + logic.getTime(sessionId));
                 break;
+            default:
+                System.out.println("Unknown GET methodName: " + methodName);
         }
     }
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         HttpSession session = req.getSession(false);
-
         //new player
         if (session == null) {
             System.err.println("new player!");
@@ -46,8 +49,11 @@ public class GameServlet extends HttpServlet {
         resp.setCharacterEncoding("UTF-8");
         String sessionId = session.getId();
         String methodname = req.getParameter("method");
+        System.out.println("POST method = " + methodname);
 
         switch (methodname) {
+//            case "start":
+//                System.out.println("POST method = " + methodname + " name = " + req.getParameter("name"));
             case "start":
                 String name = req.getParameter("name");
                 Boolean isSingle = Boolean.valueOf(req.getParameter("issingle"));
@@ -91,7 +97,7 @@ public class GameServlet extends HttpServlet {
                 //System.out.println(x1);
                 resp.getWriter().print(x1);
             default:
-                //something else?
+                System.out.println("Unknown POST method: " + methodname);
         }
     }
 }
