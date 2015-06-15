@@ -1,11 +1,16 @@
 package svoyaigra;
 
+import model.Game;
+import model.Tour;
+import service.QuestionService;
+
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class GameServlet extends HttpServlet {
     private SvoyaIgraLogic logic = new SvoyaIgraLogic();
@@ -15,6 +20,9 @@ public class GameServlet extends HttpServlet {
             throws ServletException, IOException {
         //why not use getSession() (without parameter)?
         HttpSession session = req.getSession(false);
+
+        resp.setContentType("application/json");
+        resp.setCharacterEncoding("UTF-8");
 
         if(session == null) {
             session = req.getSession(true);
@@ -30,6 +38,20 @@ public class GameServlet extends HttpServlet {
                         ", \"time\":" + logic.getGameSession(sessionId).getTime() + "}");
                 //System.out.println("Timer status = " + logic.getTimerStatus(sessionId));
                 //System.out.println("Time = " + logic.getTime(sessionId));
+                break;
+            case "packages":
+                System.out.println("in packages-list");
+                QuestionService qs = QuestionService.getInstance();
+                Game game = qs.getGamesList().get(qs.getGamesList().size() - 1);
+                ArrayList<Tour> tourList = qs.getToursList(game);
+                String response = "{\"packages\": [";
+                for(int i = 0; i < tourList.size(); i++) {
+                    response += "\"" + tourList.get(i).getTitle().replaceAll("\"", "") + "\"";
+                    if(i != tourList.size() - 1) response += ",";
+                }
+                response += "]}";
+                System.out.println(response);
+                resp.getWriter().print(response);
                 break;
             default:
                 System.out.println("Unknown GET methodName: " + methodName);

@@ -5,6 +5,7 @@ $(document).ready(function(){
 			event.stopPropagation();
 		})
 		.hide();
+		themesList();
 		$('#accordion > li, #accordion > li > ul > li').click(function(){
 			var selfClick = $(this).find('ul:first').is(':visible');
 			if(!selfClick) {
@@ -15,7 +16,6 @@ $(document).ready(function(){
 			}
 			$(this).find('ul:first').stop(true, true).slideToggle();
 		});
-
 		$(".package_title").click(function() {
 			$("#quest_topics").hide();
 			$("#quest_game").load("quest.html", function() {
@@ -68,4 +68,31 @@ function animateUpdate() {
     if(perc < 100) {
         timer = setTimeout(animateUpdate, updatetime);
     }
+}
+
+function themesList() {
+	$.ajax({
+		url: "svoyak",
+		data: {
+			method: "packages"
+		},
+		type: "GET",
+		dataType: "json",
+		success: function(json) {
+			//console.log(JSON.stringify(json));
+			for(var pack in json.packages) {
+				$('#accordion').append('<li class="package"><a href="#" class="package_title">' + json.packages[pack] + '</a></li>');
+			}
+		},
+		error: function( xhr, status, errorThrown ) {
+			console.log( "Sorry, there was a problem!" );
+			console.log( "Error: " + errorThrown );
+			console.log( "Status: " + status );
+			console.dir( xhr );
+		},
+		complete: function( xhr, status ) {
+			console.log("Status: " + status);
+		}
+
+	});
 }
