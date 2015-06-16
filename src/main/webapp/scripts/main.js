@@ -20,9 +20,7 @@ $(document).ready(function(){
 			$("#quest_topics").hide();
 			$("#quest_game").load("quest.html", function() {
 				$(this).fadeIn(500);
-				clearTimeout(timer);//progress-bar
-				perc = 0;
-				animateUpdate();
+				updateProgressbar(40);//progress-bar
 					 $.fn.animate_Text = function() {
 					  var string = this.text();
 					  return this.each(function(){
@@ -54,20 +52,11 @@ $(document).ready(function(){
 	});
 });
 
-var timer = 0;
-var perc = 0;
-
-function updateProgress(percentage) {
-    $('.progress-bar').find('span').css("width", percentage + "%");
-}
-
-function animateUpdate() {
-		var updatetime = 100; //1% = 100
-    perc++;
-    updateProgress(perc);
-    if(perc < 100) {
-        timer = setTimeout(animateUpdate, updatetime);
-    }
+function updateProgressbar(progressBarWidth) {
+	$(".progress-bar").find('span').animate({ width: progressBarWidth + "%" });
+	// if(progressBarWidth > 25){
+	// 	$(".progress-bar span").animate({background: "green"}, 500);
+	// }
 }
 
 function themesList() {

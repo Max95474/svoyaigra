@@ -327,12 +327,19 @@ header{
 #back_icon:hover{
 	background-color:#899AAD;
 }
-#back_quest_title{
+#quest_theme{
+	margin: 0;
+	font-family:SegoeUILight;
+	font-size: 20px;
+	color: white;
+}
+#quest_package_title{
 	float:left;
 	margin:0;
 	padding:10px;
 	font-size:18px;
 	line-height:30px;
+	font-weight: 400;
 }
 #quest_score{
 	background:#6C7A89;
@@ -342,6 +349,7 @@ header{
 	font-size: 18px;
 	line-height: 30px;
 	font-family:SegoeUILight;
+	font-weight: 300;
 }
 .quest{
 	border-radius:0px;
@@ -449,20 +457,22 @@ header{
 	display: inline-block;
 	height: 100%;
 	transition: width .4s ease-in-out;
+	background: #019875;
 }
 .blue span {
-  background-color: #34c2e3;
+	-webkit-animation: stripes 2s linear infinite;
 }
 .stripes span {
   background-size: 30px 30px;
   background-image: linear-gradient(135deg, rgba(255, 255, 255, .15) 25%, transparent 25%,
                       transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%,
                       transparent 75%, transparent);
-	/*-webkit-animation: animate-stripes 3s linear infinite;*/
+
 }
-/*@keyframes animate-stripes {
-    0% {background-position: 0 0;} 100% {background-position: 60px 0;} Дописать анимацию
-}*/
+@keyframes stripes {
+    0% {background-position: 0 0;}
+	 	100% {background-position: 60px 0;}
+}
 
 #quest_button_reply{
 	cursor:pointer;
