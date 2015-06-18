@@ -69,6 +69,7 @@ public class QuestionService {
         String docLocation = "/questions/" + game.getTextId() + "/" + game.getTextId() + ".xml";
         Document toursDocument = getDocument(docLocation);
         NodeList tourNodes = toursDocument.getElementsByTagName("tour");
+
         for(int i = 0; i < tourNodes.getLength(); i++) {
             Element element = (Element)tourNodes.item(i);
 
@@ -79,14 +80,21 @@ public class QuestionService {
             NodeList createdAtNode = element.getElementsByTagName("CreatedAt");
             NodeList questionsNumNode = element.getElementsByTagName("QuestionsNum");
 
-            toursList.add(new Tour(
-                    titleNode.item(0).getFirstChild().getTextContent(),
-                    idNode.item(0).getFirstChild().getTextContent(),
-                    textIdNode.item(0).getFirstChild().getTextContent(),
-                    lastUpdatedNode.item(0).getFirstChild().getTextContent(),
-                    createdAtNode.item(0).getFirstChild().getTextContent(),
-                    Integer.parseInt(questionsNumNode.item(0).getFirstChild().getTextContent())
-            ));
+            //===================Workaround============================
+            String documentLocation = "/questions/" + game.getTextId() + "/packages/" + textIdNode.item(0)
+                    .getFirstChild().getTextContent() + ".xml";
+            Document document = getDocument(documentLocation);
+            //=========================================================
+            if(document.getElementsByTagName("question").getLength() != 0) {
+                toursList.add(new Tour(
+                        titleNode.item(0).getFirstChild().getTextContent(),
+                        idNode.item(0).getFirstChild().getTextContent(),
+                        textIdNode.item(0).getFirstChild().getTextContent(),
+                        lastUpdatedNode.item(0).getFirstChild().getTextContent(),
+                        createdAtNode.item(0).getFirstChild().getTextContent(),
+                        Integer.parseInt(questionsNumNode.item(0).getFirstChild().getTextContent())
+                ));
+            }
         }
 
         return toursList;
@@ -99,9 +107,7 @@ public class QuestionService {
         ArrayList<String> textAnswers;
 
         String documentLocation = "/questions/" + game.getTextId() + "/packages/" + tour.getTextId() + ".xml";
-        //System.out.println(documentLocation);
         Document document = getDocument(documentLocation);
-
         NodeList nodeList = document.getElementsByTagName("question");
         for(int i = 0; i < nodeList.getLength(); i++) {
             Element element = (Element)nodeList.item(i);

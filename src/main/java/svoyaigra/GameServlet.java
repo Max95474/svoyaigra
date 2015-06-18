@@ -14,11 +14,12 @@ import java.util.ArrayList;
 
 public class GameServlet extends HttpServlet {
     private SvoyaIgraLogic logic = new SvoyaIgraLogic();
+    private final QuestionService qs = QuestionService.getInstance();
+    private final Game game = qs.getGamesList().get(qs.getGamesList().size() - 1);
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
-        //why not use getSession() (without parameter)?
         HttpSession session = req.getSession(false);
 
         resp.setContentType("application/json");
@@ -40,17 +41,14 @@ public class GameServlet extends HttpServlet {
                 //System.out.println("Time = " + logic.getTime(sessionId));
                 break;
             case "packages":
-                System.out.println("in packages-list");
-                QuestionService qs = QuestionService.getInstance();
-                Game game = qs.getGamesList().get(qs.getGamesList().size() - 1);
                 ArrayList<Tour> tourList = qs.getToursList(game);
+                System.out.println("tourList size = " + tourList.size());
                 String response = "{\"packages\": [";
                 for(int i = 0; i < tourList.size(); i++) {
                     response += "\"" + tourList.get(i).getTitle().replaceAll("\"", "") + "\"";
                     if(i != tourList.size() - 1) response += ",";
                 }
                 response += "]}";
-                System.out.println(response);
                 resp.getWriter().print(response);
                 break;
             default:
@@ -77,14 +75,18 @@ public class GameServlet extends HttpServlet {
 //            case "start":
 //                System.out.println("POST method = " + methodname + " name = " + req.getParameter("name"));
             case "start":
+                System.out.println("logic = " + logic);
                 String name = req.getParameter("name");
-                Boolean isSingle = Boolean.valueOf(req.getParameter("issingle"));
-                logic.addPlayer(sessionId, name, SvoyaIgraLogic.SINGLE, 0/*package number*/);
-                String x = "{ \"package\":\""+ logic.getGameSession(sessionId).getPackage()
-                        +"\",\"theme\":\"" + logic.getGameSession(sessionId).getCurrentTheme() + "\"," +
-                        "\"question\":\"" + logic.getGameSession(sessionId).getCurrentQuestion() + "\", \"points\": " +
-                        logic.getGameSession(sessionId).getPoints() + "}";
-                //System.out.println(x);
+//                Boolean isSingle = Boolean.valueOf(req.getParameter("issingle"));
+                int packIdx = Integer.parseInt(req.getParameter("packageIndex"));
+                System.out.println("packIdx = " + packIdx);
+                logic.addPlayer(sessionId, name, SvoyaIgraLogic.SINGLE, packIdx/*package number*/);
+                System.out.println(logic.getGameSession(sessionId).getPackage().getName());
+                String x = "{ \"package\":\""+ logic.getGameSession(sessionId).getPackage().getName().replaceAll("\"", "")
+                        +"\",\"theme\":\"" + logic.getGameSession(sessionId).getCurrentTheme().getThemeTitle().replaceAll("\"", "") + "\"," +
+                        "\"question\":\"" + logic.getGameSession(sessionId).getCurrentQuestion().getQuestion().replaceAll("\"", "") +
+                        "\", \"points\": " + logic.getGameSession(sessionId).getPoints() + "}";
+                System.out.println("response: " + x);
                 resp.getWriter().print(x);
                 break;
             case "end":

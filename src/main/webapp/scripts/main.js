@@ -16,11 +16,15 @@ $(document).ready(function(){
 			}
 			$(this).find('ul:first').stop(true, true).slideToggle();
 		});
-		$(".package_title").click(function() {
+		$('body').on('click', '.package_title', function() {
+			console.log($(this).attr('id'));
+			startGame($(this).attr('id'));
 			$("#quest_topics").hide();
 			$("#quest_game").load("quest.html", function() {
 				$(this).fadeIn(500);
-				updateProgressbar(40);//progress-bar
+				clearTimeout(timer);//progress-bar
+				perc = 0;
+				animateUpdate();
 					 $.fn.animate_Text = function() {
 					  var string = this.text();
 					  return this.each(function(){
@@ -52,11 +56,20 @@ $(document).ready(function(){
 	});
 });
 
-function updateProgressbar(progressBarWidth) {
-	$(".progress-bar").find('span').animate({ width: progressBarWidth + "%" });
-	// if(progressBarWidth > 25){
-	// 	$(".progress-bar span").animate({background: "green"}, 500);
-	// }
+var timer = 0;
+var perc = 0;
+
+function updateProgress(percentage) {
+    $('.progress-bar').find('span').css("width", percentage + "%");
+}
+
+function animateUpdate() {
+		var updatetime = 100; //1% = 100
+    perc++;
+    updateProgress(perc);
+    if(perc < 100) {
+        timer = setTimeout(animateUpdate, updatetime);
+    }
 }
 
 function themesList() {
@@ -68,9 +81,8 @@ function themesList() {
 		type: "GET",
 		dataType: "json",
 		success: function(json) {
-			//console.log(JSON.stringify(json));
 			for(var pack in json.packages) {
-				$('#accordion').append('<li class="package"><a href="#" class="package_title">' + json.packages[pack] + '</a></li>');
+				$('#accordion').append('<li class="package"><a id="' + pack + '" class="package_title">' + json.packages[pack] + '</a></li>');
 			}
 		},
 		error: function( xhr, status, errorThrown ) {
@@ -83,5 +95,37 @@ function themesList() {
 			console.log("Status: " + status);
 		}
 
+	});
+}
+
+function startGame(packId) {
+	$.ajax({
+		url: "svoyak",
+
+		data: {
+			method: "start",
+			name: "player",
+			packageIndex: packId
+		},
+
+		type: "POST",
+		dataType: "json",
+		success: function( json ) {
+			console.log(json);
+			//package = json.package;
+			//theme = json.theme;
+			//question = json.question;
+			//points = json.points;
+			//setNewQuestionInfo();
+		},
+		error: function( xhr, status, errorThrown ) {
+			console.log( "Sorry, there was a problem! START METHOD" );
+			console.log( "Error: " + errorThrown );
+			console.log( "Status: " + status );
+			console.dir( xhr );
+		},
+		complete: function( xhr, status ) {
+			console.log( "Game started" );
+		}
 	});
 }

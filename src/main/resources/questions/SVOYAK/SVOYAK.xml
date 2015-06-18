@@ -42,7 +42,7 @@
 <KandId/>
 <CreatedAt>2004-02-15</CreatedAt>
 </tour>
-<tour>
+<!--<tour>
 <Id>3038</Id>
 <ParentId>2988</ParentId>
 <Title>Тематическая &quot;своя игра&quot;</Title>
@@ -85,7 +85,7 @@
 <PlayedAt2/>
 <KandId/>
 <CreatedAt>2004-12-19</CreatedAt>
-</tour>
+</tour>-->
 <tour>
 <Id>3005</Id>
 <ParentId>2988</ParentId>
