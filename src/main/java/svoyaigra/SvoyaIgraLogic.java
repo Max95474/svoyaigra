@@ -33,6 +33,7 @@ public class SvoyaIgraLogic {
             }
             GameSession gs = new SingleGameSession(player, questionService.getPackage(game, tour));
             gamesMap.put(sessionId, gs);
+            gs.startGame();
         } else if (MULTIPLAYER == type){
             if(playerCount < 2) {
                 playerQueue.add(new Player(playerName));

@@ -4,8 +4,8 @@ import java.util.*;
 
 public class Timer {
     public static final int TYPE_STOPPED = 0;
-    public static final int TYPE_THINK  = 1;
-    public static final int TYPE_ANSWER = 2;
+    public static final int TYPE_THINK   = 1;
+    public static final int TYPE_ANSWER  = 2;
     public final int CLICK_TIME;
     public final int ANSWER_TIME;
     private java.util.Timer timer;
@@ -38,6 +38,7 @@ public class Timer {
                 } else {
                     timer.cancel();
                     currentTime = 1;
+                    currentType = TYPE_STOPPED;
                 }
             }
         }, 1000, 1000);

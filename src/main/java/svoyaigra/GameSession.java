@@ -17,4 +17,5 @@ public interface GameSession {
     boolean checkAnswer(String answer) throws GameStoppedException;
     String getRightAnswer();
     int getPoints();
+    void switchQuestion();
 }

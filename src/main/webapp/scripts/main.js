@@ -17,14 +17,13 @@ $(document).ready(function(){
 			$(this).find('ul:first').stop(true, true).slideToggle();
 		});
 		$('body').on('click', '.package_title', function() {
-			console.log($(this).attr('id'));
-			startGame($(this).attr('id'));
+			var packId = $(this).attr('id');
 			$("#quest_topics").hide();
 			$("#quest_game").load("quest.html", function() {
 				$(this).fadeIn(500);
 				clearTimeout(timer);//progress-bar
 				perc = 0;
-				animateUpdate();
+				//animateUpdate();
 					 $.fn.animate_Text = function() {
 					  var string = this.text();
 					  return this.each(function(){
@@ -37,6 +36,8 @@ $(document).ready(function(){
 					 };
 					$('#quest_title').show();
 					$('#quest_title').animate_Text();
+
+				startGame(packId);
 
 				$("#quest_button").click(function() {
 					$("#reply_field").load("reply_field.html", function(){
@@ -64,7 +65,7 @@ function updateProgress(percentage) {
 }
 
 function animateUpdate() {
-		var updatetime = 100; //1% = 100
+	var updatetime = 100; //1% = 100
     perc++;
     updateProgress(perc);
     if(perc < 100) {
@@ -99,6 +100,9 @@ function themesList() {
 }
 
 function startGame(packId) {
+	var themeCount = 0;
+	var questionCount = 0;
+
 	$.ajax({
 		url: "svoyak",
 
@@ -110,22 +114,93 @@ function startGame(packId) {
 
 		type: "POST",
 		dataType: "json",
-		success: function( json ) {
-			console.log(json);
-			//package = json.package;
-			//theme = json.theme;
-			//question = json.question;
-			//points = json.points;
-			//setNewQuestionInfo();
+		success: function(json) {
+			themeCount++;
+			questionCount++;
+			console.log('Package: ' + json.package);
+			$('#quest_package_title').text(json.package);
+			$('#quest_theme').text(themeCount + '. ' + json.theme);
+			$('#quest_title').text(questionCount + '. ' + json.question);
+			$('#quest_cost').text(json.points);
+			$('#quest_score').text('0');
+			console.log('points = ' + json.points);
 		},
-		error: function( xhr, status, errorThrown ) {
-			console.log( "Sorry, there was a problem! START METHOD" );
-			console.log( "Error: " + errorThrown );
-			console.log( "Status: " + status );
-			console.dir( xhr );
+		error: function(xhr, status, errorThrown) {
+			console.log("Sorry, there was a problem! START METHOD");
+			console.log("Error: " + errorThrown);
+			console.log("Status: " + status);
+			console.dir(xhr);
 		},
-		complete: function( xhr, status ) {
+		complete: function(xhr, status) {
 			console.log( "Game started" );
 		}
 	});
+
+	setInterval(function(){
+		$.ajax({
+			url: "svoyak",
+			data: {
+				method: "refresh"
+			},
+			type: "GET",
+			dataType: "json",
+			success: function(json) {
+				/*
+				 * TYPE_STOPPED = 0
+				 * TYPE_THINK   = 1
+				 * TYPE_ANSWER  = 2
+				 */
+				console.log('timerstatus = ' + json.timerstatus);
+				switch (json.timerstatus) {
+					case 1:
+						console.log(json.time);
+						updateProgress((json.time * 100) / 5);
+						break;
+					case 0:
+						updateProgress(0);
+						$.ajax({
+							url: "svoyak",
+							data: {
+								method: "question"
+							},
+							type: "POST",
+							dataType: "json",
+							success: function(json) {
+								console.log('questionCount = ' + questionCount);
+								console.log('themeCount = ' + themeCount);
+								if(questionCount == 5) {
+									questionCount = 1;
+									themeCount++;
+								} else {
+									questionCount++;
+								}
+
+								$('#quest_theme').text(themeCount + '. ' + json.theme);
+								$('#quest_title').text(questionCount + '. ' + json.question);
+								$('#quest_cost').text(json.points);
+								$('#quest_score').text(json.points);
+								console.log('points = ' + json.points);
+							},
+							error: function(xhr, status, errorThrown) {
+								console.log("Sorry, there was a problem!");
+								console.log("Error: " + errorThrown);
+								console.log("Status: " + status);
+								console.dir(xhr );
+							}
+						});
+						break;
+				}
+
+			},
+			error: function( xhr, status, errorThrown ) {
+				console.log( "Sorry, there was a problem!" );
+				console.log( "Error: " + errorThrown );
+				console.log( "Status: " + status );
+				console.dir( xhr );
+			},
+			complete: function( xhr, status) {
+
+			}
+		})
+	}, 500);
 }

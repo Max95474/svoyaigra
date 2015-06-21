@@ -32,13 +32,11 @@ public class GameServlet extends HttpServlet {
         String sessionId = session.getId();
 
         String methodName = req.getParameter("method");
-        System.out.println("GET methodName = " + methodName);
+        //System.out.println("GET methodName = " + methodName);
         switch(methodName) {
             case "refresh":
                 resp.getWriter().print("{\"timerstatus\":" + logic.getGameSession(sessionId).getTimerType() +
                         ", \"time\":" + logic.getGameSession(sessionId).getTime() + "}");
-                //System.out.println("Timer status = " + logic.getTimerStatus(sessionId));
-                //System.out.println("Time = " + logic.getTime(sessionId));
                 break;
             case "packages":
                 ArrayList<Tour> tourList = qs.getToursList(game);
@@ -79,13 +77,11 @@ public class GameServlet extends HttpServlet {
                 String name = req.getParameter("name");
 //                Boolean isSingle = Boolean.valueOf(req.getParameter("issingle"));
                 int packIdx = Integer.parseInt(req.getParameter("packageIndex"));
-                System.out.println("packIdx = " + packIdx);
                 logic.addPlayer(sessionId, name, SvoyaIgraLogic.SINGLE, packIdx/*package number*/);
-                System.out.println(logic.getGameSession(sessionId).getPackage().getName());
                 String x = "{ \"package\":\""+ logic.getGameSession(sessionId).getPackage().getName().replaceAll("\"", "")
                         +"\",\"theme\":\"" + logic.getGameSession(sessionId).getCurrentTheme().getThemeTitle().replaceAll("\"", "") + "\"," +
                         "\"question\":\"" + logic.getGameSession(sessionId).getCurrentQuestion().getQuestion().replaceAll("\"", "") +
-                        "\", \"points\": " + logic.getGameSession(sessionId).getPoints() + "}";
+                        "\", \"points\": " + logic.getGameSession(sessionId).getCurrentQuestion().getPoints() + "}";
                 System.out.println("response: " + x);
                 resp.getWriter().print(x);
                 break;
@@ -114,10 +110,11 @@ public class GameServlet extends HttpServlet {
                 logic.getGameSession(sessionId).answerTime();
                 break;
             case "question":
-                String x1 = "{\"package\":\""+ logic.getGameSession(sessionId).getPackage().getName()
-                        +"\",\"theme\":\"" + logic.getGameSession(sessionId).getCurrentTheme() + "\"," +
-                        "\"question\":\"" + logic.getGameSession(sessionId).getCurrentQuestion() +
-                        "\", \"points\": " + logic.getGameSession(sessionId).getPoints() + "}";
+                logic.getGameSession(sessionId).switchQuestion();
+                String x1 = "{\"package\":\""+ logic.getGameSession(sessionId).getPackage().getName().replaceAll("\"", "")
+                        +"\",\"theme\":\"" + logic.getGameSession(sessionId).getCurrentTheme().getThemeTitle().replaceAll("\"", "") + "\"," +
+                        "\"question\":\"" + logic.getGameSession(sessionId).getCurrentQuestion().getQuestion().replaceAll("\"", "") +
+                        "\", \"points\": " + logic.getGameSession(sessionId).getCurrentQuestion().getPoints() + "}";
                 //System.out.println(x1);
                 resp.getWriter().print(x1);
             default:

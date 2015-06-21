@@ -70,6 +70,9 @@ public class SingleGameSession implements GameSession {
     }
 
     public int getTime() {
+        if(timer.getCurrentTime() >= 5) {
+            return 5;
+        }
         return timer.getCurrentTime();
     }
 
@@ -94,7 +97,7 @@ public class SingleGameSession implements GameSession {
         return pack;
     }
 
-    private void switchQuestion() {
+    public void switchQuestion() {
         if(currentTheme < totalThemes) {
             if(currentQuestion < 4) {
                 currentQuestion++;
@@ -105,5 +108,6 @@ public class SingleGameSession implements GameSession {
         } else {
             totalThemes = 0; //assumes no themes left
         }
+        timer.startTimer(Timer.TYPE_THINK);
     }
 }
