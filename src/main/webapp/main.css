@@ -294,7 +294,6 @@ header{
 	width:100%;
 	margin:auto;
 	float:left;
-	margin-bottom:1000px;
 }
 .back_quest{
 	color:white;
@@ -499,20 +498,6 @@ header{
 	font-size:18px;
 	color:#696969;
 	font-family:SegoeUILight;
-}
-footer{
-	overflow:hidden;
-	font-family:SegoeUILight;
-	margin:0;
-	height:auto;
-	background: #00796B;
-	color:white;
-	padding:0px;
-	text-align:center;
-}
-
-#cat{
-	width:75px;
 }
  @font-face {
 	font-family:SegoeUILight;

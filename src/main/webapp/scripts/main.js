@@ -23,19 +23,8 @@ $(document).ready(function(){
 				$(this).fadeIn(500);
 				clearTimeout(timer);//progress-bar
 				perc = 0;
-				//animateUpdate();
-					 $.fn.animate_Text = function() {
-					  var string = this.text();
-					  return this.each(function(){
-					   var $this = $(this);
-					   $this.html(string.replace(/./g, '<span class="new">$&</span>'));
-					   $this.find('span.new').each(function(i, el){
-					    setTimeout(function(){ $(el).addClass('div_opacity'); }, 30 * i);
-					   });
-					  });
-					 };
-					$('#quest_title').show();
-					$('#quest_title').animate_Text();
+				questAnimate();// quest animation
+
 
 				startGame(packId);
 
@@ -59,7 +48,20 @@ $(document).ready(function(){
 
 var timer = 0;
 var perc = 0;
-
+function questAnimate(){
+	$.fn.animate_Text = function() {
+	var string = this.text();
+	return this.each(function(){
+		var $this = $(this);
+		$this.html(string.replace(/./g, '<span class="new">$&</span>'));
+		$this.find('span.new').each(function(i, el){
+		setTimeout(function(){ $(el).addClass('div_opacity'); }, 30 * i);
+		});
+	});
+	};
+	$('#quest_title').show();
+	$('#quest_title').animate_Text();
+};
 function updateProgress(percentage) {
     $('.progress-bar').find('span').css("width", percentage + "%");
 }
